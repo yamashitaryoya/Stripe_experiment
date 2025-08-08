@@ -1,0 +1,4 @@
+﻿participant_id,time,period,duty,angle,font_size,text,response_text
+siro,5387,4.0,0.3,75.0,24.0,READABLE,READABLR
+siro,5175,5.0,0.5,90.0,24.0,CHALLENGE,CHALLENGE
+siro,2710,3.0,0.2,30.0,24.0,DIFFICULT,DIFFI
