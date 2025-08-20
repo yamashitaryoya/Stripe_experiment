@@ -1,0 +1,155 @@
+scale_factor,line_orientation,line_angle,original_ocr_text,original_accuracy,processed_ocr_text,processed_accuracy,line_period,duty_cycle
+0.5,d,165,,0.0,,0.0,2,0.05
+0.5,d,165,,0.0,,0.0,2,0.1
+0.5,d,165,,0.0,,0.0,2,0.15
+0.5,d,165,,0.0,,0.0,2,0.2
+0.5,d,165,,0.0,,0.0,2,0.25
+0.5,d,165,,0.0,,0.0,2,0.3
+0.5,d,165,,0.0,,0.0,2,0.35
+0.5,d,165,,0.0,,0.0,2,0.4
+0.5,d,165,,0.0,,0.0,2,0.45
+0.5,d,165,,0.0,,0.0,2,0.5
+0.5,d,165,,0.0,,0.0,2,0.55
+0.5,d,165,,0.0,,0.0,2,0.6
+0.5,d,165,,0.0,,0.0,2,0.65
+0.5,d,165,,0.0,,0.0,2,0.7
+0.5,d,165,,0.0,,0.0,4,0.05
+0.5,d,165,,0.0,,0.0,4,0.1
+0.5,d,165,,0.0,,0.0,4,0.15
+0.5,d,165,,0.0,,0.0,4,0.2
+0.5,d,165,,0.0,,0.0,4,0.25
+0.5,d,165,,0.0,,0.0,4,0.3
+0.5,d,165,,0.0,,0.0,4,0.35
+0.5,d,165,,0.0,,0.0,4,0.4
+0.5,d,165,,0.0,,0.0,4,0.45
+0.5,d,165,,0.0,,0.0,4,0.5
+0.5,d,165,,0.0,,0.0,4,0.55
+0.5,d,165,,0.0,,0.0,4,0.6
+0.5,d,165,,0.0,,0.0,4,0.65
+0.5,d,165,,0.0,,0.0,4,0.7
+0.5,d,165,,0.0,,0.0,6,0.05
+0.5,d,165,,0.0,,0.0,6,0.1
+0.5,d,165,,0.0,,0.0,6,0.15
+0.5,d,165,,0.0,,0.0,6,0.2
+0.5,d,165,,0.0,,0.0,6,0.25
+0.5,d,165,,0.0,,0.0,6,0.3
+0.5,d,165,,0.0,,0.0,6,0.35
+0.5,d,165,,0.0,,0.0,6,0.4
+0.5,d,165,,0.0,,0.0,6,0.45
+0.5,d,165,,0.0,,0.0,6,0.5
+0.5,d,165,,0.0,,0.0,6,0.55
+0.5,d,165,,0.0,,0.0,6,0.6
+0.5,d,165,,0.0,,0.0,6,0.65
+0.5,d,165,,0.0,,0.0,6,0.7
+0.5,d,165,parstuvuniy2 ABCDERGHIIKL MNOPORSTUWXYZ 012545676u,0.5625,,0.0,8,0.05
+0.5,d,165,parstuvuniy2 ABCDERGHIIKL MNOPORSTUWXYZ 012545676u,0.5625,,0.0,8,0.1
+0.5,d,165,parstuvuniy2 ABCDERGHIIKL MNOPORSTUWXYZ 012545676u,0.5625,,0.0,8,0.15
+0.5,d,165,parstuvuniy2 ABCDERGHIIKL MNOPORSTUWXYZ 012545676u,0.5625,,0.0,8,0.2
+0.5,d,165,Abedotghijkimnaparstuvn KLMNOPORSTUMMIKTZO:,0.40625,,0.0,8,0.25
+0.5,d,165,Abedotghijkimnaparstuvn KLMNOPORSTUMMIKTZO:,0.40625,,0.0,8,0.3
+0.5,d,165,Abedotghijkimnaparstuvn KLMNOPORSTUMMIKTZO:,0.40625,,0.0,8,0.35
+0.5,d,165,eclerahkimeyarstavony Ais DERGHICNLMNOFORETUVWXYZ NM ISARETEy,0.4375,,0.0,8,0.4
+0.5,d,165,eclerahkimeyarstavony Ais DERGHICNLMNOFORETUVWXYZ NM ISARETEy,0.4375,,0.0,8,0.45
+0.5,d,165,,0.0,AA,0.015625,8,0.5
+0.5,d,165,,0.0,AA,0.015625,8,0.55
+0.5,d,165,,0.0,AA,0.015625,8,0.6
+0.5,d,165,,0.0,AA,0.015625,8,0.65
+0.5,d,165,,0.0,AA,0.015625,8,0.7
+0.5,d,165,abestefghiikimnoparstuwny2 ARCDEFGHIUKLMINORORSTUWWAXY7 0128486789,0.703125,,0.0,10,0.05
+0.5,d,165,abestefghiikimnoparstuwny2 ARCDEFGHIUKLMINORORSTUWWAXY7 0128486789,0.703125,,0.0,10,0.1
+0.5,d,165,abestefghiikimnoparstuwny2 ARCDEFGHIUKLMINORORSTUWWAXY7 0128486789,0.703125,,0.0,10,0.15
+0.5,d,165,atedlefahiikimmoparstivw KLMINOPORSTUWWXVZ 0123),0.5,,0.0,10,0.2
+0.5,d,165,atedlefahiikimmoparstivw KLMINOPORSTUWWXVZ 0123),0.5,,0.0,10,0.25
+0.5,d,165,"sbeasfahikimpopast
+
+ 
+
+ra ARCDEFGHICNRINOPORSTINWAV7 0 125aR676u",0.46875,eee,0.015625,10,0.3
+0.5,d,165,"sbeasfahikimpopast
+
+ 
+
+ra ARCDEFGHICNRINOPORSTINWAV7 0 125aR676u",0.46875,eee,0.015625,10,0.35
+0.5,d,165,,0.0,"ss
+
+aA",0.03125,10,0.4
+0.5,d,165,,0.0,"ss
+
+aA",0.03125,10,0.45
+0.5,d,165,,0.0,ZZ,0.015625,10,0.5
+0.5,d,165,,0.0,ZZ,0.015625,10,0.55
+0.5,d,165,"eee
+ELE SILANE SAAT IT",0.109375,SZE&BZZE-,0.03125,10,0.6
+0.5,d,165,"eee
+ELE SILANE SAAT IT",0.109375,SZE&BZZE-,0.03125,10,0.65
+0.5,d,165,,0.0,,0.0,10,0.7
+0.5,d,165,"aberlafghiikimnoqeystuway2 ABCDEFGHIIKL
+
+ 
+
+OPORSTUVWHKY20 123456769",0.609375,,0.0,12,0.05
+0.5,d,165,"aberlafghiikimnoqeystuway2 ABCDEFGHIIKL
+
+ 
+
+OPORSTUVWHKY20 123456769",0.609375,,0.0,12,0.1
+0.5,d,165,"aberlafghiikimnoqeystuway2 ABCDEFGHIIKL
+
+ 
+
+OPORSTUVWHKY20 123456769",0.609375,,0.0,12,0.15
+0.5,d,165,"NOPORSTUVWEY2 012945
+
+ 
+
+aberletghikimnostuve",0.015625,,0.0,12,0.2
+0.5,d,165,abertetginikimneqaistuvay ABCDEFGHI,0.328125,SLA,0.015625,12,0.25
+0.5,d,165,abertetginikimneqaistuvay ABCDEFGHI,0.328125,SLA,0.015625,12,0.3
+0.5,d,165,"Aberotyiikimnejattineye ABCOERGF IML
+
+ 
+
+neva s TU8AROTE",0.234375,EGO’.,0.046875,12,0.35
+0.5,d,165,"Aberotyiikimnejattineye ABCOERGF IML
+
+ 
+
+neva s TU8AROTE",0.234375,EGO’.,0.046875,12,0.4
+0.5,d,165,,0.0,=,0.0,12,0.45
+0.5,d,165,,0.0,=,0.0,12,0.5
+0.5,d,165,,0.0,=,0.0,12,0.55
+0.5,d,165,,0.0,,0.0,12,0.6
+0.5,d,165,,0.0,,0.0,12,0.65
+0.5,d,165,,0.0,,0.0,12,0.7
+0.5,d,165,abeceighijklmroparstuwny ABCDEPGHIIKLMNOFORSTUIVWXYZ 0173468789,0.75,,0.0,14,0.05
+0.5,d,165,abeceighijklmroparstuwny ABCDEPGHIIKLMNOFORSTUIVWXYZ 0173468789,0.75,,0.0,14,0.1
+0.5,d,165,belo ighitkimnopaistu way ABCDEPGHIIKLMNOPORSTIIVWXYZ 0123486789,0.703125,,0.0,14,0.15
+0.5,d,165,belo ighitkimnopaistu way ABCDEPGHIIKLMNOPORSTIIVWXYZ 0123486789,0.703125,,0.0,14,0.2
+0.5,d,165,boss hiiklmnopistu wy ABCDEPGHIIKL MNOPORSTINWKYZ 0122456789,0.6875,SSE,0.015625,14,0.25
+0.5,d,165,"serge arstineay? ABODPS TIRE MN
+¥20122 36788",0.296875,=,0.0,14,0.3
+0.5,d,165,"serge arstineay? ABODPS TIRE MN
+¥20122 36788",0.296875,=,0.0,14,0.35
+0.5,d,165,,0.0,x,0.015625,14,0.4
+0.5,d,165,,0.0,—,0.0,14,0.45
+0.5,d,165,,0.0,==,0.0,14,0.5
+0.5,d,165,,0.0,==,0.0,14,0.55
+0.5,d,165,,0.0,=z,0.015625,14,0.6
+0.5,d,165,,0.0,ZEEE,0.015625,14,0.65
+0.5,d,165,,0.0,ZEEE,0.015625,14,0.7
+0.5,d,165,osefghi|klmnojqistuvwngy2 ABCDEFGHIKLMINOPORSTUVWXYZ 0125456789,0.78125,,0.0,16,0.05
+0.5,d,165,osefghi|klmnojqistuvwngy2 ABCDEFGHIKLMINOPORSTUVWXYZ 0125456789,0.78125,,0.0,16,0.1
+0.5,d,165,bedstghiyklmnopaistuwny2 ABCDEFGH!. 456789,0.5,,0.0,16,0.15
+0.5,d,165,abecletghijklmnaytuvonn,0.21875,,0.0,16,0.2
+0.5,d,165,"abssei@hijklmnsyaltuvymn WWKyZ 072886769,",0.328125,,0.0,16,0.25
+0.5,d,165,"abssei@hijklmnsyaltuvymn WWKyZ 072886769,",0.328125,,0.0,16,0.3
+0.5,d,165,bei pklm= atu yynn = i@CDEFGHI eeMINORONSTEVWXYZ 025886788.,0.421875,,0.0,16,0.35
+0.5,d,165,,0.0,,0.0,16,0.4
+0.5,d,165,,0.0,,0.0,16,0.45
+0.5,d,165,,0.0,,0.0,16,0.5
+0.5,d,165,,0.0,,0.0,16,0.55
+0.5,d,165,,0.0,,0.0,16,0.6
+0.5,d,165,,0.0,=,0.0,16,0.65
+0.5,d,165,,0.0,"=<
+
+=",0.0,16,0.7

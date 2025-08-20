@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'NotoSansCJK';
+    src: url('../fonts/NotoSans-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'NotoSansCJK', sans-serif;
+}

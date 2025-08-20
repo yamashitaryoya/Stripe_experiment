@@ -1,0 +1,113 @@
+scale_factor,line_orientation,line_angle,original_ocr_text,original_accuracy,processed_ocr_text,processed_accuracy,line_period,duty_cycle
+0.5,h,0,,0.0,,0.0,2,0.05
+0.5,h,0,,0.0,,0.0,2,0.1
+0.5,h,0,,0.0,,0.0,2,0.15
+0.5,h,0,,0.0,,0.0,2,0.2
+0.5,h,0,,0.0,,0.0,2,0.25
+0.5,h,0,,0.0,,0.0,2,0.3
+0.5,h,0,,0.0,,0.0,2,0.35
+0.5,h,0,,0.0,,0.0,2,0.4
+0.5,h,0,,0.0,,0.0,2,0.45
+0.5,h,0,,0.0,,0.0,2,0.5
+0.5,h,0,,0.0,,0.0,2,0.55
+0.5,h,0,,0.0,,0.0,2,0.6
+0.5,h,0,,0.0,,0.0,2,0.65
+0.5,h,0,,0.0,,0.0,2,0.7
+0.5,h,0,,0.0,,0.0,4,0.05
+0.5,h,0,,0.0,,0.0,4,0.1
+0.5,h,0,,0.0,,0.0,4,0.15
+0.5,h,0,,0.0,,0.0,4,0.2
+0.5,h,0,,0.0,,0.0,4,0.25
+0.5,h,0,,0.0,,0.0,4,0.3
+0.5,h,0,,0.0,,0.0,4,0.35
+0.5,h,0,,0.0,,0.0,4,0.4
+0.5,h,0,,0.0,,0.0,4,0.45
+0.5,h,0,,0.0,,0.0,4,0.5
+0.5,h,0,,0.0,,0.0,4,0.55
+0.5,h,0,,0.0,,0.0,4,0.6
+0.5,h,0,,0.0,,0.0,4,0.65
+0.5,h,0,,0.0,,0.0,4,0.7
+0.5,h,0,,0.0,,0.0,6,0.05
+0.5,h,0,,0.0,,0.0,6,0.1
+0.5,h,0,,0.0,,0.0,6,0.15
+0.5,h,0,,0.0,,0.0,6,0.2
+0.5,h,0,,0.0,,0.0,6,0.25
+0.5,h,0,,0.0,,0.0,6,0.3
+0.5,h,0,,0.0,,0.0,6,0.35
+0.5,h,0,,0.0,,0.0,6,0.4
+0.5,h,0,,0.0,,0.0,6,0.45
+0.5,h,0,,0.0,,0.0,6,0.5
+0.5,h,0,,0.0,,0.0,6,0.55
+0.5,h,0,,0.0,,0.0,6,0.6
+0.5,h,0,,0.0,,0.0,6,0.65
+0.5,h,0,,0.0,,0.0,6,0.7
+0.5,h,0,,0.0,,0.0,8,0.05
+0.5,h,0,,0.0,,0.0,8,0.1
+0.5,h,0,,0.0,,0.0,8,0.15
+0.5,h,0,,0.0,,0.0,8,0.2
+0.5,h,0,,0.0,,0.0,8,0.25
+0.5,h,0,,0.0,,0.0,8,0.3
+0.5,h,0,,0.0,,0.0,8,0.35
+0.5,h,0,,0.0,,0.0,8,0.4
+0.5,h,0,,0.0,,0.0,8,0.45
+0.5,h,0,,0.0,,0.0,8,0.5
+0.5,h,0,,0.0,,0.0,8,0.55
+0.5,h,0,,0.0,,0.0,8,0.6
+0.5,h,0,,0.0,,0.0,8,0.65
+0.5,h,0,,0.0,,0.0,8,0.7
+0.5,h,0,abedefahiikimnoparstuworyz ABCDEFGHIJKLMINOPORSTUVWXYZ 0123456789,0.84375,,0.0,10,0.05
+0.5,h,0,abedefahiikimnoparstuworyz ABCDEFGHIJKLMINOPORSTUVWXYZ 0123456789,0.84375,,0.0,10,0.1
+0.5,h,0,abedefahiikimnoparstuworyz ABCDEFGHIJKLMINOPORSTUVWXYZ 0123456789,0.84375,,0.0,10,0.15
+0.5,h,0,abedeta hk mmoparstuwion/z ABUDEFGHIJKLMINOPORS TUVWXYZ U12SA56 789,0.65625,,0.0,10,0.2
+0.5,h,0,abedeta hk mmoparstuwion/z ABUDEFGHIJKLMINOPORS TUVWXYZ U12SA56 789,0.65625,,0.0,10,0.25
+0.5,h,0,abet faik mba stu nz ABC DEFGHINKLWINOPORS TUVWXYZ UTZSAS6789,0.5625,,0.0,10,0.3
+0.5,h,0,abet faik mba stu nz ABC DEFGHINKLWINOPORS TUVWXYZ UTZSAS6789,0.5625,,0.0,10,0.35
+0.5,h,0,,0.0,,0.0,10,0.4
+0.5,h,0,,0.0,,0.0,10,0.45
+0.5,h,0,,0.0,,0.0,10,0.5
+0.5,h,0,,0.0,,0.0,10,0.55
+0.5,h,0,,0.0,,0.0,10,0.6
+0.5,h,0,,0.0,,0.0,10,0.65
+0.5,h,0,,0.0,,0.0,10,0.7
+0.5,h,0,,0.0,,0.0,12,0.05
+0.5,h,0,,0.0,,0.0,12,0.1
+0.5,h,0,,0.0,,0.0,12,0.15
+0.5,h,0,,0.0,,0.0,12,0.2
+0.5,h,0,,0.0,,0.0,12,0.25
+0.5,h,0,,0.0,,0.0,12,0.3
+0.5,h,0,,0.0,,0.0,12,0.35
+0.5,h,0,,0.0,,0.0,12,0.4
+0.5,h,0,,0.0,,0.0,12,0.45
+0.5,h,0,,0.0,,0.0,12,0.5
+0.5,h,0,,0.0,,0.0,12,0.55
+0.5,h,0,,0.0,,0.0,12,0.6
+0.5,h,0,,0.0,,0.0,12,0.65
+0.5,h,0,,0.0,,0.0,12,0.7
+0.5,h,0,erlafghijkimnopnstinainny? ARDEEGHILIKL MNOPORSTUNWXY7 0173456789,0.609375,,0.0,14,0.05
+0.5,h,0,erlafghijkimnopnstinainny? ARDEEGHILIKL MNOPORSTUNWXY7 0173456789,0.609375,,0.0,14,0.1
+0.5,h,0,berafghitkimnnpnstinwonyz ARCDEFGHLIKI MNOPORSTNWXY7 0123456789,0.65625,,0.0,14,0.15
+0.5,h,0,berafghitkimnnpnstinwonyz ARCDEFGHLIKI MNOPORSTNWXY7 0123456789,0.65625,,0.0,14,0.2
+0.5,h,0,aherlafghilllmnanayst nang” ARONEFAHLIKI MNOBORSTINAKY? 11234547,0.4375,,0.0,14,0.25
+0.5,h,0,aherafahiilmnanarsh mann? ABSEFAHIIKI MNOBARSTINAWKY? 112354 7AG,0.4375,,0.0,14,0.3
+0.5,h,0,aherafahiilmnanarsh mann? ABSEFAHIIKI MNOBARSTINAWKY? 112354 7AG,0.4375,,0.0,14,0.35
+0.5,h,0,,0.0,,0.0,14,0.4
+0.5,h,0,,0.0,,0.0,14,0.45
+0.5,h,0,,0.0,,0.0,14,0.5
+0.5,h,0,,0.0,,0.0,14,0.55
+0.5,h,0,,0.0,,0.0,14,0.6
+0.5,h,0,,0.0,,0.0,14,0.65
+0.5,h,0,,0.0,,0.0,14,0.7
+0.5,h,0,abedefghijkimnoparstuworyz ABCDEFGHIJKLMINOPORSTU VWXYZ 0123456789,0.859375,,0.0,16,0.05
+0.5,h,0,abedefghijkimnoparstuworyz ABCDEFGHIJKLMINOPORSTU VWXYZ 0123456789,0.859375,,0.0,16,0.1
+0.5,h,0,abode fghijkimnoparstuworyz ABODEFGHIJKLMINOPORSTU VWXYZ 0123456789,0.828125,,0.0,16,0.15
+0.5,h,0,abode fghijklmnopqrstuworyz ABCDEFGHIJKLMINOPORSTU VWXYZ 0123456789,0.875,,0.0,16,0.2
+0.5,h,0,abedefghijkimnopqrstuworyz ABCDEFGHIJKLMNOPORSTU VWXYZ 0123456789,0.890625,,0.0,16,0.25
+0.5,h,0,abedefghijkimnopqrstuworyz ABCDEFGHIJKLMNOPORSTU VWXYZ 0123456789,0.890625,,0.0,16,0.3
+0.5,h,0,abedefghiikimnoparstuworyz ABCDEFGHIJKLMINOPORSTU VWXYZ 0123456789,0.84375,,0.0,16,0.35
+0.5,h,0,abedefghijkimnoparstuworyz ABCDEFGHIJKLMNOPORSTU VWXYZ 0123456789,0.875,,0.0,16,0.4
+0.5,h,0,abedefahiikimnovarstuywnayz ABCDEFGHIJKLMNOPORSTUVWXYZ 0123486789,0.828125,,0.0,16,0.45
+0.5,h,0,abedetahiikimnovarstuyayz ABCDEFGHIJKLMNOPORSTU VWXYZ 0123486789,0.796875,,0.0,16,0.5
+0.5,h,0,abedetahiikimnovarstuyayz ABCDEFGHIJKLMNOPORSTU VWXYZ 0123486789,0.796875,,0.0,16,0.55
+0.5,h,0,aberefahiikimnnnnrstiwinny ARCDFEGHLIKI MNOPORSTIIVWXY7 0173454789,0.578125,,0.0,16,0.6
+0.5,h,0,,0.0,,0.0,16,0.65
+0.5,h,0,,0.0,,0.0,16,0.7

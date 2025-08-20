@@ -112,8 +112,8 @@ timeline.push(instructions);
 
 // 練習で使うパラメータ
 const practice_parameters = [
-    { period: 4, duty: 0.3, angle: 45, text: 'PRACTICE', font_size: 16 },
-    { period: 6, duty: 0.2, angle: 60, text: 'EXAMPLE' , font_size: 16 },
+    { period: 4, duty: 0.3, angle: 45, text: 'PRACTICE', font_size: 16, stripe_color: 128 },
+    { period: 3, duty: 0.1, angle: 135, text: 'EXAMPLE' , font_size: 16, stripe_color: 0 },
 ];
 
 
@@ -146,13 +146,65 @@ timeline.push(practice_trials);
 
 
 // 練習終了と本番開始の案内
-const main_start_instruction = {
+const no_stripe_instruction = {
     type: jsPsychHtmlButtonResponse, 
     stimulus: `
         <p>これで練習は終わりです。</p>
-        <p>次に本番が始まります。</p>
+        <p>次に無加工の検証セッションが始まります。</p>
     `,
-    choices: ['本番をはじめる'], 
+    choices: ['はじめる'], 
+    post_trial_gap: 1000,
+    data: { task: 'main_start_instruction' }
+};
+timeline.push(no_stripe_instruction);
+
+// -------------------------------------------------
+// 縞模様なしの検証セッション
+// -------------------------------------------------
+
+// 縞模様なしの検証セッション用パラメータ
+const no_stripe_parameters = [
+    { period: 4, duty: 0, angle: 0, text: "TABLES", font_size: 16, stripe_color: 200 },
+    { period: 4, duty: 0, angle: 0, text: 'LITTLE', font_size: 16, stripe_color: 200 },
+    { period: 4, duty: 0, angle: 0, text: 'FISHES', font_size: 16, stripe_color: 200 },
+];
+
+// 縞模様なしの検証セッション
+const no_stripe_trials = {
+    timeline: no_stripe_parameters.map((params, idx) => {
+        const canvas_id = `no-stripe-canvas-${idx}`;
+        return {
+            type: jsPsychSurveyText,
+            preamble: `<div style="margin-bottom:8px;">(${idx + 1}問/${no_stripe_parameters.length}問)</div>` +
+                getStripeCanvasHTML({ canvas_id }),
+            on_load: function() {
+                drawStripeCanvas({
+                    ...params,
+                    canvas_id
+                });
+            },
+            questions: [
+                { prompt: '読み取った文字列を入力してください', name: 'response_text', required: true }
+            ],
+            post_trial_gap: 500,
+            data: {
+                ...params,
+                task: 'main' // データを保存するためにtaskを'main'に設定
+            }
+        };
+    })
+};
+timeline.push(no_stripe_trials);
+
+
+// 練習終了と本番開始の案内
+const main_start_instruction = {
+    type: jsPsychHtmlButtonResponse, 
+    stimulus: `
+        <p>これで無加工の検証セッションは終わりです。</p>
+        <p>次に加工の検証セッションが始まります。</p>
+    `,
+    choices: ['はじめる'], 
     post_trial_gap: 1000,
     data: { task: 'main_start_instruction' }
 };
@@ -165,9 +217,10 @@ timeline.push(main_start_instruction);
 
 
 // 本番実験で使うパラメータ
-const angles = [75, 90, 120, 180];
-const duties = [0,0.1, 0.2, 0.3, 0.4, 0.5];
-const period = 4;
+const angles = [0, 45, 90, 135];
+const duties = [0.1, 0.3, 0.5];
+const stripe_colors = [128, 200]; 
+const periods = [3, 4];
 const font_size = 16;
 const texts = [
     "ANIMAL", "BOTTLE", "BUTTON", "CANDLE", "CIRCLE",
@@ -189,11 +242,32 @@ const texts = [
     "VOLUME", "WALKED", "WARMTH", "WATERY", "WEAPON",
     "WEIGHT", "WINDOW", "WINTER", "WONDER", "WORKER",
     "YELLOW", "YAWNED", "YOGURT", "YOUNGS", "YIELDS",
-    "ZEBRAS", "ZEALOT", "ZINGER", "ZIPPED", "ZIPPER"
+    "ZEBRAS", "ZEALOT", "ZINGER", "ZIPPED", "ZIPPER",
+    "ACTORS", "BRIDGE", "BASKET", "CLOUDY", "DRAGON",
+    "DINNER", "EASTER", "FINGER", "FROZEN", "GLOVES",
+    "GHOSTS", "HUNTER", "ISLAND", "IMPACT", "JELLYS",
+    "JUMPED", "KINDLY", "KNIGHT", "LEMONS", "LETTER",
+    "MARKER", "MAGNET", "MONDAY", "NATURE", "NEEDLE",
+    "OCEANS", "PRISON", "PLAYER", "PIRATE", "QUEENS",
+    "QUICKY", "ROCKET", "RUNNER", "RACING", "SEWING",
+    "STONEY", "SINGER", "SPOONS", "TARGET", "TICKET",
+    "TIMBER", "TUNING", "UNITED", "URBANS", "VACUUM",
+    "VALLEY", "VISITS", "WOLVES", "FRUITS", "WHEELS",
+    "XENONS", "XMARKS", "XYLOPH", "ZENITH", "ZAPPED",
+    "ZOMBIE", "BANANA", "BRICKS", "CARTON", "CHERRY",
+    "DEEPER", "DESERT", "DRIVER", "DOUBTS", "EAGLES",
+    "EDITOR", "ENERGY", "FOSSIL", "FRAMES", "FISHES",
+    "GRAPES", "GROWTH", "GROUND", "HEARTS", "HOPELY",
+    "ICICLE", "IRONED", "INCOME", "JOURNY", "JIGSAW",
+    "KARATE", "LIVING", "LOCATE", "LUNCHY", "MOUNTS",
+    "NICKEL", "NIGHTS", "OPENER", "OPTICS", "ORCHID",
+    "PRAYER", "PYTHON", "RANGER", "RIVERS", "RISING",
+    "SWORDS", "SPICES", "TOWERS", "TWILIT", "TRICKS"
 ];
 
 
- // シャッフル関数
+
+// シャッフル関数
 function shuffle(array) {
     const arr = array.slice();
     for (let i = arr.length - 1; i > 0; i--) {
@@ -207,8 +281,11 @@ function shuffle(array) {
 let param_pairs = [];
 angles.forEach(angle => {
     duties.forEach(duty => {
-        param_pairs.push({angle, duty});
-        param_pairs.push({angle, duty}); // 2回分
+        stripe_colors.forEach(stripe_color => {
+            periods.forEach(period => {
+                param_pairs.push({ angle, duty, stripe_color , period });
+            });
+        });
     });
 });
 
@@ -218,11 +295,12 @@ const shuffled_texts = shuffle(texts).slice(0, texts_needed);
 
 // test_parametersを作成
 let test_parameters = param_pairs.map((pair, idx) => ({
-    period: period,
+    period: pair.period,
     duty: pair.duty,
     angle: pair.angle,
+    stripe_color: pair.stripe_color,
     text: shuffled_texts[idx],
-    font_size: font_size
+    font_size: font_size,
 }));
 
 // test_parametersをシャッフル
@@ -235,7 +313,7 @@ const trials = {
         return {
             type: jsPsychSurveyText,
             preamble: `<div style="margin-bottom:8px;">(${idx + 1}問/${test_parameters.length}問)</div>` +
-                getStripeCanvasHTML({canvas_id}),
+                getStripeCanvasHTML({ canvas_id }),
             on_load: function() {
                 drawStripeCanvas({
                     ...params,
@@ -243,7 +321,7 @@ const trials = {
                 });
             },
             questions: [
-                {prompt: '読み取った文字列を入力してください', name: 'response_text', required: true}
+                { prompt: '読み取った文字列を入力してください', name: 'response_text', required: true }
             ],
             post_trial_gap: 1000,
             data: {
@@ -255,6 +333,7 @@ const trials = {
     randomize_order: false
 };
 timeline.push(trials);
+
 
 // 実験を実行
 jsPsych.run(timeline);

@@ -31,12 +31,12 @@ def save_data():
         participant_id = main_df['participant_id'].iloc[0]
 
     safe_participant_id = re.sub(r'[\\/*?:"<>|]', "", str(participant_id))
-    file_path = f'data/results_{safe_participant_id}.csv'
+    file_path = f'data/intended_results_{safe_participant_id}.csv'
     
     # 重複ファイル名対応 ---
     count = 2
     while os.path.exists(file_path):
-        file_path = f'data/results_{safe_participant_id}_{count}.csv'
+        file_path = f'data/intended_results_{safe_participant_id}_{count}.csv'
         count += 1
     
     # 反応時間(rt)をtimeにリネーム
@@ -55,6 +55,7 @@ def save_data():
         'duty',
         'angle',
         'font_size',
+        'stripe_color', 
         'text',
         'response_text', 
     ]

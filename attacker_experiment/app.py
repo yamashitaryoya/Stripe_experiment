@@ -51,12 +51,12 @@ def save_data():
 
     participant_id = main_df['participant_id'].iloc[0] if 'participant_id' in main_df.columns else "unknown"
     safe_participant_id = re.sub(r'[\\/*?:"<>|]', "", str(participant_id))
-    file_path = f'data/results_{safe_participant_id}.csv'
+    file_path = f'data/attacker_results_{safe_participant_id}.csv'
 
     # 重複ファイル名対応 ---
     count = 2
     while os.path.exists(file_path):
-        file_path = f'data/results_{safe_participant_id}_{count}.csv'
+        file_path = f'data/attacker_results_{safe_participant_id}_{count}.csv'
         count += 1
 
     if 'rt' in main_df.columns:
@@ -65,7 +65,7 @@ def save_data():
         main_df['response_text'] = main_df['response.response_text']
 
     columns_to_save = [
-        'participant_id', 'time', 'period', 'duty', 'angle', 'font_size', 'text', 'response_text'
+        'participant_id', 'time', 'period', 'duty', 'angle', 'font_size', 'stripe_color', 'text','response_text'
     ]
     final_columns = [col for col in columns_to_save if col in main_df.columns]
     final_df = main_df[final_columns]

@@ -1,0 +1,3115 @@
+phase_px,scale_factor,resize_kernel,line_angle,original_ocr_text,original_accuracy,processed_ocr_text,processed_accuracy,line_period,duty_cycle
+0,0.5,lanczos,0,,0.0,,0.0,8,0.1
+0,0.5,nearest,0,,0.0,,0.0,8,0.1
+0,0.5,bilinear,0,,0.0,,0.0,8,0.1
+0,0.5,bicubic,0,,0.0,,0.0,8,0.1
+2,0.5,lanczos,0,,0.0,,0.0,8,0.1
+2,0.5,nearest,0,,0.0,,0.0,8,0.1
+2,0.5,bilinear,0,,0.0,,0.0,8,0.1
+2,0.5,bicubic,0,,0.0,,0.0,8,0.1
+4,0.5,lanczos,0,,0.0,,0.0,8,0.1
+4,0.5,nearest,0,,0.0,,0.0,8,0.1
+4,0.5,bilinear,0,,0.0,,0.0,8,0.1
+4,0.5,bicubic,0,,0.0,,0.0,8,0.1
+6,0.5,lanczos,0,,0.0,,0.0,8,0.1
+6,0.5,nearest,0,,0.0,,0.0,8,0.1
+6,0.5,bilinear,0,,0.0,,0.0,8,0.1
+6,0.5,bicubic,0,,0.0,,0.0,8,0.1
+0,0.5,lanczos,0,,0.0,,0.0,8,0.3
+0,0.5,nearest,0,,0.0,,0.0,8,0.3
+0,0.5,bilinear,0,,0.0,,0.0,8,0.3
+0,0.5,bicubic,0,,0.0,,0.0,8,0.3
+2,0.5,lanczos,0,,0.0,,0.0,8,0.3
+2,0.5,nearest,0,,0.0,,0.0,8,0.3
+2,0.5,bilinear,0,,0.0,,0.0,8,0.3
+2,0.5,bicubic,0,,0.0,,0.0,8,0.3
+4,0.5,lanczos,0,,0.0,,0.0,8,0.3
+4,0.5,nearest,0,,0.0,,0.0,8,0.3
+4,0.5,bilinear,0,,0.0,,0.0,8,0.3
+4,0.5,bicubic,0,,0.0,,0.0,8,0.3
+6,0.5,lanczos,0,,0.0,,0.0,8,0.3
+6,0.5,nearest,0,,0.0,,0.0,8,0.3
+6,0.5,bilinear,0,,0.0,,0.0,8,0.3
+6,0.5,bicubic,0,,0.0,,0.0,8,0.3
+0,0.5,lanczos,0,,0.0,,0.0,8,0.5
+0,0.5,nearest,0,,0.0,,0.0,8,0.5
+0,0.5,bilinear,0,,0.0,,0.0,8,0.5
+0,0.5,bicubic,0,,0.0,,0.0,8,0.5
+2,0.5,lanczos,0,,0.0,,0.0,8,0.5
+2,0.5,nearest,0,,0.0,,0.0,8,0.5
+2,0.5,bilinear,0,,0.0,,0.0,8,0.5
+2,0.5,bicubic,0,,0.0,,0.0,8,0.5
+4,0.5,lanczos,0,,0.0,,0.0,8,0.5
+4,0.5,nearest,0,,0.0,,0.0,8,0.5
+4,0.5,bilinear,0,,0.0,,0.0,8,0.5
+4,0.5,bicubic,0,,0.0,,0.0,8,0.5
+6,0.5,lanczos,0,,0.0,,0.0,8,0.5
+6,0.5,nearest,0,,0.0,,0.0,8,0.5
+6,0.5,bilinear,0,,0.0,,0.0,8,0.5
+6,0.5,bicubic,0,,0.0,,0.0,8,0.5
+0,0.5,lanczos,0,,0.0,,0.0,12,0.1
+0,0.5,nearest,0,,0.0,,0.0,12,0.1
+0,0.5,bilinear,0,,0.0,,0.0,12,0.1
+0,0.5,bicubic,0,,0.0,,0.0,12,0.1
+3,0.5,lanczos,0,,0.0,,0.0,12,0.1
+3,0.5,nearest,0,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+3,0.5,bilinear,0,,0.0,ABCDEFGHISJKLMNOPQRSTUVWXYZ,0.9615384615384616,12,0.1
+3,0.5,bicubic,0,,0.0,_ABCDEFGHISKEMNOPOQRSTUVWXYZ—,0.8076923076923077,12,0.1
+6,0.5,lanczos,0,,0.0,,0.0,12,0.1
+6,0.5,nearest,0,,0.0,,0.0,12,0.1
+6,0.5,bilinear,0,,0.0,,0.0,12,0.1
+6,0.5,bicubic,0,,0.0,,0.0,12,0.1
+9,0.5,lanczos,0,ABECDEFGHISKEMNOPORSTOVWXYZ,0.8076923076923077,,0.0,12,0.1
+9,0.5,nearest,0,ABECDEFGHISKEMNOPORSTOVWXYZ,0.8076923076923077,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+9,0.5,bilinear,0,ABECDEFGHISKEMNOPORSTOVWXYZ,0.8076923076923077,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+9,0.5,bicubic,0,ABECDEFGHISKEMNOPORSTOVWXYZ,0.8076923076923077,_ABCDEFGHIJKEMNOPQRSTUVWXYZ—,0.8846153846153846,12,0.1
+0,0.5,lanczos,0,,0.0,,0.0,12,0.3
+0,0.5,nearest,0,,0.0,,0.0,12,0.3
+0,0.5,bilinear,0,,0.0,,0.0,12,0.3
+0,0.5,bicubic,0,,0.0,,0.0,12,0.3
+3,0.5,lanczos,0,,0.0,,0.0,12,0.3
+3,0.5,nearest,0,,0.0,,0.0,12,0.3
+3,0.5,bilinear,0,,0.0,,0.0,12,0.3
+3,0.5,bicubic,0,,0.0,,0.0,12,0.3
+6,0.5,lanczos,0,,0.0,,0.0,12,0.3
+6,0.5,nearest,0,,0.0,,0.0,12,0.3
+6,0.5,bilinear,0,,0.0,,0.0,12,0.3
+6,0.5,bicubic,0,,0.0,,0.0,12,0.3
+9,0.5,lanczos,0,,0.0,,0.0,12,0.3
+9,0.5,nearest,0,,0.0,,0.0,12,0.3
+9,0.5,bilinear,0,,0.0,,0.0,12,0.3
+9,0.5,bicubic,0,,0.0,,0.0,12,0.3
+0,0.5,lanczos,0,,0.0,,0.0,12,0.5
+0,0.5,nearest,0,,0.0,,0.0,12,0.5
+0,0.5,bilinear,0,,0.0,,0.0,12,0.5
+0,0.5,bicubic,0,,0.0,,0.0,12,0.5
+3,0.5,lanczos,0,,0.0,,0.0,12,0.5
+3,0.5,nearest,0,,0.0,,0.0,12,0.5
+3,0.5,bilinear,0,,0.0,,0.0,12,0.5
+3,0.5,bicubic,0,,0.0,,0.0,12,0.5
+6,0.5,lanczos,0,,0.0,,0.0,12,0.5
+6,0.5,nearest,0,,0.0,,0.0,12,0.5
+6,0.5,bilinear,0,,0.0,,0.0,12,0.5
+6,0.5,bicubic,0,,0.0,,0.0,12,0.5
+9,0.5,lanczos,0,,0.0,,0.0,12,0.5
+9,0.5,nearest,0,,0.0,,0.0,12,0.5
+9,0.5,bilinear,0,,0.0,,0.0,12,0.5
+9,0.5,bicubic,0,,0.0,,0.0,12,0.5
+0,0.5,lanczos,0,,0.0,,0.0,16,0.1
+0,0.5,nearest,0,,0.0,,0.0,16,0.1
+0,0.5,bilinear,0,,0.0,,0.0,16,0.1
+0,0.5,bicubic,0,,0.0,,0.0,16,0.1
+4,0.5,lanczos,0,,0.0,,0.0,16,0.1
+4,0.5,nearest,0,,0.0,,0.0,16,0.1
+4,0.5,bilinear,0,,0.0,,0.0,16,0.1
+4,0.5,bicubic,0,,0.0,,0.0,16,0.1
+8,0.5,lanczos,0,,0.0,,0.0,16,0.1
+8,0.5,nearest,0,,0.0,,0.0,16,0.1
+8,0.5,bilinear,0,,0.0,,0.0,16,0.1
+8,0.5,bicubic,0,,0.0,,0.0,16,0.1
+12,0.5,lanczos,0,,0.0,,0.0,16,0.1
+12,0.5,nearest,0,,0.0,,0.0,16,0.1
+12,0.5,bilinear,0,,0.0,,0.0,16,0.1
+12,0.5,bicubic,0,,0.0,,0.0,16,0.1
+0,0.5,lanczos,0,,0.0,,0.0,16,0.3
+0,0.5,nearest,0,,0.0,,0.0,16,0.3
+0,0.5,bilinear,0,,0.0,,0.0,16,0.3
+0,0.5,bicubic,0,,0.0,,0.0,16,0.3
+4,0.5,lanczos,0,,0.0,,0.0,16,0.3
+4,0.5,nearest,0,,0.0,,0.0,16,0.3
+4,0.5,bilinear,0,,0.0,,0.0,16,0.3
+4,0.5,bicubic,0,,0.0,,0.0,16,0.3
+8,0.5,lanczos,0,,0.0,,0.0,16,0.3
+8,0.5,nearest,0,,0.0,,0.0,16,0.3
+8,0.5,bilinear,0,,0.0,,0.0,16,0.3
+8,0.5,bicubic,0,,0.0,,0.0,16,0.3
+12,0.5,lanczos,0,,0.0,,0.0,16,0.3
+12,0.5,nearest,0,,0.0,,0.0,16,0.3
+12,0.5,bilinear,0,,0.0,,0.0,16,0.3
+12,0.5,bicubic,0,,0.0,,0.0,16,0.3
+0,0.5,lanczos,0,"SS en es
+i kl ee ee en te A
+EASES a Se ee Ee ee eee ee eee eee ee eee",0.0,,0.0,16,0.5
+0,0.5,nearest,0,"SS en es
+i kl ee ee en te A
+EASES a Se ee Ee ee eee ee eee eee ee eee",0.0,,0.0,16,0.5
+0,0.5,bilinear,0,"SS en es
+i kl ee ee en te A
+EASES a Se ee Ee ee eee ee eee eee ee eee",0.0,,0.0,16,0.5
+0,0.5,bicubic,0,"SS en es
+i kl ee ee en te A
+EASES a Se ee Ee ee eee ee eee eee ee eee",0.0,,0.0,16,0.5
+4,0.5,lanczos,0,,0.0,,0.0,16,0.5
+4,0.5,nearest,0,,0.0,,0.0,16,0.5
+4,0.5,bilinear,0,,0.0,,0.0,16,0.5
+4,0.5,bicubic,0,,0.0,,0.0,16,0.5
+8,0.5,lanczos,0,,0.0,,0.0,16,0.5
+8,0.5,nearest,0,,0.0,,0.0,16,0.5
+8,0.5,bilinear,0,,0.0,,0.0,16,0.5
+8,0.5,bicubic,0,,0.0,,0.0,16,0.5
+12,0.5,lanczos,0,"SS
+he hehe he a et. . ? .  ? . ee kk ek ft +7. 7
+ey ee ee ee ee eee
+A eee ee eee ee
+ee LLnee ee EE Lane rE OO
+NLS",0.0,,0.0,16,0.5
+12,0.5,nearest,0,"SS
+he hehe he a et. . ? .  ? . ee kk ek ft +7. 7
+ey ee ee ee ee eee
+A eee ee eee ee
+ee LLnee ee EE Lane rE OO
+NLS",0.0,,0.0,16,0.5
+12,0.5,bilinear,0,"SS
+he hehe he a et. . ? .  ? . ee kk ek ft +7. 7
+ey ee ee ee ee eee
+A eee ee eee ee
+ee LLnee ee EE Lane rE OO
+NLS",0.0,,0.0,16,0.5
+12,0.5,bicubic,0,"SS
+he hehe he a et. . ? .  ? . ee kk ek ft +7. 7
+ey ee ee ee ee eee
+A eee ee eee ee
+ee LLnee ee EE Lane rE OO
+NLS",0.0,,0.0,16,0.5
+0,0.5,lanczos,0,,0.0,,0.0,24,0.1
+0,0.5,nearest,0,,0.0,,0.0,24,0.1
+0,0.5,bilinear,0,,0.0,,0.0,24,0.1
+0,0.5,bicubic,0,,0.0,,0.0,24,0.1
+6,0.5,lanczos,0,,0.0,,0.0,24,0.1
+6,0.5,nearest,0,,0.0,,0.0,24,0.1
+6,0.5,bilinear,0,,0.0,,0.0,24,0.1
+6,0.5,bicubic,0,,0.0,,0.0,24,0.1
+12,0.5,lanczos,0,ABCDEFGHIKEMNOPORS FOVWXYZ—,0.7307692307692308,,0.0,24,0.1
+12,0.5,nearest,0,ABCDEFGHIKEMNOPORS FOVWXYZ—,0.7307692307692308,,0.0,24,0.1
+12,0.5,bilinear,0,ABCDEFGHIKEMNOPORS FOVWXYZ—,0.7307692307692308,,0.0,24,0.1
+12,0.5,bicubic,0,ABCDEFGHIKEMNOPORS FOVWXYZ—,0.7307692307692308,,0.0,24,0.1
+18,0.5,lanczos,0,ABCDEFGHISKEMNOPORS FOVARYZ,0.6923076923076923,,0.0,24,0.1
+18,0.5,nearest,0,ABCDEFGHISKEMNOPORS FOVARYZ,0.6923076923076923,,0.0,24,0.1
+18,0.5,bilinear,0,ABCDEFGHISKEMNOPORS FOVARYZ,0.6923076923076923,,0.0,24,0.1
+18,0.5,bicubic,0,ABCDEFGHISKEMNOPORS FOVARYZ,0.6923076923076923,,0.0,24,0.1
+0,0.5,lanczos,0,,0.0,,0.0,24,0.3
+0,0.5,nearest,0,,0.0,,0.0,24,0.3
+0,0.5,bilinear,0,,0.0,,0.0,24,0.3
+0,0.5,bicubic,0,,0.0,,0.0,24,0.3
+6,0.5,lanczos,0,"A 0 ee ee en 0 a 2 2 LV ee 2 ee ee WAL Av AV.
+DN ca eM es heen ae te Nfl LN alee er ale Mate cael es hg es Af ifs Pane afl,",0.0,,0.0,24,0.3
+6,0.5,nearest,0,"A 0 ee ee en 0 a 2 2 LV ee 2 ee ee WAL Av AV.
+DN ca eM es heen ae te Nfl LN alee er ale Mate cael es hg es Af ifs Pane afl,",0.0,,0.0,24,0.3
+6,0.5,bilinear,0,"A 0 ee ee en 0 a 2 2 LV ee 2 ee ee WAL Av AV.
+DN ca eM es heen ae te Nfl LN alee er ale Mate cael es hg es Af ifs Pane afl,",0.0,,0.0,24,0.3
+6,0.5,bicubic,0,"A 0 ee ee en 0 a 2 2 LV ee 2 ee ee WAL Av AV.
+DN ca eM es heen ae te Nfl LN alee er ale Mate cael es hg es Af ifs Pane afl,",0.0,,0.0,24,0.3
+12,0.5,lanczos,0,,0.0,,0.0,24,0.3
+12,0.5,nearest,0,,0.0,,0.0,24,0.3
+12,0.5,bilinear,0,,0.0,,0.0,24,0.3
+12,0.5,bicubic,0,,0.0,,0.0,24,0.3
+18,0.5,lanczos,0,"VS A_ALN
+Fh Ae St Se LAIN",0.038461538461538436,,0.0,24,0.3
+18,0.5,nearest,0,"VS A_ALN
+Fh Ae St Se LAIN",0.038461538461538436,,0.0,24,0.3
+18,0.5,bilinear,0,"VS A_ALN
+Fh Ae St Se LAIN",0.038461538461538436,,0.0,24,0.3
+18,0.5,bicubic,0,"VS A_ALN
+Fh Ae St Se LAIN",0.038461538461538436,,0.0,24,0.3
+0,0.5,lanczos,0,"Renee eee
+a A A A
+ee . ee Ss a
+I
+Neen ee eee eee",0.0,,0.0,24,0.5
+0,0.5,nearest,0,"Renee eee
+a A A A
+ee . ee Ss a
+I
+Neen ee eee eee",0.0,,0.0,24,0.5
+0,0.5,bilinear,0,"Renee eee
+a A A A
+ee . ee Ss a
+I
+Neen ee eee eee",0.0,,0.0,24,0.5
+0,0.5,bicubic,0,"Renee eee
+a A A A
+ee . ee Ss a
+I
+Neen ee eee eee",0.0,,0.0,24,0.5
+6,0.5,lanczos,0,"Neen eeeeee ener eee eee eee eee
+ey A 2 ee ee ee 2 ee ee Lae OE ee EN PN Ns
+a A Bl Pe NN a NE a PN
+a
+8 aS... =:",0.0,,0.0,24,0.5
+6,0.5,nearest,0,"Neen eeeeee ener eee eee eee eee
+ey A 2 ee ee ee 2 ee ee Lae OE ee EN PN Ns
+a A Bl Pe NN a NE a PN
+a
+8 aS... =:",0.0,,0.0,24,0.5
+6,0.5,bilinear,0,"Neen eeeeee ener eee eee eee eee
+ey A 2 ee ee ee 2 ee ee Lae OE ee EN PN Ns
+a A Bl Pe NN a NE a PN
+a
+8 aS... =:",0.0,,0.0,24,0.5
+6,0.5,bicubic,0,"Neen eeeeee ener eee eee eee eee
+ey A 2 ee ee ee 2 ee ee Lae OE ee EN PN Ns
+a A Bl Pe NN a NE a PN
+a
+8 aS... =:",0.0,,0.0,24,0.5
+12,0.5,lanczos,0,"a a ee = a
+a AW 2 ee ee eee ee ee ee Dh A et hl
+a A a et eine Ne i A i A Ne Se i i A Ne eit ie i it sl No
+Neen ee eee ee eee eee eee",0.0,,0.0,24,0.5
+12,0.5,nearest,0,"a a ee = a
+a AW 2 ee ee eee ee ee ee Dh A et hl
+a A a et eine Ne i A i A Ne Se i i A Ne eit ie i it sl No
+Neen ee eee ee eee eee eee",0.0,,0.0,24,0.5
+12,0.5,bilinear,0,"a a ee = a
+a AW 2 ee ee eee ee ee ee Dh A et hl
+a A a et eine Ne i A i A Ne Se i i A Ne eit ie i it sl No
+Neen ee eee ee eee eee eee",0.0,,0.0,24,0.5
+12,0.5,bicubic,0,"a a ee = a
+a AW 2 ee ee eee ee ee ee Dh A et hl
+a A a et eine Ne i A i A Ne Se i i A Ne eit ie i it sl No
+Neen ee eee ee eee eee eee",0.0,,0.0,24,0.5
+18,0.5,lanczos,0,"A PN ON NN Oe NP
+ee ee",0.07692307692307687,,0.0,24,0.5
+18,0.5,nearest,0,"A PN ON NN Oe NP
+ee ee",0.07692307692307687,,0.0,24,0.5
+18,0.5,bilinear,0,"A PN ON NN Oe NP
+ee ee",0.07692307692307687,,0.0,24,0.5
+18,0.5,bicubic,0,"A PN ON NN Oe NP
+ee ee",0.07692307692307687,,0.0,24,0.5
+0,0.5,lanczos,0,,0.0,,0.0,32,0.1
+0,0.5,nearest,0,,0.0,,0.0,32,0.1
+0,0.5,bilinear,0,,0.0,,0.0,32,0.1
+0,0.5,bicubic,0,,0.0,,0.0,32,0.1
+8,0.5,lanczos,0,,0.0,,0.0,32,0.1
+8,0.5,nearest,0,,0.0,,0.0,32,0.1
+8,0.5,bilinear,0,,0.0,,0.0,32,0.1
+8,0.5,bicubic,0,,0.0,,0.0,32,0.1
+16,0.5,lanczos,0,,0.0,,0.0,32,0.1
+16,0.5,nearest,0,,0.0,,0.0,32,0.1
+16,0.5,bilinear,0,,0.0,,0.0,32,0.1
+16,0.5,bicubic,0,,0.0,,0.0,32,0.1
+24,0.5,lanczos,0,"ADCDELCCIIT I KT NAIODODRC TINAANATYY 7
+ICD wu VAIVOT DO OVVV",0.0,,0.0,32,0.1
+24,0.5,nearest,0,"ADCDELCCIIT I KT NAIODODRC TINAANATYY 7
+ICD wu VAIVOT DO OVVV",0.0,,0.0,32,0.1
+24,0.5,bilinear,0,"ADCDELCCIIT I KT NAIODODRC TINAANATYY 7
+ICD wu VAIVOT DO OVVV",0.0,,0.0,32,0.1
+24,0.5,bicubic,0,"ADCDELCCIIT I KT NAIODODRC TINAANATYY 7
+ICD wu VAIVOT DO OVVV",0.0,,0.0,32,0.1
+0,0.5,lanczos,0,"A 24 ee ee A en en Pe AVATAR ee,",0.0,,0.0,32,0.3
+0,0.5,nearest,0,"A 24 ee ee A en en Pe AVATAR ee,",0.0,,0.0,32,0.3
+0,0.5,bilinear,0,"A 24 ee ee A en en Pe AVATAR ee,",0.0,,0.0,32,0.3
+0,0.5,bicubic,0,"A 24 ee ee A en en Pe AVATAR ee,",0.0,,0.0,32,0.3
+8,0.5,lanczos,0,DRC se IAL Ie tr STIIUVUU XY?,0.15384615384615385,CVNOPORSTOrreyZ,0.3076923076923077,32,0.3
+8,0.5,nearest,0,DRC se IAL Ie tr STIIUVUU XY?,0.15384615384615385,CVNePORsSTorhry,0.1923076923076923,32,0.3
+8,0.5,bilinear,0,DRC se IAL Ie tr STIIUVUU XY?,0.15384615384615385,,0.0,32,0.3
+8,0.5,bicubic,0,DRC se IAL Ie tr STIIUVUU XY?,0.15384615384615385,CVINOPORSTOhrrey?,0.2692307692307693,32,0.3
+16,0.5,lanczos,0,"Li) i \ iy Dr Neal eer eee) i
+ADVI ZEEE A LIVIN ZEA ZIV OLA VVVA LZ",0.0,"DS A
+PSU A TZ",0.1923076923076923,32,0.3
+16,0.5,nearest,0,"Li) i \ iy Dr Neal eer eee) i
+ADVI ZEEE A LIVIN ZEA ZIV OLA VVVA LZ",0.0,PPA T 7,0.07692307692307687,32,0.3
+16,0.5,bilinear,0,"Li) i \ iy Dr Neal eer eee) i
+ADVI ZEEE A LIVIN ZEA ZIV OLA VVVA LZ",0.0,Trt,0.038461538461538436,32,0.3
+16,0.5,bicubic,0,"Li) i \ iy Dr Neal eer eee) i
+ADVI ZEEE A LIVIN ZEA ZIV OLA VVVA LZ",0.0,PIU A YZ,0.15384615384615385,32,0.3
+24,0.5,lanczos,0,,0.0,,0.0,32,0.3
+24,0.5,nearest,0,,0.0,,0.0,32,0.3
+24,0.5,bilinear,0,,0.0,,0.0,32,0.3
+24,0.5,bicubic,0,,0.0,,0.0,32,0.3
+0,0.5,lanczos,0,"ee en
+ct Ne ee ee ee A NNN SD re NAY YY 7
+a
+LLL,",0.0,,0.0,32,0.5
+0,0.5,nearest,0,"ee en
+ct Ne ee ee ee A NNN SD re NAY YY 7
+a
+LLL,",0.0,,0.0,32,0.5
+0,0.5,bilinear,0,"ee en
+ct Ne ee ee ee A NNN SD re NAY YY 7
+a
+LLL,",0.0,,0.0,32,0.5
+0,0.5,bicubic,0,"ee en
+ct Ne ee ee ee A NNN SD re NAY YY 7
+a
+LLL,",0.0,,0.0,32,0.5
+8,0.5,lanczos,0,"ee i i
+ee NN ee NLL NS AY 7
+Nee ee cere eres erence eee eee eee ec e cc ne eee ee",0.0,,0.0,32,0.5
+8,0.5,nearest,0,"ee i i
+ee NN ee NLL NS AY 7
+Nee ee cere eres erence eee eee eee ec e cc ne eee ee",0.0,,0.0,32,0.5
+8,0.5,bilinear,0,"ee i i
+ee NN ee NLL NS AY 7
+Nee ee cere eres erence eee eee eee ec e cc ne eee ee",0.0,,0.0,32,0.5
+8,0.5,bicubic,0,"ee i i
+ee NN ee NLL NS AY 7
+Nee ee cere eres erence eee eee eee ec e cc ne eee ee",0.0,,0.0,32,0.5
+16,0.5,lanczos,0,,0.0,,0.0,32,0.5
+16,0.5,nearest,0,,0.0,,0.0,32,0.5
+16,0.5,bilinear,0,,0.0,,0.0,32,0.5
+16,0.5,bicubic,0,,0.0,,0.0,32,0.5
+24,0.5,lanczos,0,"Meena eee ee
+EN Nh DN Ni Nh tN Ql roe ND TN
+A Nee Ne Bae Re Nn a NN SN Ra NNN i DY Se Bi ee he
+Ne",0.0,,0.0,32,0.5
+24,0.5,nearest,0,"Meena eee ee
+EN Nh DN Ni Nh tN Ql roe ND TN
+A Nee Ne Bae Re Nn a NN SN Ra NNN i DY Se Bi ee he
+Ne",0.0,,0.0,32,0.5
+24,0.5,bilinear,0,"Meena eee ee
+EN Nh DN Ni Nh tN Ql roe ND TN
+A Nee Ne Bae Re Nn a NN SN Ra NNN i DY Se Bi ee he
+Ne",0.0,,0.0,32,0.5
+24,0.5,bicubic,0,"Meena eee ee
+EN Nh DN Ni Nh tN Ql roe ND TN
+A Nee Ne Bae Re Nn a NN SN Ra NNN i DY Se Bi ee he
+Ne",0.0,,0.0,32,0.5
+0,0.5,lanczos,0,,0.0,,0.0,48,0.1
+0,0.5,nearest,0,,0.0,,0.0,48,0.1
+0,0.5,bilinear,0,,0.0,,0.0,48,0.1
+0,0.5,bicubic,0,,0.0,,0.0,48,0.1
+12,0.5,lanczos,0,,0.0,,0.0,48,0.1
+12,0.5,nearest,0,,0.0,,0.0,48,0.1
+12,0.5,bilinear,0,,0.0,,0.0,48,0.1
+12,0.5,bicubic,0,,0.0,,0.0,48,0.1
+24,0.5,lanczos,0,ABCDEFGHIJKLMNOPORS TUVIAXKYZ,0.8076923076923077,,0.0,48,0.1
+24,0.5,nearest,0,ABCDEFGHIJKLMNOPORS TUVIAXKYZ,0.8076923076923077,,0.0,48,0.1
+24,0.5,bilinear,0,ABCDEFGHIJKLMNOPORS TUVIAXKYZ,0.8076923076923077,,0.0,48,0.1
+24,0.5,bicubic,0,ABCDEFGHIJKLMNOPORS TUVIAXKYZ,0.8076923076923077,,0.0,48,0.1
+36,0.5,lanczos,0,,0.0,,0.0,48,0.1
+36,0.5,nearest,0,,0.0,,0.0,48,0.1
+36,0.5,bilinear,0,,0.0,,0.0,48,0.1
+36,0.5,bicubic,0,,0.0,,0.0,48,0.1
+0,0.5,lanczos,0,,0.0,,0.0,48,0.3
+0,0.5,nearest,0,,0.0,,0.0,48,0.3
+0,0.5,bilinear,0,,0.0,,0.0,48,0.3
+0,0.5,bicubic,0,,0.0,,0.0,48,0.3
+12,0.5,lanczos,0,,0.0,,0.0,48,0.3
+12,0.5,nearest,0,,0.0,,0.0,48,0.3
+12,0.5,bilinear,0,,0.0,,0.0,48,0.3
+12,0.5,bicubic,0,,0.0,,0.0,48,0.3
+24,0.5,lanczos,0,ARC PEE TKI VN ORO RN LLINAALX YZ,0.038461538461538436,,0.0,48,0.3
+24,0.5,nearest,0,ARC PEE TKI VN ORO RN LLINAALX YZ,0.038461538461538436,,0.0,48,0.3
+24,0.5,bilinear,0,ARC PEE TKI VN ORO RN LLINAALX YZ,0.038461538461538436,,0.0,48,0.3
+24,0.5,bicubic,0,ARC PEE TKI VN ORO RN LLINAALX YZ,0.038461538461538436,,0.0,48,0.3
+36,0.5,lanczos,0,BOLE VN ERO LUV VVALZ,0.1923076923076923,,0.0,48,0.3
+36,0.5,nearest,0,BOLE VN ERO LUV VVALZ,0.1923076923076923,,0.0,48,0.3
+36,0.5,bilinear,0,BOLE VN ERO LUV VVALZ,0.1923076923076923,,0.0,48,0.3
+36,0.5,bicubic,0,BOLE VN ERO LUV VVALZ,0.1923076923076923,,0.0,48,0.3
+0,0.5,lanczos,0,,0.0,,0.0,48,0.5
+0,0.5,nearest,0,,0.0,,0.0,48,0.5
+0,0.5,bilinear,0,,0.0,,0.0,48,0.5
+0,0.5,bicubic,0,,0.0,,0.0,48,0.5
+12,0.5,lanczos,0,"tN LD EN Lt LE NANI CNT ONE CTT INS ATNANVS 7
+a",0.0,,0.0,48,0.5
+12,0.5,nearest,0,"tN LD EN Lt LE NANI CNT ONE CTT INS ATNANVS 7
+a",0.0,,0.0,48,0.5
+12,0.5,bilinear,0,"tN LD EN Lt LE NANI CNT ONE CTT INS ATNANVS 7
+a",0.0,,0.0,48,0.5
+12,0.5,bicubic,0,"tN LD EN Lt LE NANI CNT ONE CTT INS ATNANVS 7
+a",0.0,,0.0,48,0.5
+24,0.5,lanczos,0,"tN eS et TA NIA ES EN TINA XV 7
+Nee",0.0,,0.0,48,0.5
+24,0.5,nearest,0,"tN eS et TA NIA ES EN TINA XV 7
+Nee",0.0,,0.0,48,0.5
+24,0.5,bilinear,0,"tN eS et TA NIA ES EN TINA XV 7
+Nee",0.0,,0.0,48,0.5
+24,0.5,bicubic,0,"tN eS et TA NIA ES EN TINA XV 7
+Nee",0.0,,0.0,48,0.5
+36,0.5,lanczos,0,A TT A NT VEIN J YE VV AY /,0.11538461538461542,,0.0,48,0.5
+36,0.5,nearest,0,A TT A NT VEIN J YE VV AY /,0.11538461538461542,,0.0,48,0.5
+36,0.5,bilinear,0,A TT A NT VEIN J YE VV AY /,0.11538461538461542,,0.0,48,0.5
+36,0.5,bicubic,0,A TT A NT VEIN J YE VV AY /,0.11538461538461542,,0.0,48,0.5
+0,0.5,lanczos,0,,0.0,,0.0,64,0.1
+0,0.5,nearest,0,,0.0,,0.0,64,0.1
+0,0.5,bilinear,0,,0.0,,0.0,64,0.1
+0,0.5,bicubic,0,,0.0,,0.0,64,0.1
+16,0.5,lanczos,0,,0.0,,0.0,64,0.1
+16,0.5,nearest,0,,0.0,,0.0,64,0.1
+16,0.5,bilinear,0,,0.0,,0.0,64,0.1
+16,0.5,bicubic,0,,0.0,,0.0,64,0.1
+32,0.5,lanczos,0,,0.0,,0.0,64,0.1
+32,0.5,nearest,0,,0.0,,0.0,64,0.1
+32,0.5,bilinear,0,,0.0,,0.0,64,0.1
+32,0.5,bicubic,0,,0.0,,0.0,64,0.1
+48,0.5,lanczos,0,,0.0,,0.0,64,0.1
+48,0.5,nearest,0,,0.0,,0.0,64,0.1
+48,0.5,bilinear,0,,0.0,,0.0,64,0.1
+48,0.5,bicubic,0,,0.0,,0.0,64,0.1
+0,0.5,lanczos,0,,0.0,,0.0,64,0.3
+0,0.5,nearest,0,,0.0,,0.0,64,0.3
+0,0.5,bilinear,0,,0.0,,0.0,64,0.3
+0,0.5,bicubic,0,,0.0,,0.0,64,0.3
+16,0.5,lanczos,0,ARC T)EEC HI] [Ki MNC)PORS TILA XY 7,0.15384615384615385,ABCDEEGHILIKLMNOPORS TUVWXYZ,0.8076923076923077,64,0.3
+16,0.5,nearest,0,ARC T)EEC HI] [Ki MNC)PORS TILA XY 7,0.15384615384615385,ARCDEEGHLIKIMNOPORS LUVWXYZ,0.6923076923076923,64,0.3
+16,0.5,bilinear,0,ARC T)EEC HI] [Ki MNC)PORS TILA XY 7,0.15384615384615385,ABCDEEGHILIKLMNOPORS TUVWXYZ,0.8076923076923077,64,0.3
+16,0.5,bicubic,0,ARC T)EEC HI] [Ki MNC)PORS TILA XY 7,0.15384615384615385,ABCDEEGHILIKLMNOPORS TUVWXYZ,0.8076923076923077,64,0.3
+32,0.5,lanczos,0,,0.0,,0.0,64,0.3
+32,0.5,nearest,0,,0.0,,0.0,64,0.3
+32,0.5,bilinear,0,,0.0,,0.0,64,0.3
+32,0.5,bicubic,0,,0.0,,0.0,64,0.3
+48,0.5,lanczos,0,,0.0,,0.0,64,0.3
+48,0.5,nearest,0,,0.0,,0.0,64,0.3
+48,0.5,bilinear,0,,0.0,,0.0,64,0.3
+48,0.5,bicubic,0,,0.0,,0.0,64,0.3
+0,0.5,lanczos,0,ANICNT CNT),0.15384615384615385,,0.0,64,0.5
+0,0.5,nearest,0,ANICNT CNT),0.15384615384615385,,0.0,64,0.5
+0,0.5,bilinear,0,ANICNT CNT),0.15384615384615385,,0.0,64,0.5
+0,0.5,bicubic,0,ANICNT CNT),0.15384615384615385,,0.0,64,0.5
+16,0.5,lanczos,0,"iv tof Li foe] TAL WANE Ee VN TINA XV 7
+OO ee",0.0,,0.0,64,0.5
+16,0.5,nearest,0,"iv tof Li foe] TAL WANE Ee VN TINA XV 7
+OO ee",0.0,,0.0,64,0.5
+16,0.5,bilinear,0,"iv tof Li foe] TAL WANE Ee VN TINA XV 7
+OO ee",0.0,,0.0,64,0.5
+16,0.5,bicubic,0,"iv tof Li foe] TAL WANE Ee VN TINA XV 7
+OO ee",0.0,,0.0,64,0.5
+32,0.5,lanczos,0,NOV LITE NT TL NL IVINS INO TU VV AT ZS,0.0,,0.0,64,0.5
+32,0.5,nearest,0,NOV LITE NT TL NL IVINS INO TU VV AT ZS,0.0,,0.0,64,0.5
+32,0.5,bilinear,0,NOV LITE NT TL NL IVINS INO TU VV AT ZS,0.0,,0.0,64,0.5
+32,0.5,bicubic,0,NOV LITE NT TL NL IVINS INO TU VV AT ZS,0.0,,0.0,64,0.5
+48,0.5,lanczos,0,,0.0,,0.0,64,0.5
+48,0.5,nearest,0,,0.0,,0.0,64,0.5
+48,0.5,bilinear,0,,0.0,,0.0,64,0.5
+48,0.5,bicubic,0,,0.0,,0.0,64,0.5
+0,0.5,lanczos,0,ABCDEFGHIJKLMNOPORSTUVWXYZ,0.9615384615384616,ABCDEFGHIJKLMNOPORSTUVWXYZ,0.9615384615384616,96,0.1
+0,0.5,nearest,0,ABCDEFGHIJKLMNOPORSTUVWXYZ,0.9615384615384616,ABCDEFGHIJKLMNOPORSTUVWXYZ,0.9615384615384616,96,0.1
+0,0.5,bilinear,0,ABCDEFGHIJKLMNOPORSTUVWXYZ,0.9615384615384616,ABCDEFGHIJKLMNOPORSTUVWXYZ,0.9615384615384616,96,0.1
+0,0.5,bicubic,0,ABCDEFGHIJKLMNOPORSTUVWXYZ,0.9615384615384616,ABCDEFGHIJKLMNOPORSTUVWXYZ,0.9615384615384616,96,0.1
+24,0.5,lanczos,0,,0.0,,0.0,96,0.1
+24,0.5,nearest,0,,0.0,,0.0,96,0.1
+24,0.5,bilinear,0,,0.0,,0.0,96,0.1
+24,0.5,bicubic,0,,0.0,,0.0,96,0.1
+48,0.5,lanczos,0,,0.0,,0.0,96,0.1
+48,0.5,nearest,0,,0.0,,0.0,96,0.1
+48,0.5,bilinear,0,,0.0,,0.0,96,0.1
+48,0.5,bicubic,0,,0.0,,0.0,96,0.1
+72,0.5,lanczos,0,,0.0,,0.0,96,0.1
+72,0.5,nearest,0,,0.0,,0.0,96,0.1
+72,0.5,bilinear,0,,0.0,,0.0,96,0.1
+72,0.5,bicubic,0,,0.0,,0.0,96,0.1
+0,0.5,lanczos,0,,0.0,,0.0,96,0.3
+0,0.5,nearest,0,,0.0,,0.0,96,0.3
+0,0.5,bilinear,0,,0.0,,0.0,96,0.3
+0,0.5,bicubic,0,,0.0,,0.0,96,0.3
+24,0.5,lanczos,0,,0.0,,0.0,96,0.3
+24,0.5,nearest,0,,0.0,,0.0,96,0.3
+24,0.5,bilinear,0,,0.0,,0.0,96,0.3
+24,0.5,bicubic,0,,0.0,,0.0,96,0.3
+48,0.5,lanczos,0,,0.0,,0.0,96,0.3
+48,0.5,nearest,0,,0.0,,0.0,96,0.3
+48,0.5,bilinear,0,,0.0,,0.0,96,0.3
+48,0.5,bicubic,0,,0.0,,0.0,96,0.3
+72,0.5,lanczos,0,,0.0,,0.0,96,0.3
+72,0.5,nearest,0,,0.0,,0.0,96,0.3
+72,0.5,bilinear,0,,0.0,,0.0,96,0.3
+72,0.5,bicubic,0,,0.0,,0.0,96,0.3
+0,0.5,lanczos,0,ARCTEECGH] [Ki MNOPORS TUVWXYZ,0.5769230769230769,ABCTEEGCHT IKI MNOPORS TLV XY 7,0.46153846153846156,96,0.5
+0,0.5,nearest,0,ARCTEECGH] [Ki MNOPORS TUVWXYZ,0.5769230769230769,ARCIEFCH! IKTMNOPORS TUVAIXYZ,0.5769230769230769,96,0.5
+0,0.5,bilinear,0,ARCTEECGH] [Ki MNOPORS TUVWXYZ,0.5769230769230769,ABCTEEGHT IKI MNOPORS TLV XY 7,0.5,96,0.5
+0,0.5,bicubic,0,ARCTEECGH] [Ki MNOPORS TUVWXYZ,0.5769230769230769,ABCTEEGCHT IKI MNOPORS TLV XY 7,0.46153846153846156,96,0.5
+24,0.5,lanczos,0,VIINUPUR UVVV Y,0.23076923076923073,,0.0,96,0.5
+24,0.5,nearest,0,VIINUPUR UVVV Y,0.23076923076923073,,0.0,96,0.5
+24,0.5,bilinear,0,VIINUPUR UVVV Y,0.23076923076923073,,0.0,96,0.5
+24,0.5,bicubic,0,VIINUPUR UVVV Y,0.23076923076923073,,0.0,96,0.5
+48,0.5,lanczos,0,,0.0,,0.0,96,0.5
+48,0.5,nearest,0,,0.0,,0.0,96,0.5
+48,0.5,bilinear,0,,0.0,,0.0,96,0.5
+48,0.5,bicubic,0,,0.0,,0.0,96,0.5
+72,0.5,lanczos,0,,0.0,,0.0,96,0.5
+72,0.5,nearest,0,,0.0,,0.0,96,0.5
+72,0.5,bilinear,0,,0.0,,0.0,96,0.5
+72,0.5,bicubic,0,,0.0,,0.0,96,0.5
+0,0.5,lanczos,45,Uy,0.038461538461538436,,0.0,8,0.1
+0,0.5,nearest,45,Uy,0.038461538461538436,"a
+<
+é
+
+\ABCDEF",0.0,8,0.1
+0,0.5,bilinear,45,Uy,0.038461538461538436,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+0,0.5,bicubic,45,Uy,0.038461538461538436,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+2,0.5,lanczos,45,,0.0,DEFG,0.15384615384615385,8,0.1
+2,0.5,nearest,45,,0.0,,0.0,8,0.1
+2,0.5,bilinear,45,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+2,0.5,bicubic,45,,0.0,ABCDEFGHIJKLMNOPRQRSTUVWXYZ,0.9615384615384616,8,0.1
+4,0.5,lanczos,45,,0.0,ANY NEECHIIK MNOPOR: y \,0.34615384615384615,8,0.1
+4,0.5,nearest,45,,0.0,"2
+=
+O
+a
+ca
+<x",0.038461538461538436,8,0.1
+4,0.5,bilinear,45,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+4,0.5,bicubic,45,,0.0,ABCDEFGHIJKLMNOPRQRSTUVWXYZ,0.9615384615384616,8,0.1
+6,0.5,lanczos,45,,0.0,WI WNAAANHIVIN AAA \,0.038461538461538436,8,0.1
+6,0.5,nearest,45,,0.0,"N
+
+ABCDEFGHISKLMN WO)",0.42307692307692313,8,0.1
+6,0.5,bilinear,45,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+6,0.5,bicubic,45,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+0,0.5,lanczos,45,,0.0,,0.0,8,0.3
+0,0.5,nearest,45,,0.0,yy,0.0,8,0.3
+0,0.5,bilinear,45,,0.0,,0.0,8,0.3
+0,0.5,bicubic,45,,0.0,"Y
+
+Bs
+
+\",0.0,8,0.3
+2,0.5,lanczos,45,,0.0,,0.0,8,0.3
+2,0.5,nearest,45,,0.0,,0.0,8,0.3
+2,0.5,bilinear,45,,0.0,,0.0,8,0.3
+2,0.5,bicubic,45,,0.0,,0.0,8,0.3
+4,0.5,lanczos,45,,0.0,Vi,0.038461538461538436,8,0.3
+4,0.5,nearest,45,,0.0,Vs,0.038461538461538436,8,0.3
+4,0.5,bilinear,45,,0.0,Vi,0.038461538461538436,8,0.3
+4,0.5,bicubic,45,,0.0,Vi,0.038461538461538436,8,0.3
+6,0.5,lanczos,45,,0.0,,0.0,8,0.3
+6,0.5,nearest,45,,0.0,,0.0,8,0.3
+6,0.5,bilinear,45,,0.0,,0.0,8,0.3
+6,0.5,bicubic,45,,0.0,,0.0,8,0.3
+0,0.5,lanczos,45,"BRABUS N
+SRO AARRAORORNRRR
+
+Yy
+YY hy
+
+e",0.0,,0.0,8,0.5
+0,0.5,nearest,45,"BRABUS N
+SRO AARRAORORNRRR
+
+Yy
+YY hy
+
+e",0.0,,0.0,8,0.5
+0,0.5,bilinear,45,"BRABUS N
+SRO AARRAORORNRRR
+
+Yy
+YY hy
+
+e",0.0,"7,",0.0,8,0.5
+0,0.5,bicubic,45,"BRABUS N
+SRO AARRAORORNRRR
+
+Yy
+YY hy
+
+e",0.0,,0.0,8,0.5
+2,0.5,lanczos,45,"ANANSI AAS ARANRERRS\
+
+RRNA ROR ARR",0.0,,0.0,8,0.5
+2,0.5,nearest,45,"ANANSI AAS ARANRERRS\
+
+RRNA ROR ARR",0.0,,0.0,8,0.5
+2,0.5,bilinear,45,"ANANSI AAS ARANRERRS\
+
+RRNA ROR ARR",0.0,,0.0,8,0.5
+2,0.5,bicubic,45,"ANANSI AAS ARANRERRS\
+
+RRNA ROR ARR",0.0,,0.0,8,0.5
+4,0.5,lanczos,45,"IXIA
+
+RAR RAO RRA",0.07692307692307687,,0.0,8,0.5
+4,0.5,nearest,45,"IXIA
+
+RAR RAO RRA",0.07692307692307687,Vs,0.038461538461538436,8,0.5
+4,0.5,bilinear,45,"IXIA
+
+RAR RAO RRA",0.07692307692307687,,0.0,8,0.5
+4,0.5,bicubic,45,"IXIA
+
+RAR RAO RRA",0.07692307692307687,,0.0,8,0.5
+6,0.5,lanczos,45,"NANA (YSN NYHA \
+
+NAAR NORA",0.0,,0.0,8,0.5
+6,0.5,nearest,45,"NANA (YSN NYHA \
+
+NAAR NORA",0.0,Ve,0.038461538461538436,8,0.5
+6,0.5,bilinear,45,"NANA (YSN NYHA \
+
+NAAR NORA",0.0,,0.0,8,0.5
+6,0.5,bicubic,45,"NANA (YSN NYHA \
+
+NAAR NORA",0.0,,0.0,8,0.5
+0,0.5,lanczos,45,"~ABCDEFGHISKLMNOPQRSTUVW% V7
+~~",0.6538461538461539,"5 RRR
+-ABCDEFGHIJKLMNOPQRSTUVWXYZ",0.7307692307692308,12,0.1
+0,0.5,nearest,45,"~ABCDEFGHISKLMNOPQRSTUVW% V7
+~~",0.6538461538461539,"RYZE
+
+ABCDEFGHIJKLMNORQRSTUV
+
+LE
+ee",0.46153846153846156,12,0.1
+0,0.5,bilinear,45,"~ABCDEFGHISKLMNOPQRSTUVW% V7
+~~",0.6538461538461539,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+0,0.5,bicubic,45,"~ABCDEFGHISKLMNOPQRSTUVW% V7
+~~",0.6538461538461539,ABCDEFGHIJKLMNOPRQRSTUVWXYZ,0.9615384615384616,12,0.1
+3,0.5,lanczos,45,,0.0,"BCD JOPORSTUVWXYZ.
+~ABCDEFGHIJKLMNOPQRSTUVWXYZ",0.23076923076923073,12,0.1
+3,0.5,nearest,45,,0.0,"WARY
+
+AY
+
+ws
+
+ABCDEFGHIJKLMNORQRS)",0.15384615384615385,12,0.1
+3,0.5,bilinear,45,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+3,0.5,bicubic,45,,0.0,ABCDEFGHIJKLMNOPRQRSTUVWXYZ,0.9615384615384616,12,0.1
+6,0.5,lanczos,45,"Zs
+
+HIJKLMNOPORSTU'
+
+G
+""7
+
+MW)
+ols
+>
+C)
+
+wy
+(YX",0.0,"\ N N KY WN) y) JDO PST \Y YO
+~ABCDEFGHIJKLMNOPQRSTUVWXVZ",0.0,12,0.1
+6,0.5,nearest,45,"Zs
+
+HIJKLMNOPORSTU'
+
+G
+""7
+
+MW)
+ols
+>
+C)
+
+wy
+(YX",0.0,"ABCDEFGHIJKLMN
+
+QRORSKNYY",0.6538461538461539,12,0.1
+6,0.5,bilinear,45,"Zs
+
+HIJKLMNOPORSTU'
+
+G
+""7
+
+MW)
+ols
+>
+C)
+
+wy
+(YX",0.0,ABCDEFGHISJKLMNOPQRSTUVWXYZ,0.9615384615384616,12,0.1
+6,0.5,bicubic,45,"Zs
+
+HIJKLMNOPORSTU'
+
+G
+""7
+
+MW)
+ols
+>
+C)
+
+wy
+(YX",0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+9,0.5,lanczos,45,"re,
+
+SHISKRVENOPRC
+
+mi
+
+BCD)
+
+WS
+
+f\",0.0,"S ADSAPAQKHNP py A S N
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ",0.038461538461538436,12,0.1
+9,0.5,nearest,45,"re,
+
+SHISKRVENOPRC
+
+mi
+
+BCD)
+
+WS
+
+f\",0.0,ABCDEFGHIJKLMNO\,0.5769230769230769,12,0.1
+9,0.5,bilinear,45,"re,
+
+SHISKRVENOPRC
+
+mi
+
+BCD)
+
+WS
+
+f\",0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+9,0.5,bicubic,45,"re,
+
+SHISKRVENOPRC
+
+mi
+
+BCD)
+
+WS
+
+f\",0.0,ABCDEFGHIJKLMNOPRQRSTUVWXYZ,0.9615384615384616,12,0.1
+0,0.5,lanczos,45,,0.0,,0.0,12,0.3
+0,0.5,nearest,45,,0.0,,0.0,12,0.3
+0,0.5,bilinear,45,,0.0,,0.0,12,0.3
+0,0.5,bicubic,45,,0.0,,0.0,12,0.3
+3,0.5,lanczos,45,,0.0,,0.0,12,0.3
+3,0.5,nearest,45,,0.0,,0.0,12,0.3
+3,0.5,bilinear,45,,0.0,,0.0,12,0.3
+3,0.5,bicubic,45,,0.0,,0.0,12,0.3
+6,0.5,lanczos,45,,0.0,,0.0,12,0.3
+6,0.5,nearest,45,,0.0,,0.0,12,0.3
+6,0.5,bilinear,45,,0.0,,0.0,12,0.3
+6,0.5,bicubic,45,,0.0,,0.0,12,0.3
+9,0.5,lanczos,45,,0.0,,0.0,12,0.3
+9,0.5,nearest,45,,0.0,,0.0,12,0.3
+9,0.5,bilinear,45,,0.0,,0.0,12,0.3
+9,0.5,bicubic,45,,0.0,,0.0,12,0.3
+0,0.5,lanczos,45,,0.0,,0.0,12,0.5
+0,0.5,nearest,45,,0.0,,0.0,12,0.5
+0,0.5,bilinear,45,,0.0,,0.0,12,0.5
+0,0.5,bicubic,45,,0.0,,0.0,12,0.5
+3,0.5,lanczos,45,"NANWNIAWAQRAW RR
+WWW. WW",0.07692307692307687,,0.0,12,0.5
+3,0.5,nearest,45,"NANWNIAWAQRAW RR
+WWW. WW",0.07692307692307687,,0.0,12,0.5
+3,0.5,bilinear,45,"NANWNIAWAQRAW RR
+WWW. WW",0.07692307692307687,,0.0,12,0.5
+3,0.5,bicubic,45,"NANWNIAWAQRAW RR
+WWW. WW",0.07692307692307687,,0.0,12,0.5
+6,0.5,lanczos,45,NASSAR QW,0.07692307692307687,,0.0,12,0.5
+6,0.5,nearest,45,NASSAR QW,0.07692307692307687,,0.0,12,0.5
+6,0.5,bilinear,45,NASSAR QW,0.07692307692307687,,0.0,12,0.5
+6,0.5,bicubic,45,NASSAR QW,0.07692307692307687,,0.0,12,0.5
+9,0.5,lanczos,45,"WAQYSIIINGWAA
+
+NERA",0.07692307692307687,,0.0,12,0.5
+9,0.5,nearest,45,"WAQYSIIINGWAA
+
+NERA",0.07692307692307687,,0.0,12,0.5
+9,0.5,bilinear,45,"WAQYSIIINGWAA
+
+NERA",0.07692307692307687,,0.0,12,0.5
+9,0.5,bicubic,45,"WAQYSIIINGWAA
+
+NERA",0.07692307692307687,,0.0,12,0.5
+0,0.5,lanczos,45,"ABC SDPEEGHISKNVNOPORSRY VWXYZ
+Ss",0.46153846153846156,ABCDEFGHISKEMNOPQRSTUVWXYZ,0.9230769230769231,16,0.1
+0,0.5,nearest,45,"ABC SDPEEGHISKNVNOPORSRY VWXYZ
+Ss",0.46153846153846156,"\
+-ABCDEFGHIJKLMINOPQRSTUVWHYZ:",0.7692307692307692,16,0.1
+0,0.5,bilinear,45,"ABC SDPEEGHISKNVNOPORSRY VWXYZ
+Ss",0.46153846153846156,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+0,0.5,bicubic,45,"ABC SDPEEGHISKNVNOPORSRY VWXYZ
+Ss",0.46153846153846156,ABCDEFGHISKEMNOPQRSTUVWXYZ,0.9230769230769231,16,0.1
+4,0.5,lanczos,45,"\
+~ABCDEFGHISJKLMNOPQRSTUVWXYZ |
+NO",0.6538461538461539,ABCDEFGHIJKLEMNOPRQRSTUVWXYZ,0.9230769230769231,16,0.1
+4,0.5,nearest,45,"\
+~ABCDEFGHISJKLMNOPQRSTUVWXYZ |
+NO",0.6538461538461539,ABCDEFGHIJKLMNOPQRSTUWWNZ.,0.8461538461538461,16,0.1
+4,0.5,bilinear,45,"\
+~ABCDEFGHISJKLMNOPQRSTUVWXYZ |
+NO",0.6538461538461539,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+4,0.5,bicubic,45,"\
+~ABCDEFGHISJKLMNOPQRSTUVWXYZ |
+NO",0.6538461538461539,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+8,0.5,lanczos,45,"A iS)
+Ni BIS NS) RE
+SDEFGHIKEM| | VIZ
+VEN
+PO D
+SEROV VX T",0.0,"~ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+SY",0.8076923076923077,16,0.1
+8,0.5,nearest,45,"A iS)
+Ni BIS NS) RE
+SDEFGHIKEM| | VIZ
+VEN
+PO D
+SEROV VX T",0.0,“ABCDEFGHIJKLMNOPQRSTUVWHYZ.,0.8846153846153846,16,0.1
+8,0.5,bilinear,45,"A iS)
+Ni BIS NS) RE
+SDEFGHIKEM| | VIZ
+VEN
+PO D
+SEROV VX T",0.0,ABCDEFGHISJKLMNOPQRSTUVWXYZ,0.9615384615384616,16,0.1
+8,0.5,bicubic,45,"A iS)
+Ni BIS NS) RE
+SDEFGHIKEM| | VIZ
+VEN
+PO D
+SEROV VX T",0.0,ABCDEFGHISKLMNOPQRSTUVWXYZ,0.9615384615384616,16,0.1
+12,0.5,lanczos,45,"/\ i.) NW MI A f| S .
+~ABCDEFGHIJKLMNOPQRS| SVAWXYZ~",0.0,": CVINOPORSTUVIWXYZ
+~ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+MR inn",0.0,16,0.1
+12,0.5,nearest,45,"/\ i.) NW MI A f| S .
+~ABCDEFGHIJKLMNOPQRS| SVAWXYZ~",0.0,"A
+B
+CDE!
+FGH
+IJ
+KLM
+INORQRSTUVWXYZ.
+SS
+
+NS",0.34615384615384615,16,0.1
+12,0.5,bilinear,45,"/\ i.) NW MI A f| S .
+~ABCDEFGHIJKLMNOPQRS| SVAWXYZ~",0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+12,0.5,bicubic,45,"/\ i.) NW MI A f| S .
+~ABCDEFGHIJKLMNOPQRS| SVAWXYZ~",0.0,ABCDEFGHISKLMNOPQRSTUVWXYZ,0.9615384615384616,16,0.1
+0,0.5,lanczos,45,"~\
+WECIERSRN RAR RRR
+Q",0.15384615384615385,,0.0,16,0.3
+0,0.5,nearest,45,"~\
+WECIERSRN RAR RRR
+Q",0.15384615384615385,,0.0,16,0.3
+0,0.5,bilinear,45,"~\
+WECIERSRN RAR RRR
+Q",0.15384615384615385,,0.0,16,0.3
+0,0.5,bicubic,45,"~\
+WECIERSRN RAR RRR
+Q",0.15384615384615385,,0.0,16,0.3
+4,0.5,lanczos,45,"WAS WSR RAWARORO RAMA
+Q",0.07692307692307687,,0.0,16,0.3
+4,0.5,nearest,45,"WAS WSR RAWARORO RAMA
+Q",0.07692307692307687,,0.0,16,0.3
+4,0.5,bilinear,45,"WAS WSR RAWARORO RAMA
+Q",0.07692307692307687,,0.0,16,0.3
+4,0.5,bicubic,45,"WAS WSR RAWARORO RAMA
+Q",0.07692307692307687,,0.0,16,0.3
+8,0.5,lanczos,45,"ROARK NAY NANNY \ ROR BWA S\N
+KS",0.0,,0.0,16,0.3
+8,0.5,nearest,45,"ROARK NAY NANNY \ ROR BWA S\N
+KS",0.0,,0.0,16,0.3
+8,0.5,bilinear,45,"ROARK NAY NANNY \ ROR BWA S\N
+KS",0.0,,0.0,16,0.3
+8,0.5,bicubic,45,"ROARK NAY NANNY \ ROR BWA S\N
+KS",0.0,,0.0,16,0.3
+12,0.5,lanczos,45,‘8 RCASRAR AA RAAAARORGRE WIR,0.0,,0.0,16,0.3
+12,0.5,nearest,45,‘8 RCASRAR AA RAAAARORGRE WIR,0.0,,0.0,16,0.3
+12,0.5,bilinear,45,‘8 RCASRAR AA RAAAARORGRE WIR,0.0,,0.0,16,0.3
+12,0.5,bicubic,45,‘8 RCASRAR AA RAAAARORGRE WIR,0.0,,0.0,16,0.3
+0,0.5,lanczos,45,"RRWIRAWAAWRAQWR
+N R
+
+SS SRA MYX N N WAS \
+
+—
+
+RAN",0.0,,0.0,16,0.5
+0,0.5,nearest,45,"RRWIRAWAAWRAQWR
+N R
+
+SS SRA MYX N N WAS \
+
+—
+
+RAN",0.0,,0.0,16,0.5
+0,0.5,bilinear,45,"RRWIRAWAAWRAQWR
+N R
+
+SS SRA MYX N N WAS \
+
+—
+
+RAN",0.0,,0.0,16,0.5
+0,0.5,bicubic,45,"RRWIRAWAAWRAQWR
+N R
+
+SS SRA MYX N N WAS \
+
+—
+
+RAN",0.0,,0.0,16,0.5
+4,0.5,lanczos,45,"ABRAHAM RRP ANWARAARRVO
+WAI WWW wer y)
+
+74",0.0,NSLS,0.07692307692307687,16,0.5
+4,0.5,nearest,45,"ABRAHAM RRP ANWARAARRVO
+WAI WWW wer y)
+
+74",0.0,"IN
+
+RRO
+Rss",0.11538461538461542,16,0.5
+4,0.5,bilinear,45,"ABRAHAM RRP ANWARAARRVO
+WAI WWW wer y)
+
+74",0.0,"»
+WRIMARARB",0.11538461538461542,16,0.5
+4,0.5,bicubic,45,"ABRAHAM RRP ANWARAARRVO
+WAI WWW wer y)
+
+74",0.0,ROR MWRWG,0.11538461538461542,16,0.5
+8,0.5,lanczos,45,"WARS
+NASA
+
+SO qw
+RWS
+
+WS NAN RRA",0.0,,0.0,16,0.5
+8,0.5,nearest,45,"WARS
+NASA
+
+SO qw
+RWS
+
+WS NAN RRA",0.0,,0.0,16,0.5
+8,0.5,bilinear,45,"WARS
+NASA
+
+SO qw
+RWS
+
+WS NAN RRA",0.0,,0.0,16,0.5
+8,0.5,bicubic,45,"WARS
+NASA
+
+SO qw
+RWS
+
+WS NAN RRA",0.0,,0.0,16,0.5
+12,0.5,lanczos,45,WARSSRRSANRAMNAASGIRRRRRA,0.07692307692307687,,0.0,16,0.5
+12,0.5,nearest,45,WARSSRRSANRAMNAASGIRRRRRA,0.07692307692307687,,0.0,16,0.5
+12,0.5,bilinear,45,WARSSRRSANRAMNAASGIRRRRRA,0.07692307692307687,,0.0,16,0.5
+12,0.5,bicubic,45,WARSSRRSANRAMNAASGIRRRRRA,0.07692307692307687,,0.0,16,0.5
+0,0.5,lanczos,45,"3\
+MABCDERGHUKEMNGORORS TOV eS
+\",0.3076923076923077,,0.0,24,0.1
+0,0.5,nearest,45,"3\
+MABCDERGHUKEMNGORORS TOV eS
+\",0.3076923076923077,v aS,0.038461538461538436,24,0.1
+0,0.5,bilinear,45,"3\
+MABCDERGHUKEMNGORORS TOV eS
+\",0.3076923076923077,v aS,0.038461538461538436,24,0.1
+0,0.5,bicubic,45,"3\
+MABCDERGHUKEMNGORORS TOV eS
+\",0.3076923076923077,v aS,0.038461538461538436,24,0.1
+6,0.5,lanczos,45,"KB CDE EG HIRANO POR SRI VIREO
+NS",0.15384615384615385,,0.0,24,0.1
+6,0.5,nearest,45,"KB CDE EG HIRANO POR SRI VIREO
+NS",0.15384615384615385,,0.0,24,0.1
+6,0.5,bilinear,45,"KB CDE EG HIRANO POR SRI VIREO
+NS",0.15384615384615385,,0.0,24,0.1
+6,0.5,bicubic,45,"KB CDE EG HIRANO POR SRI VIREO
+NS",0.15384615384615385,,0.0,24,0.1
+12,0.5,lanczos,45,MABCDERGHNKEMNORQR TUVWKYSS,0.6153846153846154,,0.0,24,0.1
+12,0.5,nearest,45,MABCDERGHNKEMNORQR TUVWKYSS,0.6153846153846154,,0.0,24,0.1
+12,0.5,bilinear,45,MABCDERGHNKEMNORQR TUVWKYSS,0.6153846153846154,,0.0,24,0.1
+12,0.5,bicubic,45,MABCDERGHNKEMNORQR TUVWKYSS,0.6153846153846154,,0.0,24,0.1
+18,0.5,lanczos,45,"ABCDERGANY S
+MABCDERGHIKEMNORORS SVS",0.038461538461538436,,0.0,24,0.1
+18,0.5,nearest,45,"ABCDERGANY S
+MABCDERGHIKEMNORORS SVS",0.038461538461538436,,0.0,24,0.1
+18,0.5,bilinear,45,"ABCDERGANY S
+MABCDERGHIKEMNORORS SVS",0.038461538461538436,,0.0,24,0.1
+18,0.5,bicubic,45,"ABCDERGANY S
+MABCDERGHIKEMNORORS SVS",0.038461538461538436,,0.0,24,0.1
+0,0.5,lanczos,45,"y N : 5 5 r\\
+WAS QASRAG RANA QR",0.0,,0.0,24,0.3
+0,0.5,nearest,45,"y N : 5 5 r\\
+WAS QASRAG RANA QR",0.0,"RS RRRESAARAMAROAYRARRWE
+x",0.11538461538461542,24,0.3
+0,0.5,bilinear,45,"y N : 5 5 r\\
+WAS QASRAG RANA QR",0.0,,0.0,24,0.3
+0,0.5,bicubic,45,"y N : 5 5 r\\
+WAS QASRAG RANA QR",0.0,,0.0,24,0.3
+6,0.5,lanczos,45,"LA \
+
+WOH
+XX
+
+BAIR AAR RO RNR",0.0,,0.0,24,0.3
+6,0.5,nearest,45,"LA \
+
+WOH
+XX
+
+BAIR AAR RO RNR",0.0,,0.0,24,0.3
+6,0.5,bilinear,45,"LA \
+
+WOH
+XX
+
+BAIR AAR RO RNR",0.0,,0.0,24,0.3
+6,0.5,bicubic,45,"LA \
+
+WOH
+XX
+
+BAIR AAR RO RNR",0.0,,0.0,24,0.3
+12,0.5,lanczos,45,"ANS
+NASR
+BINNEY
+NUNRQRORS
+WN Y
+- YS RS",0.0,,0.0,24,0.3
+12,0.5,nearest,45,"ANS
+NASR
+BINNEY
+NUNRQRORS
+WN Y
+- YS RS",0.0,,0.0,24,0.3
+12,0.5,bilinear,45,"ANS
+NASR
+BINNEY
+NUNRQRORS
+WN Y
+- YS RS",0.0,,0.0,24,0.3
+12,0.5,bicubic,45,"ANS
+NASR
+BINNEY
+NUNRQRORS
+WN Y
+- YS RS",0.0,,0.0,24,0.3
+18,0.5,lanczos,45,ERR ARRRRQRORS A SWRA,0.11538461538461542,,0.0,24,0.3
+18,0.5,nearest,45,ERR ARRRRQRORS A SWRA,0.11538461538461542,,0.0,24,0.3
+18,0.5,bilinear,45,ERR ARRRRQRORS A SWRA,0.11538461538461542,,0.0,24,0.3
+18,0.5,bicubic,45,ERR ARRRRQRORS A SWRA,0.11538461538461542,\,0.0,24,0.3
+0,0.5,lanczos,45,"RSQ
+RRA
+
+Ge
+
+ts Ve,
+jj
+
+RANA
+BWR",0.0,,0.0,24,0.5
+0,0.5,nearest,45,"RSQ
+RRA
+
+Ge
+
+ts Ve,
+jj
+
+RANA
+BWR",0.0,,0.0,24,0.5
+0,0.5,bilinear,45,"RSQ
+RRA
+
+Ge
+
+ts Ve,
+jj
+
+RANA
+BWR",0.0,,0.0,24,0.5
+0,0.5,bicubic,45,"RSQ
+RRA
+
+Ge
+
+ts Ve,
+jj
+
+RANA
+BWR",0.0,,0.0,24,0.5
+6,0.5,lanczos,45,"NAAR SAR ROS NNN
+RRSAARWVRRRAVw",0.0,,0.0,24,0.5
+6,0.5,nearest,45,"NAAR SAR ROS NNN
+RRSAARWVRRRAVw",0.0,,0.0,24,0.5
+6,0.5,bilinear,45,"NAAR SAR ROS NNN
+RRSAARWVRRRAVw",0.0,,0.0,24,0.5
+6,0.5,bicubic,45,"NAAR SAR ROS NNN
+RRSAARWVRRRAVw",0.0,,0.0,24,0.5
+12,0.5,lanczos,45,"WR QARRSNANRERR RRR
+VERGARA",0.0,,0.0,24,0.5
+12,0.5,nearest,45,"WR QARRSNANRERR RRR
+VERGARA",0.0,,0.0,24,0.5
+12,0.5,bilinear,45,"WR QARRSNANRERR RRR
+VERGARA",0.0,,0.0,24,0.5
+12,0.5,bicubic,45,"WR QARRSNANRERR RRR
+VERGARA",0.0,,0.0,24,0.5
+18,0.5,lanczos,45,,0.0,,0.0,24,0.5
+18,0.5,nearest,45,,0.0,,0.0,24,0.5
+18,0.5,bilinear,45,,0.0,,0.0,24,0.5
+18,0.5,bicubic,45,,0.0,,0.0,24,0.5
+0,0.5,lanczos,45,ABCDERSRNKNIVORQRERI IRIS,0.34615384615384615,,0.0,32,0.1
+0,0.5,nearest,45,ABCDERSRNKNIVORQRERI IRIS,0.34615384615384615,,0.0,32,0.1
+0,0.5,bilinear,45,ABCDERSRNKNIVORQRERI IRIS,0.34615384615384615,,0.0,32,0.1
+0,0.5,bicubic,45,ABCDERSRNKNIVORQRERI IRIS,0.34615384615384615,,0.0,32,0.1
+8,0.5,lanczos,45,MBOBERGAIKANORQRS NUR,0.3846153846153846,RECREREAIRNERORETNE,0.23076923076923073,32,0.1
+8,0.5,nearest,45,MBOBERGAIKANORQRS NUR,0.3846153846153846,SRBCBERERIRENINERORETRWL,0.2692307692307693,32,0.1
+8,0.5,bilinear,45,MBOBERGAIKANORQRS NUR,0.3846153846153846,ECREREAIRENERTWE,0.2692307692307693,32,0.1
+8,0.5,bicubic,45,MBOBERGAIKANORQRS NUR,0.3846153846153846,ECREREA INERT,0.1923076923076923,32,0.1
+16,0.5,lanczos,45,,0.0,SBCRERN LORIE,0.23076923076923073,32,0.1
+16,0.5,nearest,45,,0.0,SRBCRERGHIUKEMNORORSTIZ,0.5,32,0.1
+16,0.5,bilinear,45,,0.0,SBCRERNEORIRST OU,0.2692307692307693,32,0.1
+16,0.5,bicubic,45,,0.0,SRBCRERN LORRI,0.1923076923076923,32,0.1
+24,0.5,lanczos,45,,0.0,RECRERI RACERS,0.1923076923076923,32,0.1
+24,0.5,nearest,45,,0.0,,0.0,32,0.1
+24,0.5,bilinear,45,,0.0,RACER RACER IZY,0.15384615384615385,32,0.1
+24,0.5,bicubic,45,,0.0,RECRERIRUACEGRET ZY,0.23076923076923073,32,0.1
+0,0.5,lanczos,45,,0.0,,0.0,32,0.3
+0,0.5,nearest,45,,0.0,,0.0,32,0.3
+0,0.5,bilinear,45,,0.0,,0.0,32,0.3
+0,0.5,bicubic,45,,0.0,,0.0,32,0.3
+8,0.5,lanczos,45,,0.0,,0.0,32,0.3
+8,0.5,nearest,45,,0.0,,0.0,32,0.3
+8,0.5,bilinear,45,,0.0,,0.0,32,0.3
+8,0.5,bicubic,45,,0.0,,0.0,32,0.3
+16,0.5,lanczos,45,,0.0,RR RAAIWPW_,0.11538461538461542,32,0.3
+16,0.5,nearest,45,,0.0,BRRRRRRRRVWW®,0.15384615384615385,32,0.3
+16,0.5,bilinear,45,,0.0,Ra RRRRVW®W,0.11538461538461542,32,0.3
+16,0.5,bicubic,45,,0.0,Ra RRRRRAAIVAAP-OAERr}j,0.038461538461538436,32,0.3
+24,0.5,lanczos,45,,0.0,,0.0,32,0.3
+24,0.5,nearest,45,,0.0,,0.0,32,0.3
+24,0.5,bilinear,45,,0.0,,0.0,32,0.3
+24,0.5,bicubic,45,,0.0,,0.0,32,0.3
+0,0.5,lanczos,45,"NARRATOR
+NRRRAANRANRRRVRNW",0.07692307692307687,,0.0,32,0.5
+0,0.5,nearest,45,"NARRATOR
+NRRRAANRANRRRVRNW",0.07692307692307687,,0.0,32,0.5
+0,0.5,bilinear,45,"NARRATOR
+NRRRAANRANRRRVRNW",0.07692307692307687,,0.0,32,0.5
+0,0.5,bicubic,45,"NARRATOR
+NRRRAANRANRRRVRNW",0.07692307692307687,,0.0,32,0.5
+8,0.5,lanczos,45,"WRIA
+RORY
+
+AN
+
+NAKANO DS
+SSRAARYG
+
+AA!
+WN
+
+» NS
+iN
+AN",0.0,x,0.0,32,0.5
+8,0.5,nearest,45,"WRIA
+RORY
+
+AN
+
+NAKANO DS
+SSRAARYG
+
+AA!
+WN
+
+» NS
+iN
+AN",0.0,"x
+
+~",0.0,32,0.5
+8,0.5,bilinear,45,"WRIA
+RORY
+
+AN
+
+NAKANO DS
+SSRAARYG
+
+AA!
+WN
+
+» NS
+iN
+AN",0.0,x,0.0,32,0.5
+8,0.5,bicubic,45,"WRIA
+RORY
+
+AN
+
+NAKANO DS
+SSRAARYG
+
+AA!
+WN
+
+» NS
+iN
+AN",0.0,x,0.0,32,0.5
+16,0.5,lanczos,45,"WOO ROAR AAA
+SEERA",0.038461538461538436,,0.0,32,0.5
+16,0.5,nearest,45,"WOO ROAR AAA
+SEERA",0.038461538461538436,,0.0,32,0.5
+16,0.5,bilinear,45,"WOO ROAR AAA
+SEERA",0.038461538461538436,,0.0,32,0.5
+16,0.5,bicubic,45,"WOO ROAR AAA
+SEERA",0.038461538461538436,,0.0,32,0.5
+24,0.5,lanczos,45,"SRR
+NERRRRRRRAARRKNAMNW",0.038461538461538436,~,0.0,32,0.5
+24,0.5,nearest,45,"SRR
+NERRRRRRRAARRKNAMNW",0.038461538461538436,~,0.0,32,0.5
+24,0.5,bilinear,45,"SRR
+NERRRRRRRAARRKNAMNW",0.038461538461538436,~,0.0,32,0.5
+24,0.5,bicubic,45,"SRR
+NERRRRRRRAARRKNAMNW",0.038461538461538436,~,0.0,32,0.5
+0,0.5,lanczos,45,,0.0,RECDERSHOREMNORQRS TORTS,0.3846153846153846,48,0.1
+0,0.5,nearest,45,,0.0,SRBCDERSHIKLMNORQRS TRIES,0.5,48,0.1
+0,0.5,bilinear,45,,0.0,SRRCDERSHORLEMNORQRS TORTS,0.34615384615384615,48,0.1
+0,0.5,bicubic,45,,0.0,SRECDERSHORLMNORQRS TORTS,0.3846153846153846,48,0.1
+12,0.5,lanczos,45,,0.0,NBCBERGHISRNOPRQRSTI WY,0.5384615384615384,48,0.1
+12,0.5,nearest,45,,0.0,NABCBERGHISKLNNORQREHI YZ,0.5384615384615384,48,0.1
+12,0.5,bilinear,45,,0.0,NBBCBERGHINKENORARS TW,0.42307692307692313,48,0.1
+12,0.5,bicubic,45,,0.0,NABCBERGHISKRNORQRSTI WY,0.5769230769230769,48,0.1
+24,0.5,lanczos,45,,0.0,NABCREEGRNKERNQRORST URI A,0.34615384615384615,48,0.1
+24,0.5,nearest,45,,0.0,"NABCQEFGRNKEMNQRERST UR Z,",0.42307692307692313,48,0.1
+24,0.5,bilinear,45,,0.0,"NABCREEGRNKERNQRERST URE,",0.34615384615384615,48,0.1
+24,0.5,bicubic,45,,0.0,NABCRERGRNKERNQRERST UR Z,0.3846153846153846,48,0.1
+36,0.5,lanczos,45,,0.0,"ABE REFER IKEMNQRORSTUURZ,",0.3846153846153846,48,0.1
+36,0.5,nearest,45,,0.0,"ABE QERGHIKEMNQRORSTNURZ,",0.42307692307692313,48,0.1
+36,0.5,bilinear,45,,0.0,"ABE REFER IKEMNQRORSTUWRZ,",0.42307692307692313,48,0.1
+36,0.5,bicubic,45,,0.0,"ABS QERSRIKEMNQRORSTUVURZ,",0.42307692307692313,48,0.1
+0,0.5,lanczos,45,,0.0,LEVEN,0.07692307692307687,48,0.3
+0,0.5,nearest,45,,0.0,LRVVGWANIQNAW,0.15384615384615385,48,0.3
+0,0.5,bilinear,45,,0.0,RVR,0.07692307692307687,48,0.3
+0,0.5,bicubic,45,,0.0,LEVEN,0.07692307692307687,48,0.3
+12,0.5,lanczos,45,NSOQRROGNNININGRORS NIDA,0.11538461538461542,VARA IR,0.07692307692307687,48,0.3
+12,0.5,nearest,45,NSOQRROGNNININGRORS NIDA,0.11538461538461542,VARA,0.038461538461538436,48,0.3
+12,0.5,bilinear,45,NSOQRROGNNININGRORS NIDA,0.11538461538461542,VARVARA,0.07692307692307687,48,0.3
+12,0.5,bicubic,45,NSOQRROGNNININGRORS NIDA,0.11538461538461542,VARA IWRE,0.07692307692307687,48,0.3
+24,0.5,lanczos,45,,0.0,VERRAN,0.07692307692307687,48,0.3
+24,0.5,nearest,45,,0.0,VERRAN.,0.07692307692307687,48,0.3
+24,0.5,bilinear,45,,0.0,VERRAN.,0.07692307692307687,48,0.3
+24,0.5,bicubic,45,,0.0,VERRAN,0.07692307692307687,48,0.3
+36,0.5,lanczos,45,,0.0,VRE,0.038461538461538436,48,0.3
+36,0.5,nearest,45,,0.0,SERRATE,0.11538461538461542,48,0.3
+36,0.5,bilinear,45,,0.0,VRE,0.038461538461538436,48,0.3
+36,0.5,bicubic,45,,0.0,WRENN,0.07692307692307687,48,0.3
+0,0.5,lanczos,45,,0.0,,0.0,48,0.5
+0,0.5,nearest,45,,0.0,RVR,0.07692307692307687,48,0.5
+0,0.5,bilinear,45,,0.0,,0.0,48,0.5
+0,0.5,bicubic,45,,0.0,,0.0,48,0.5
+12,0.5,lanczos,45,,0.0,,0.0,48,0.5
+12,0.5,nearest,45,,0.0,,0.0,48,0.5
+12,0.5,bilinear,45,,0.0,,0.0,48,0.5
+12,0.5,bicubic,45,,0.0,,0.0,48,0.5
+24,0.5,lanczos,45,,0.0,,0.0,48,0.5
+24,0.5,nearest,45,,0.0,,0.0,48,0.5
+24,0.5,bilinear,45,,0.0,,0.0,48,0.5
+24,0.5,bicubic,45,,0.0,,0.0,48,0.5
+36,0.5,lanczos,45,,0.0,,0.0,48,0.5
+36,0.5,nearest,45,,0.0,RRRRRRRARARARAVAW,0.07692307692307687,48,0.5
+36,0.5,bilinear,45,,0.0,,0.0,48,0.5
+36,0.5,bicubic,45,,0.0,,0.0,48,0.5
+0,0.5,lanczos,45,,0.0,ABCDERGHISKEUNOR ARS TIES,0.46153846153846156,64,0.1
+0,0.5,nearest,45,,0.0,ABCDERGRISKNUNOR ARS NUKES,0.42307692307692313,64,0.1
+0,0.5,bilinear,45,,0.0,ABCDERGHISKEUNOR ARS TWIKI ES,0.42307692307692313,64,0.1
+0,0.5,bicubic,45,,0.0,ABCDERGHISKEUNOR ARS TWIKI,0.5,64,0.1
+16,0.5,lanczos,45,,0.0,NABCRERGHNIDITOPQRSROWIRKZS,0.3846153846153846,64,0.1
+16,0.5,nearest,45,,0.0,NABCRERGHNEL DAN OPQRSROWIRNZS,0.34615384615384615,64,0.1
+16,0.5,bilinear,45,,0.0,NABCRERGHNIDNOPQRS ROWS,0.46153846153846156,64,0.1
+16,0.5,bicubic,45,,0.0,NABCRERGHNIEDTOPQRSROWIRKZS,0.3846153846153846,64,0.1
+32,0.5,lanczos,45,,0.0,NRREQERSAN KEM QRQRSTOUIANZS,0.23076923076923073,64,0.1
+32,0.5,nearest,45,,0.0,NRREQERSAN KEM QRORSTOUIRKZS,0.1923076923076923,64,0.1
+32,0.5,bilinear,45,,0.0,NRREQERSAN KEM QRQRSTOUIANZS,0.23076923076923073,64,0.1
+32,0.5,bicubic,45,,0.0,NRREQERSAN KEM QRQRSTO IANS,0.23076923076923073,64,0.1
+48,0.5,lanczos,45,,0.0,"NABSDEFGHOKEMNORORST UWA,",0.5384615384615384,64,0.1
+48,0.5,nearest,45,,0.0,NARSDEFQHOKEMNORORST UWA,0.46153846153846156,64,0.1
+48,0.5,bilinear,45,,0.0,"NABSDEFQHOKEMNORORST UWA,",0.5,64,0.1
+48,0.5,bicubic,45,,0.0,"NABSDEFGHOKEMNORORST UWA,",0.5384615384615384,64,0.1
+0,0.5,lanczos,45,WBCBERONISQ AVS ORR NII,0.1923076923076923,ORDERERSENTNSCERRNIS,0.15384615384615385,64,0.3
+0,0.5,nearest,45,WBCBERONISQ AVS ORR NII,0.1923076923076923,OEDERERSENNSCRRRNIT,0.15384615384615385,64,0.3
+0,0.5,bilinear,45,WBCBERONISQ AVS ORR NII,0.1923076923076923,OEDERGRDSENTNSCERRNIS,0.1923076923076923,64,0.3
+0,0.5,bicubic,45,WBCBERONISQ AVS ORR NII,0.1923076923076923,OEDERGRSENTNSCERRNIIIS,0.1923076923076923,64,0.3
+16,0.5,lanczos,45,,0.0,NECRERORNATEROINID,0.15384615384615385,64,0.3
+16,0.5,nearest,45,,0.0,NEBERERORNIATRRQRORNID,0.11538461538461542,64,0.3
+16,0.5,bilinear,45,,0.0,NEERERONATEROINIRD,0.11538461538461542,64,0.3
+16,0.5,bicubic,45,,0.0,NEERERONT ROI,0.11538461538461542,64,0.3
+32,0.5,lanczos,45,,0.0,NERO RORSAY,0.1923076923076923,64,0.3
+32,0.5,nearest,45,,0.0,NERORRCSOIQROROY,0.1923076923076923,64,0.3
+32,0.5,bilinear,45,,0.0,NERORSOII RORY,0.15384615384615385,64,0.3
+32,0.5,bicubic,45,,0.0,NERORSOII RORY,0.15384615384615385,64,0.3
+48,0.5,lanczos,45,,0.0,REDD TARR,0.07692307692307687,64,0.3
+48,0.5,nearest,45,,0.0,"BRAT ARNOT,",0.15384615384615385,64,0.3
+48,0.5,bilinear,45,,0.0,RREQTTAANORESTIO,0.1923076923076923,64,0.3
+48,0.5,bicubic,45,,0.0,RREQTT ANOS,0.15384615384615385,64,0.3
+0,0.5,lanczos,45,,0.0,"NERNEY
+WAR",0.11538461538461542,64,0.5
+0,0.5,nearest,45,,0.0,"NX
+WAR",0.07692307692307687,64,0.5
+0,0.5,bilinear,45,,0.0,"NRE
+NN",0.07692307692307687,64,0.5
+0,0.5,bicubic,45,,0.0,"NERNEY
+NN",0.07692307692307687,64,0.5
+16,0.5,lanczos,45,,0.0,,0.0,64,0.5
+16,0.5,nearest,45,,0.0,NRE,0.07692307692307687,64,0.5
+16,0.5,bilinear,45,,0.0,,0.0,64,0.5
+16,0.5,bicubic,45,,0.0,,0.0,64,0.5
+32,0.5,lanczos,45,,0.0,WARRIOR,0.11538461538461542,64,0.5
+32,0.5,nearest,45,,0.0,RNR,0.07692307692307687,64,0.5
+32,0.5,bilinear,45,,0.0,QAR,0.038461538461538436,64,0.5
+32,0.5,bicubic,45,,0.0,RRR,0.038461538461538436,64,0.5
+48,0.5,lanczos,45,,0.0,WANNA,0.038461538461538436,64,0.5
+48,0.5,nearest,45,,0.0,WANNA,0.038461538461538436,64,0.5
+48,0.5,bilinear,45,,0.0,CNA,0.07692307692307687,64,0.5
+48,0.5,bicubic,45,,0.0,RNA,0.038461538461538436,64,0.5
+0,0.5,lanczos,45,"ARCBEFSHNKLMNSP
+
+QRS NUVAXS",0.5,ARCBEPSESEEMNORORS VNTR,0.34615384615384615,96,0.1
+0,0.5,nearest,45,"ARCBEFSHNKLMNSP
+
+QRS NUVAXS",0.5,"ARCBEPSETSEEMNORORS RVI,",0.34615384615384615,96,0.1
+0,0.5,bilinear,45,"ARCBEFSHNKLMNSP
+
+QRS NUVAXS",0.5,"PRCDEPSESEOMVDRORSR HRI,",0.23076923076923073,96,0.1
+0,0.5,bicubic,45,"ARCBEFSHNKLMNSP
+
+QRS NUVAXS",0.5,"ARCBEPSETSEEMNORORS RNR,",0.3076923076923077,96,0.1
+24,0.5,lanczos,45,"ABCRERGHNKMW
+
+NQPRRSTURY",0.46153846153846156,YABORERGANDYNQPRRSTURURT,0.34615384615384615,96,0.1
+24,0.5,nearest,45,"ABCRERGHNKMW
+
+NQPRRSTURY",0.46153846153846156,YABORERGANDYNQPRRST UWA,0.34615384615384615,96,0.1
+24,0.5,bilinear,45,"ABCRERGHNKMW
+
+NQPRRSTURY",0.46153846153846156,YABORERGANYNQPRRSTURURT,0.34615384615384615,96,0.1
+24,0.5,bicubic,45,"ABCRERGHNKMW
+
+NQPRRSTURY",0.46153846153846156,YABORERGANDYNQPRRSTURURT,0.34615384615384615,96,0.1
+48,0.5,lanczos,45,NABED ER GNU AL MNOPQRSTONWXYZS,0.5,NaBSLERON UAL LINGAQRSTOYIND,0.1923076923076923,96,0.1
+48,0.5,nearest,45,NABED ER GNU AL MNOPQRSTONWXYZS,0.5,SABSRERGM UAL YINGAQRSTOYINA,0.2692307692307693,96,0.1
+48,0.5,bilinear,45,NABED ER GNU AL MNOPQRSTONWXYZS,0.5,NaBSRERON UAL LINGAQASTOYINA,0.15384615384615385,96,0.1
+48,0.5,bicubic,45,NABED ER GNU AL MNOPQRSTONWXYZS,0.5,NaBSLERONUALLINGAQASTOYIND,0.23076923076923073,96,0.1
+72,0.5,lanczos,45,"\ABCDBEGHI JKLINVORORSTUVVRKYA,",0.5,LSBCOREDKIKLANORORETNYIRYA,0.34615384615384615,96,0.1
+72,0.5,nearest,45,"\ABCDBEGHI JKLINVORORSTUVVRKYA,",0.5,SBCORESKIKLANORORTAYIRYA,0.3846153846153846,96,0.1
+72,0.5,bilinear,45,"\ABCDBEGHI JKLINVORORSTUVVRKYA,",0.5,SBCOREDKIKLANORORG AYIA,0.3076923076923077,96,0.1
+72,0.5,bicubic,45,"\ABCDBEGHI JKLINVORORSTUVVRKYA,",0.5,SBCOREDKIKLANORORE AVIRA,0.34615384615384615,96,0.1
+0,0.5,lanczos,45,"ARCREFRY AKERS ORS UIT,",0.3076923076923077,"PRCIFRINUICORS NRT,",0.23076923076923073,96,0.3
+0,0.5,nearest,45,"ARCREFRY AKERS ORS UIT,",0.3076923076923077,"ARCISFRIINUICORS NRT,",0.2692307692307693,96,0.3
+0,0.5,bilinear,45,"ARCREFRY AKERS ORS UIT,",0.3076923076923077,"PRCOFRINUICORS NRT,",0.23076923076923073,96,0.3
+0,0.5,bicubic,45,"ARCREFRY AKERS ORS UIT,",0.3076923076923077,"PRCIIRINUICORS NRT,",0.1923076923076923,96,0.3
+24,0.5,lanczos,45,RBQRERGAALKAYNQPRRSQUIY:,0.3846153846153846,XERENENENAQPRSUNUNGS,0.1923076923076923,96,0.3
+24,0.5,nearest,45,RBQRERGAALKAYNQPRRSQUIY:,0.3846153846153846,ERRENENENAQPRSUNUNGS,0.1923076923076923,96,0.3
+24,0.5,bilinear,45,RBQRERGAALKAYNQPRRSQUIY:,0.3846153846153846,XERENENENAQPRSUNUNG,0.1923076923076923,96,0.3
+24,0.5,bicubic,45,RBQRERGAALKAYNQPRRSQUIY:,0.3846153846153846,XERERNENARQPRSUNUNG,0.1923076923076923,96,0.3
+48,0.5,lanczos,45,,0.0,NERRERCNUUINORQTNUINA,0.1923076923076923,96,0.3
+48,0.5,nearest,45,,0.0,NEROENCNIUNORGRTNUINA,0.23076923076923073,96,0.3
+48,0.5,bilinear,45,,0.0,NERRERCNUINORQ RT ONUINA,0.15384615384615385,96,0.3
+48,0.5,bicubic,45,,0.0,NEROERCNIUNORQTONUINA,0.23076923076923073,96,0.3
+72,0.5,lanczos,45,,0.0,NORCO IRORORGTNINY,0.1923076923076923,96,0.3
+72,0.5,nearest,45,,0.0,NORCORILIRORORGTNTINYN,0.23076923076923073,96,0.3
+72,0.5,bilinear,45,,0.0,NORCO IRORORGTNING,0.15384615384615385,96,0.3
+72,0.5,bicubic,45,,0.0,NORCO IRORORGTNINY,0.1923076923076923,96,0.3
+0,0.5,lanczos,45,"me
+PRC RE FELT TRAN RS CORSA,",0.038461538461538436,MAAN,0.038461538461538436,96,0.5
+0,0.5,nearest,45,"me
+PRC RE FELT TRAN RS CORSA,",0.038461538461538436,"MAAN,",0.038461538461538436,96,0.5
+0,0.5,bilinear,45,"me
+PRC RE FELT TRAN RS CORSA,",0.038461538461538436,MAAN,0.038461538461538436,96,0.5
+0,0.5,bicubic,45,"me
+PRC RE FELT TRAN RS CORSA,",0.038461538461538436,MAAN,0.038461538461538436,96,0.5
+24,0.5,lanczos,45,WECRERG PALA TRO PRE SRUTAUNY §,0.11538461538461542,NNANAANASRRS,0.11538461538461542,96,0.5
+24,0.5,nearest,45,WECRERG PALA TRO PRE SRUTAUNY §,0.11538461538461542,NNN,0.038461538461538436,96,0.5
+24,0.5,bilinear,45,WECRERG PALA TRO PRE SRUTAUNY §,0.11538461538461542,NNANAANASRRS,0.11538461538461542,96,0.5
+24,0.5,bicubic,45,WECRERG PALA TRO PRE SRUTAUNY §,0.11538461538461542,NNANAANASRRS,0.11538461538461542,96,0.5
+48,0.5,lanczos,45,"CSPAD ACR, RAVRORD RAL SALIRLA",0.0,VNNANANAURA,0.07692307692307687,96,0.5
+48,0.5,nearest,45,"CSPAD ACR, RAVRORD RAL SALIRLA",0.0,NNNARNANARURA,0.11538461538461542,96,0.5
+48,0.5,bilinear,45,"CSPAD ACR, RAVRORD RAL SALIRLA",0.0,VNNANRNARRA,0.07692307692307687,96,0.5
+48,0.5,bicubic,45,"CSPAD ACR, RAVRORD RAL SALIRLA",0.0,VNNANRNARURA,0.11538461538461542,96,0.5
+72,0.5,lanczos,45,EARS RE Sal Ra RAL CRON NRT,0.0,VARA NNANNR,0.07692307692307687,96,0.5
+72,0.5,nearest,45,EARS RE Sal Ra RAL CRON NRT,0.0,VARNA,0.038461538461538436,96,0.5
+72,0.5,bilinear,45,EARS RE Sal Ra RAL CRON NRT,0.0,VRAIN,0.07692307692307687,96,0.5
+72,0.5,bicubic,45,EARS RE Sal Ra RAL CRON NRT,0.0,VRAIN,0.07692307692307687,96,0.5
+0,0.5,lanczos,90,"ABCDEFGHIJKLMNOPQ
+
+=AO-
+SFE
+==
+
+==
+<=
+=
+
+—=
+SRE",0.0,JABCDEFGHUKLMNORORSTIUVINKYZ),0.6153846153846154,8,0.1
+0,0.5,nearest,90,"ABCDEFGHIJKLMNOPQ
+
+=AO-
+SFE
+==
+
+==
+<=
+=
+
+—=
+SRE",0.0,iMRI RUNNOBORST UVWxvz,0.3076923076923077,8,0.1
+0,0.5,bilinear,90,"ABCDEFGHIJKLMNOPQ
+
+=AO-
+SFE
+==
+
+==
+<=
+=
+
+—=
+SRE",0.0,VABCDEFGHIKLMNORQRSTUVWXYZ.,0.8461538461538461,8,0.1
+0,0.5,bicubic,90,"ABCDEFGHIJKLMNOPQ
+
+=AO-
+SFE
+==
+
+==
+<=
+=
+
+—=
+SRE",0.0,VABCDEFGHUKLMNORQRSTUVWKYZ),0.7692307692307692,8,0.1
+2,0.5,lanczos,90,,0.0,|ABCDEFGHUKLMNOPORSTUVWXYZ |,0.7692307692307692,8,0.1
+2,0.5,nearest,90,,0.0,iiKBEDEROMIURUMNOBORST UVWxvz,0.3846153846153846,8,0.1
+2,0.5,bilinear,90,,0.0,|ABCDEFGHLKLMNOPORSTUVWXYZ,0.8461538461538461,8,0.1
+2,0.5,bicubic,90,,0.0,|ABCDEFGHUKLMNOPORSTUVWXYZ |,0.7692307692307692,8,0.1
+4,0.5,lanczos,90,"“ABCDEFGH
+
+——
+
+JKLMNOPQRSTUVWXYZ",0.7307692307692308,/ABCDEFGHIKLMNOPORSTUVWXYZ |,0.8076923076923077,8,0.1
+4,0.5,nearest,90,"“ABCDEFGH
+
+——
+
+JKLMNOPQRSTUVWXYZ",0.7307692307692308,IIA BAD EES O BOR UvWxvZ,0.1923076923076923,8,0.1
+4,0.5,bilinear,90,"“ABCDEFGH
+
+——
+
+JKLMNOPQRSTUVWXYZ",0.7307692307692308,/ABCDEFGHIKLMNOPORSTUVWKYZ,0.8461538461538461,8,0.1
+4,0.5,bicubic,90,"“ABCDEFGH
+
+——
+
+JKLMNOPQRSTUVWXYZ",0.7307692307692308,/ABCDEFGHIKLMNOPORSTUVWXYZ,0.8846153846153846,8,0.1
+6,0.5,lanczos,90,"ABCDEFGHIJKLMNOPQRSTUVWXY
+
+=PSE",0.7692307692307692,"RSTUVWXY2
+
+WKLMNORQ
+
+/ABODERGH",0.07692307692307687,8,0.1
+6,0.5,nearest,90,"ABCDEFGHIJKLMNOPQRSTUVWXY
+
+=PSE",0.7692307692307692,LIKED ECMO BURST UVwxvz,0.23076923076923073,8,0.1
+6,0.5,bilinear,90,"ABCDEFGHIJKLMNOPQRSTUVWXY
+
+=PSE",0.7692307692307692,"RSTUVWXYZ |
+
+WKLMNORO
+
+VABODERGH",0.0,8,0.1
+6,0.5,bicubic,90,"ABCDEFGHIJKLMNOPQRSTUVWXY
+
+=PSE",0.7692307692307692,"RSTUVWXYZ
+
+WKLMNORQ
+
+|ABODERGH",0.07692307692307687,8,0.1
+0,0.5,lanczos,90,"JABCOERGHINKUMNGORO
+
+=o
+=F
+===
+==
+==
+==>
+==
+TNE",0.0,ECC EREH I AMN ROR STONY,0.3076923076923077,8,0.3
+0,0.5,nearest,90,"JABCOERGHINKUMNGORO
+
+=o
+=F
+===
+==
+==
+==>
+==
+TNE",0.0,IRECORRGHIKUMNGRORSTONINKYA|,0.3076923076923077,8,0.3
+0,0.5,bilinear,90,"JABCOERGHINKUMNGORO
+
+=o
+=F
+===
+==
+==
+==>
+==
+TNE",0.0,[AE COERGHMKMNORORSTIONINKYA|,0.3076923076923077,8,0.3
+0,0.5,bicubic,90,"JABCOERGHINKUMNGORO
+
+=o
+=F
+===
+==
+==
+==>
+==
+TNE",0.0,ECR E RCH ACMNGRORSTIONIN AYA,0.15384615384615385,8,0.3
+2,0.5,lanczos,90,"/ABCORRGHIVTKLM NO
+
+===
+==
+==
+
+==
+=
+oS
+==
+==:",0.0,RECO ER CH MACH ORR STUN INANE,0.11538461538461542,8,0.3
+2,0.5,nearest,90,"/ABCORRGHIVTKLM NO
+
+===
+==
+==
+
+==
+=
+oS
+==
+==:",0.0,ABCOERGHIKUMNORORSTOMNANE|,0.5,8,0.3
+2,0.5,bilinear,90,"/ABCORRGHIVTKLM NO
+
+===
+==
+==
+
+==
+=
+oS
+==
+==:",0.0,AB CORRGHMKUMNGRQRSTUNINANE|,0.3846153846153846,8,0.3
+2,0.5,bicubic,90,"/ABCORRGHIVTKLM NO
+
+===
+==
+==
+
+==
+=
+oS
+==
+==:",0.0,RECO RRR MRM ORRIN INANE,0.15384615384615385,8,0.3
+4,0.5,lanczos,90,,0.0,ARCO RG HUKUNINORORST ON,0.3076923076923077,8,0.3
+4,0.5,nearest,90,,0.0,VABCOERGHMKLMNORORSTONW KY,0.5384615384615384,8,0.3
+4,0.5,bilinear,90,,0.0,ABCOERGHIUKUNINORORSTONW HY,0.5,8,0.3
+4,0.5,bicubic,90,,0.0,ABCOERGHUKUNINORORSTONW KN,0.46153846153846156,8,0.3
+6,0.5,lanczos,90,,0.0,"FETA Al
+
+RBGPERGHMARUMNORG",0.038461538461538436,8,0.3
+6,0.5,nearest,90,,0.0,"RSNA
+
+RCN
+
+IIABCDERGH",0.038461538461538436,8,0.3
+6,0.5,bilinear,90,,0.0,"RST
+
+ABODERGHWKUMNORG",0.23076923076923073,8,0.3
+6,0.5,bicubic,90,,0.0,"FETA
+
+ABODERGHMAUMNORG",0.15384615384615385,8,0.3
+0,0.5,lanczos,90,LECCE EROS,0.15384615384615385,nt,0.0,8,0.5
+0,0.5,nearest,90,LECCE EROS,0.15384615384615385,Teel,0.038461538461538436,8,0.5
+0,0.5,bilinear,90,LECCE EROS,0.15384615384615385,Ie,0.038461538461538436,8,0.5
+0,0.5,bicubic,90,LECCE EROS,0.15384615384615385,Ta,0.038461538461538436,8,0.5
+2,0.5,lanczos,90,EE ESM RST KONA,0.1923076923076923,ctl,0.0,8,0.5
+2,0.5,nearest,90,EE ESM RST KONA,0.1923076923076923,hel,0.0,8,0.5
+2,0.5,bilinear,90,EE ESM RST KONA,0.1923076923076923,,0.0,8,0.5
+2,0.5,bicubic,90,EE ESM RST KONA,0.1923076923076923,cyl,0.0,8,0.5
+4,0.5,lanczos,90,"(AEC ESTAS
+
+SAAN",0.11538461538461542,,0.0,8,0.5
+4,0.5,nearest,90,"(AEC ESTAS
+
+SAAN",0.11538461538461542,ce Tl,0.038461538461538436,8,0.5
+4,0.5,bilinear,90,"(AEC ESTAS
+
+SAAN",0.11538461538461542,,0.0,8,0.5
+4,0.5,bicubic,90,"(AEC ESTAS
+
+SAAN",0.11538461538461542,,0.0,8,0.5
+6,0.5,lanczos,90,"I)
+i
+
+EOE ES SASS",0.07692307692307687,,0.0,8,0.5
+6,0.5,nearest,90,"I)
+i
+
+EOE ES SASS",0.07692307692307687,"col
+
+rence KR",0.038461538461538436,8,0.5
+6,0.5,bilinear,90,"I)
+i
+
+EOE ES SASS",0.07692307692307687,,0.0,8,0.5
+6,0.5,bicubic,90,"I)
+i
+
+EOE ES SASS",0.07692307692307687,,0.0,8,0.5
+0,0.5,lanczos,90,,0.0,"JKLMNORQRSTUMINANE |
+
+/ABCOERGH",0.0,12,0.1
+0,0.5,nearest,90,,0.0,ABCOEFGHIUKLMNOPORSTUVWxYZz,0.8076923076923077,12,0.1
+0,0.5,bilinear,90,,0.0,/ABCDEFGHIKLMNOPORSTUVWKYZ |,0.7692307692307692,12,0.1
+0,0.5,bicubic,90,,0.0,"JKLMNORQRSTUMWANZ |
+
+|ABCOERGH",0.0,12,0.1
+3,0.5,lanczos,90,"=
+
+=PN5",0.038461538461538436,|ABCOEFGHIKLMNOPRQRSTUVINKYE |,0.6153846153846154,12,0.1
+3,0.5,nearest,90,"=
+
+=PN5",0.038461538461538436,WABGRRAGHIKKMNORQRSTANWKY |,0.5,12,0.1
+3,0.5,bilinear,90,"=
+
+=PN5",0.038461538461538436,|ABCOEFGHUKLMNOPQRSTUVWKYZ,0.8076923076923077,12,0.1
+3,0.5,bicubic,90,"=
+
+=PN5",0.038461538461538436,|ABCOEFGHIKLMNOPQRSTUVWKYZ,0.8461538461538461,12,0.1
+6,0.5,lanczos,90,,0.0,"WIKUMNOPQRSTUNWXYE |
+
+|ABCDEFGH",0.038461538461538436,12,0.1
+6,0.5,nearest,90,,0.0,NABCDEFGHIVKUMNOPORSTUVWXYZ,0.8461538461538461,12,0.1
+6,0.5,bilinear,90,,0.0,"UWE
+
+st
+
+R
+
+/ABCDEFGHUKLMNORG",0.038461538461538436,12,0.1
+6,0.5,bicubic,90,,0.0,"NIKUMNOPQRSTUNWXYZ
+
+/ABCDEFGH",0.15384615384615385,12,0.1
+9,0.5,lanczos,90,,0.0,|ABCDEFGHIKLMNOPORSTUVWXYE |,0.7692307692307692,12,0.1
+9,0.5,nearest,90,,0.0,iABGRRGHIAKKMNORQRST UNIAN |,0.42307692307692313,12,0.1
+9,0.5,bilinear,90,,0.0,|ABCDEFGHHKLMNOPORSTUVWXYE |,0.7307692307692308,12,0.1
+9,0.5,bicubic,90,,0.0,|ABCDEFGHIKLMNOPORS TUVWXYZ |,0.7692307692307692,12,0.1
+0,0.5,lanczos,90,,0.0,"He
+
+IEE",0.038461538461538436,12,0.3
+0,0.5,nearest,90,,0.0,IMR AMARA TA,0.07692307692307687,12,0.3
+0,0.5,bilinear,90,,0.0,RCO E REACT,0.07692307692307687,12,0.3
+0,0.5,bicubic,90,,0.0,"He
+
+IEE",0.038461538461538436,12,0.3
+3,0.5,lanczos,90,"=o
+
+——",0.0,ITE AR,0.07692307692307687,12,0.3
+3,0.5,nearest,90,"=o
+
+——",0.0,TREC CERCA REN CRORE TUMINYE|,0.07692307692307687,12,0.3
+3,0.5,bilinear,90,"=o
+
+——",0.0,ITAA OSA,0.11538461538461542,12,0.3
+3,0.5,bicubic,90,"=o
+
+——",0.0,ITE ARR,0.07692307692307687,12,0.3
+6,0.5,lanczos,90,=ESE,0.07692307692307687,"A
+
+IER",0.11538461538461542,12,0.3
+6,0.5,nearest,90,=ESE,0.07692307692307687,"AS MAA
+
+i",0.07692307692307687,12,0.3
+6,0.5,bilinear,90,=ESE,0.07692307692307687,"AA
+
+RES RER",0.07692307692307687,12,0.3
+6,0.5,bicubic,90,=ESE,0.07692307692307687,"A
+
+AeA RE RG",0.07692307692307687,12,0.3
+9,0.5,lanczos,90,,0.0,RRC AA,0.038461538461538436,12,0.3
+9,0.5,nearest,90,,0.0,TEETH RCRA ORS N AN|,0.1923076923076923,12,0.3
+9,0.5,bilinear,90,,0.0,ERC GA,0.07692307692307687,12,0.3
+9,0.5,bicubic,90,,0.0,ear A,0.0,12,0.3
+0,0.5,lanczos,90,LEATHER ATMA,0.11538461538461542,Rel,0.038461538461538436,12,0.5
+0,0.5,nearest,90,LEATHER ATMA,0.11538461538461542,tel,0.0,12,0.5
+0,0.5,bilinear,90,LEATHER ATMA,0.11538461538461542,Tl,0.038461538461538436,12,0.5
+0,0.5,bicubic,90,LEATHER ATMA,0.11538461538461542,Rel,0.038461538461538436,12,0.5
+3,0.5,lanczos,90,TAVERN TO,0.11538461538461542,Rl,0.038461538461538436,12,0.5
+3,0.5,nearest,90,TAVERN TO,0.11538461538461542,aR,0.038461538461538436,12,0.5
+3,0.5,bilinear,90,TAVERN TO,0.11538461538461542,a,0.0,12,0.5
+3,0.5,bicubic,90,TAVERN TO,0.11538461538461542,al,0.0,12,0.5
+6,0.5,lanczos,90,AEE EAC,0.07692307692307687,"kl
+
+hit",0.0,12,0.5
+6,0.5,nearest,90,AEE EAC,0.07692307692307687,"Rl
+
+tit",0.038461538461538436,12,0.5
+6,0.5,bilinear,90,AEE EAC,0.07692307692307687,"ikl
+
+net",0.0,12,0.5
+6,0.5,bicubic,90,AEE EAC,0.07692307692307687,"nl
+
+Knit",0.038461538461538436,12,0.5
+9,0.5,lanczos,90,EAR OV ERA NTR,0.07692307692307687,"a iN
+
+ea",0.038461538461538436,12,0.5
+9,0.5,nearest,90,EAR OV ERA NTR,0.07692307692307687,AA,0.038461538461538436,12,0.5
+9,0.5,bilinear,90,EAR OV ERA NTR,0.07692307692307687,"ka
+
+hee",0.0,12,0.5
+9,0.5,bicubic,90,EAR OV ERA NTR,0.07692307692307687,"Kea
+
+hee",0.038461538461538436,12,0.5
+0,0.5,lanczos,90,,0.0,|ABCDEFGHIKLMNORORSTOVWAYE|,0.6923076923076923,16,0.1
+0,0.5,nearest,90,,0.0,ABE DEFGHISKUMNOPORSTUVWXYZ,0.8076923076923077,16,0.1
+0,0.5,bilinear,90,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+0,0.5,bicubic,90,,0.0,|ABCDEFGHLKLMNORORS TUVWXYZ),0.7307692307692308,16,0.1
+4,0.5,lanczos,90,,0.0,|ABCDEFGHIUKEMNORORSTIUVWXYZ |,0.6923076923076923,16,0.1
+4,0.5,nearest,90,,0.0,ABE DEFGHIYKUMNOPORSTUVWXxyYZ,0.7307692307692308,16,0.1
+4,0.5,bilinear,90,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+4,0.5,bicubic,90,,0.0,|ABCDEFGHUKEMNORORSTUVWXYZ |,0.6923076923076923,16,0.1
+8,0.5,lanczos,90,,0.0,"QRSTUWAYE|
+
+F
+
+NKLMINO
+
+JABCOERGH",0.0,16,0.1
+8,0.5,nearest,90,,0.0,ABCDEFGHINKUMNOPORSTUVWXxyYZ,0.8076923076923077,16,0.1
+8,0.5,bilinear,90,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+8,0.5,bicubic,90,,0.0,[ABCOEFGHIUKLMNORORSTUVWXYZ|,0.7692307692307692,16,0.1
+12,0.5,lanczos,90,,0.0,[ABCDEFGHIUKEMNORQRS TUVWXYZ),0.7692307692307692,16,0.1
+12,0.5,nearest,90,,0.0,ABCDEFGHISKUMNOPORSTUVWXYZ,0.8846153846153846,16,0.1
+12,0.5,bilinear,90,,0.0,ABCDEFGHIUKLMNOPQRSTUVWXYZ,0.9615384615384616,16,0.1
+12,0.5,bicubic,90,,0.0,[ABCDEFGHIUKEMNORQRS TUVWXYZ),0.7692307692307692,16,0.1
+0,0.5,lanczos,90,"AES EOVE GH ILI CF CER ES CM
+
+=—
+=
+——
+SE",0.0,RA TT,0.038461538461538436,16,0.3
+0,0.5,nearest,90,"AES EOVE GH ILI CF CER ES CM
+
+=—
+=
+——
+SE",0.0,FA ACTA TAM A,0.07692307692307687,16,0.3
+0,0.5,bilinear,90,"AES EOVE GH ILI CF CER ES CM
+
+=—
+=
+——
+SE",0.0,RR A TT,0.038461538461538436,16,0.3
+0,0.5,bicubic,90,"AES EOVE GH ILI CF CER ES CM
+
+=—
+=
+——
+SE",0.0,RA ATM,0.038461538461538436,16,0.3
+4,0.5,lanczos,90,,0.0,NPR AA Tl,0.11538461538461542,16,0.3
+4,0.5,nearest,90,,0.0,FR ATA RTA,0.11538461538461542,16,0.3
+4,0.5,bilinear,90,,0.0,NR AA RTE,0.07692307692307687,16,0.3
+4,0.5,bicubic,90,,0.0,RR AAA Tl,0.038461538461538436,16,0.3
+8,0.5,lanczos,90,,0.0,TRA ATA,0.038461538461538436,16,0.3
+8,0.5,nearest,90,,0.0,UTR ATA HTARTE,0.07692307692307687,16,0.3
+8,0.5,bilinear,90,,0.0,TRA RATA,0.07692307692307687,16,0.3
+8,0.5,bicubic,90,,0.0,TRA ATA,0.038461538461538436,16,0.3
+12,0.5,lanczos,90,,0.0,RR A A,0.038461538461538436,16,0.3
+12,0.5,nearest,90,,0.0,IPA RETA RR,0.11538461538461542,16,0.3
+12,0.5,bilinear,90,,0.0,RR A RRM,0.038461538461538436,16,0.3
+12,0.5,bicubic,90,,0.0,RR A RRA,0.038461538461538436,16,0.3
+0,0.5,lanczos,90,IAN ERO VT TNC CT,0.11538461538461542,kA,0.0,16,0.5
+0,0.5,nearest,90,IAN ERO VT TNC CT,0.11538461538461542,LRAT,0.11538461538461542,16,0.5
+0,0.5,bilinear,90,IAN ERO VT TNC CT,0.11538461538461542,kA,0.0,16,0.5
+0,0.5,bicubic,90,IAN ERO VT TNC CT,0.11538461538461542,ka,0.0,16,0.5
+4,0.5,lanczos,90,,0.0,LAA,0.038461538461538436,16,0.5
+4,0.5,nearest,90,,0.0,UR,0.038461538461538436,16,0.5
+4,0.5,bilinear,90,,0.0,Eu,0.038461538461538436,16,0.5
+4,0.5,bicubic,90,,0.0,EE un,0.038461538461538436,16,0.5
+8,0.5,lanczos,90,,0.0,AAA AT,0.07692307692307687,16,0.5
+8,0.5,nearest,90,,0.0,LATA AT,0.07692307692307687,16,0.5
+8,0.5,bilinear,90,,0.0,LAA AA AT,0.07692307692307687,16,0.5
+8,0.5,bicubic,90,,0.0,LAAT AT,0.07692307692307687,16,0.5
+12,0.5,lanczos,90,| ESCH CE CT CTS MD,0.11538461538461542,itn AA,0.0,16,0.5
+12,0.5,nearest,90,| ESCH CE CT CTS MD,0.11538461538461542,[AAA,0.0,16,0.5
+12,0.5,bilinear,90,| ESCH CE CT CTS MD,0.11538461538461542,Item TA,0.07692307692307687,16,0.5
+12,0.5,bicubic,90,| ESCH CE CT CTS MD,0.11538461538461542,Ihara,0.038461538461538436,16,0.5
+0,0.5,lanczos,90,,0.0,JARED RR GHA HOR ORSTIUMINAYE |,0.11538461538461542,24,0.1
+0,0.5,nearest,90,,0.0,ABCOPRGHIUKLM NORORSTUMYAYE,0.5769230769230769,24,0.1
+0,0.5,bilinear,90,,0.0,/ABCOBRGHUKLM NOR GRSTIUMINKY |,0.34615384615384615,24,0.1
+0,0.5,bicubic,90,,0.0,|ABCOBR GH HOR GRSTIUMINKYE |,0.15384615384615385,24,0.1
+6,0.5,lanczos,90,,0.0,[ABC DER GH UKLMINORORETUNINAYZ |,0.3846153846153846,24,0.1
+6,0.5,nearest,90,,0.0,ABCD ERGHIUKLMINORQRSTUMINKYZ |,0.5769230769230769,24,0.1
+6,0.5,bilinear,90,,0.0,[ABCD ER GH UKLMINORGRETUMINKYZ |,0.3846153846153846,24,0.1
+6,0.5,bicubic,90,,0.0,[ABCD ERG UKLMINORGRETUNINKYZ |,0.3846153846153846,24,0.1
+12,0.5,lanczos,90,| ABCDEFGHIUKLMNOPQRSTUMWKYZ ||,0.6923076923076923,AB CORRGHIUKHNINORORST UNIVE |,0.34615384615384615,24,0.1
+12,0.5,nearest,90,| ABCDEFGHIUKLMNOPQRSTUMWKYZ ||,0.6923076923076923,ABCORRGHIUKLNINORORST UNIVKNZ |,0.3846153846153846,24,0.1
+12,0.5,bilinear,90,| ABCDEFGHIUKLMNOPQRSTUMWKYZ ||,0.6923076923076923,|ABCORRGHIUKLNINORORST UNIVKNE |,0.34615384615384615,24,0.1
+12,0.5,bicubic,90,| ABCDEFGHIUKLMNOPQRSTUMWKYZ ||,0.6923076923076923,|ABCORRGHIUKLNINORORST UNIVENE |,0.34615384615384615,24,0.1
+18,0.5,lanczos,90,| ABCDEFGHIUKLMNOPORSTUVWXYZ),0.8076923076923077,TRE CRERGHINKEM NOR GRSITUVMAYE |,0.3076923076923077,24,0.1
+18,0.5,nearest,90,| ABCDEFGHIUKLMNOPORSTUVWXYZ),0.8076923076923077,‘ABCD ERGHISKLMNOFQRSTUMWXYE |,0.6538461538461539,24,0.1
+18,0.5,bilinear,90,| ABCDEFGHIUKLMNOPORSTUVWXYZ),0.8076923076923077,TRB COERGHINKEM NOR ORSON E |,0.3076923076923077,24,0.1
+18,0.5,bicubic,90,| ABCDEFGHIUKLMNOPORSTUVWXYZ),0.8076923076923077,TRB COERGHINKEM NORTON E |,0.34615384615384615,24,0.1
+0,0.5,lanczos,90,,0.0,[ABA RN OAM RT HAY,0.1923076923076923,24,0.3
+0,0.5,nearest,90,,0.0,[AAR AR OAM TE HA,0.07692307692307687,24,0.3
+0,0.5,bilinear,90,,0.0,[ABA RN OAM RST HY,0.23076923076923073,24,0.3
+0,0.5,bicubic,90,,0.0,[ABA RN OAM RT HAY,0.1923076923076923,24,0.3
+6,0.5,lanczos,90,,0.0,[IAAT T AA RAAT,0.038461538461538436,24,0.3
+6,0.5,nearest,90,,0.0,[FARINA MNP ANAT,0.1923076923076923,24,0.3
+6,0.5,bilinear,90,,0.0,[IRAN LR AIA,0.11538461538461542,24,0.3
+6,0.5,bicubic,90,,0.0,ARTA RS AAT,0.11538461538461542,24,0.3
+12,0.5,lanczos,90,,0.0,[TARA PS RANE,0.07692307692307687,24,0.3
+12,0.5,nearest,90,,0.0,[FFARR TNA SRA AAT,0.11538461538461542,24,0.3
+12,0.5,bilinear,90,,0.0,[TARAS AIHA RRS RA NAPE,0.07692307692307687,24,0.3
+12,0.5,bicubic,90,,0.0,[HARRAH SR NANT,0.11538461538461542,24,0.3
+18,0.5,lanczos,90,| AIBCID BAG HILT NID DIRS TT AVX |,0.07692307692307687,TPE TAP SST,0.15384615384615385,24,0.3
+18,0.5,nearest,90,| AIBCID BAG HILT NID DIRS TT AVX |,0.07692307692307687,TATE TARR NF TA,0.11538461538461542,24,0.3
+18,0.5,bilinear,90,| AIBCID BAG HILT NID DIRS TT AVX |,0.07692307692307687,TPE IS TAP YF STA,0.15384615384615385,24,0.3
+18,0.5,bicubic,90,| AIBCID BAG HILT NID DIRS TT AVX |,0.07692307692307687,TPR TAP YP SST,0.11538461538461542,24,0.3
+0,0.5,lanczos,90,JANET ET RVR RCS TU PY,0.15384615384615385,UPSTATE PRAT AT,0.11538461538461542,24,0.5
+0,0.5,nearest,90,JANET ET RVR RCS TU PY,0.15384615384615385,PASTA RA PAT AT,0.07692307692307687,24,0.5
+0,0.5,bilinear,90,JANET ET RVR RCS TU PY,0.15384615384615385,UPSTATE PRAT AT,0.11538461538461542,24,0.5
+0,0.5,bicubic,90,JANET ET RVR RCS TU PY,0.15384615384615385,UPSTATE PRAT AT,0.11538461538461542,24,0.5
+6,0.5,lanczos,90,,0.0,[FUR T HAe A  T,0.07692307692307687,24,0.5
+6,0.5,nearest,90,,0.0,[FUER HARA,0.11538461538461542,24,0.5
+6,0.5,bilinear,90,,0.0,[FUR T HAe AR T,0.11538461538461542,24,0.5
+6,0.5,bicubic,90,,0.0,[HURT HAR AT,0.07692307692307687,24,0.5
+12,0.5,lanczos,90,,0.0,[EPS TH R,0.11538461538461542,24,0.5
+12,0.5,nearest,90,,0.0,[RPS TT RA,0.07692307692307687,24,0.5
+12,0.5,bilinear,90,,0.0,[RPS ATH RA,0.07692307692307687,24,0.5
+12,0.5,bicubic,90,,0.0,[RPS TT RR,0.07692307692307687,24,0.5
+18,0.5,lanczos,90,YARRA HIRT] AED RT NE,0.15384615384615385,ARTE FATA AY SST,0.15384615384615385,24,0.5
+18,0.5,nearest,90,YARRA HIRT] AED RT NE,0.15384615384615385,RRS TPA AYN STA,0.11538461538461542,24,0.5
+18,0.5,bilinear,90,YARRA HIRT] AED RT NE,0.15384615384615385,PRR TAA AY STA,0.07692307692307687,24,0.5
+18,0.5,bicubic,90,YARRA HIRT] AED RT NE,0.15384615384615385,NRE FATA AY SST,0.11538461538461542,24,0.5
+0,0.5,lanczos,90,,0.0,JABRDEFGHU MUM NORORSTYM WRN),0.42307692307692313,32,0.1
+0,0.5,nearest,90,,0.0,\ABEDEFGHUKLMNORQRSTYM RNA,0.5769230769230769,32,0.1
+0,0.5,bilinear,90,,0.0,ABRDEEGHUKLMNORQRSTYMWKA|,0.6153846153846154,32,0.1
+0,0.5,bicubic,90,,0.0,JABRDEFGHUAUMNORORSTYM WKN),0.46153846153846156,32,0.1
+8,0.5,lanczos,90,,0.0,ABC DERGHYHLMNOPORSITUN HAY |,0.5,32,0.1
+8,0.5,nearest,90,,0.0,ABC DERGHKLMNOPORSITUN AYE |,0.5384615384615384,32,0.1
+8,0.5,bilinear,90,,0.0,|ABCDERGHIYHLMNOPORSITUN WAY |,0.5769230769230769,32,0.1
+8,0.5,bicubic,90,,0.0,ABC OERGHYHLMNOPORSITUN WAY |,0.5,32,0.1
+16,0.5,lanczos,90,,0.0,ARCO ERGHIUE MNO RORETUVMYE |,0.3846153846153846,32,0.1
+16,0.5,nearest,90,,0.0,ABCD EGHAM ORE THYME |,0.34615384615384615,32,0.1
+16,0.5,bilinear,90,,0.0,| ABCD ERGHIUE MNO FORE THVMYE |,0.3076923076923077,32,0.1
+16,0.5,bicubic,90,,0.0,| ARCO ERGHIUE MNO ORE TUVMMYE |,0.3076923076923077,32,0.1
+24,0.5,lanczos,90,JABCDEFGHIUKUMNOR QRS TUVWXYZ |,0.6923076923076923,ABHOR FS HIUKUMMIORG RST HAMAR |,0.1923076923076923,32,0.1
+24,0.5,nearest,90,JABCDEFGHIUKUMNOR QRS TUVWXYZ |,0.6923076923076923,ABAD E FS HIMKEM MGR RS TH AMOK,0.2692307692307693,32,0.1
+24,0.5,bilinear,90,JABCDEFGHIUKUMNOR QRS TUVWXYZ |,0.6923076923076923,ABHOR FS HIUKUMMIOR RST HAMAR |,0.23076923076923073,32,0.1
+24,0.5,bicubic,90,JABCDEFGHIUKUMNOR QRS TUVWXYZ |,0.6923076923076923,ABHOR FS HIUKUM MORO RST HAMAR |,0.1923076923076923,32,0.1
+0,0.5,lanczos,90,ABC DIE FGH NLM NOPORSIIUMW KM,0.46153846153846156,APAPA FATA ANGIE RSFTPANY A,0.11538461538461542,32,0.3
+0,0.5,nearest,90,ABC DIE FGH NLM NOPORSIIUMW KM,0.46153846153846156,[APACE FEHR AN GPE RSFTPANY HH,0.11538461538461542,32,0.3
+0,0.5,bilinear,90,ABC DIE FGH NLM NOPORSIIUMW KM,0.46153846153846156,PAPE F AHA HNGIE RSFTPANY A,0.11538461538461542,32,0.3
+0,0.5,bicubic,90,ABC DIE FGH NLM NOPORSIIUMW KM,0.46153846153846156,LAPAPE FATA HNGIE RSFTPANY,0.15384615384615385,32,0.3
+8,0.5,lanczos,90,ABC OERGH) JALMING PORSTUNWHYL |,0.42307692307692313,[HPABERGHAENN ARORA ANE |,0.11538461538461542,32,0.3
+8,0.5,nearest,90,ABC OERGH) JALMING PORSTUNWHYL |,0.42307692307692313,[HEA BERGHAENN RGRAY ANE |,0.11538461538461542,32,0.3
+8,0.5,bilinear,90,ABC OERGH) JALMING PORSTUNWHYL |,0.42307692307692313,[HPA ERGH AEN ARRAY ANE |,0.15384615384615385,32,0.3
+8,0.5,bicubic,90,ABC OERGH) JALMING PORSTUNWHYL |,0.42307692307692313,[HPAP GHAENN ARORA ANE |,0.11538461538461542,32,0.3
+16,0.5,lanczos,90,ARCO EA GH UA LIVIN R ORE T UV MDH |,0.038461538461538436,ABE HFR PA YI RET HYYE |,0.1923076923076923,32,0.3
+16,0.5,nearest,90,ARCO EA GH UA LIVIN R ORE T UV MDH |,0.038461538461538436,AH EH FAH PRN RETYPE |,0.1923076923076923,32,0.3
+16,0.5,bilinear,90,ARCO EA GH UA LIVIN R ORE T UV MDH |,0.038461538461538436,MRE APY RAT YY |,0.11538461538461542,32,0.3
+16,0.5,bicubic,90,ARCO EA GH UA LIVIN R ORE T UV MDH |,0.038461538461538436,MEGA FRAP RET YY |,0.1923076923076923,32,0.3
+24,0.5,lanczos,90,,0.0,AFP H EB AHR HIPH RSTO A,0.15384615384615385,32,0.3
+24,0.5,nearest,90,,0.0,AB HDH EE HMRI TH OG,0.15384615384615385,32,0.3
+24,0.5,bilinear,90,,0.0,IAF H EB HHH HIP RS RSTO A,0.15384615384615385,32,0.3
+24,0.5,bicubic,90,,0.0,AFD HEB HHH HIP RS RTH A,0.1923076923076923,32,0.3
+0,0.5,lanczos,90,,0.0,TARA PA TATA NTRS S|,0.11538461538461542,32,0.5
+0,0.5,nearest,90,,0.0,[APA PA FAA ATH NER |,0.038461538461538436,32,0.5
+0,0.5,bilinear,90,,0.0,TARA PA TATA NTR |,0.07692307692307687,32,0.5
+0,0.5,bicubic,90,,0.0,JAPA PA TATA NTR |,0.07692307692307687,32,0.5
+8,0.5,lanczos,90,TABCHERCH IIA ENN AOR STUN AE,0.2692307692307693,[HER HEHEH EN EPH Te YA,0.15384615384615385,32,0.5
+8,0.5,nearest,90,TABCHERCH IIA ENN AOR STUN AE,0.2692307692307693,[HER HETEA EN PRE TY,0.1923076923076923,32,0.5
+8,0.5,bilinear,90,TABCHERCH IIA ENN AOR STUN AE,0.2692307692307693,[HEA HET EH ERN A FRRE T EY A,0.0,32,0.5
+8,0.5,bicubic,90,TABCHERCH IIA ENN AOR STUN AE,0.2692307692307693,[HER HETEH ENA PRE Te YA,0.15384615384615385,32,0.5
+16,0.5,lanczos,90,"ARCH EA GDH
+
+De
+a_i
+
+INGHORA THY HP
+
+Y",0.0,THEE EAE AT EN T Y eT,0.07692307692307687,32,0.5
+16,0.5,nearest,90,"ARCH EA GDH
+
+De
+a_i
+
+INGHORA THY HP
+
+Y",0.0,[HEHE EA RT YT,0.1923076923076923,32,0.5
+16,0.5,bilinear,90,"ARCH EA GDH
+
+De
+a_i
+
+INGHORA THY HP
+
+Y",0.0,[HECHT EN ET YT,0.1923076923076923,32,0.5
+16,0.5,bicubic,90,"ARCH EA GDH
+
+De
+a_i
+
+INGHORA THY HP
+
+Y",0.0,HEHE EN ET YET,0.15384615384615385,32,0.5
+24,0.5,lanczos,90,,0.0,[AE PAPEETE RT,0.11538461538461542,32,0.5
+24,0.5,nearest,90,,0.0,[ART FEC Pe RT,0.11538461538461542,32,0.5
+24,0.5,bilinear,90,,0.0,[AE FAP PE RT,0.11538461538461542,32,0.5
+24,0.5,bicubic,90,,0.0,[AE FREER RT,0.11538461538461542,32,0.5
+0,0.5,lanczos,90,ABCDERGHIIKLIMNODPORSTIUVWXYZ |,0.6923076923076923,BCH EAH KLM NDPRASTIU MWY |,0.34615384615384615,48,0.1
+0,0.5,nearest,90,ABCDERGHIIKLIMNODPORSTIUVWXYZ |,0.6923076923076923,COEF GHKLM NPRIRSTIUMMIKYE |,0.3076923076923077,48,0.1
+0,0.5,bilinear,90,ABCDERGHIIKLIMNODPORSTIUVWXYZ |,0.6923076923076923,BCH ER GHIKLM NPRASTIU MM KY |,0.3076923076923077,48,0.1
+0,0.5,bicubic,90,ABCDERGHIIKLIMNODPORSTIUVWXYZ |,0.6923076923076923,ABCA EAH KLM NPRESTIU MWY |,0.3846153846153846,48,0.1
+12,0.5,lanczos,90,,0.0,ABC DEFEHI KUM MDRQRSTY YK |,0.46153846153846156,48,0.1
+12,0.5,nearest,90,,0.0,ABE DEF EH KUN NDRQRS TY VRE |,0.3076923076923077,48,0.1
+12,0.5,bilinear,90,,0.0,ABE DEFEHIRUMMDRQRS TY YWKRE |,0.3076923076923077,48,0.1
+12,0.5,bicubic,90,,0.0,ABC DEFEHIKUNMDRQRS TY YWKRE |,0.34615384615384615,48,0.1
+24,0.5,lanczos,90,"| ABCDEFGHIJKLMNORO
+
+RST UVWXYZ",0.7307692307692308,| ABEDEF SHI KLANGAGRST PY WZ,0.42307692307692313,48,0.1
+24,0.5,nearest,90,"| ABCDEFGHIJKLMNORO
+
+RST UVWXYZ",0.7307692307692308,| ABEDEFSHIPKLANGA RET DY YZ,0.46153846153846156,48,0.1
+24,0.5,bilinear,90,"| ABCDEFGHIJKLMNORO
+
+RST UVWXYZ",0.7307692307692308,| ABEDEF SHY KLANGAGRST PY WZ,0.3846153846153846,48,0.1
+24,0.5,bicubic,90,"| ABCDEFGHIJKLMNORO
+
+RST UVWXYZ",0.7307692307692308,| ABEDEFSHIPKLANGAQRST PY WZ,0.5,48,0.1
+36,0.5,lanczos,90,| ABCDEFGHIUKLMNOPQRSTUVWXYZ |,0.8076923076923077,| ABCOEFGHIVKL MN PORBI LMA |,0.42307692307692313,48,0.1
+36,0.5,nearest,90,| ABCDEFGHIUKLMNOPQRSTUVWXYZ |,0.8076923076923077,| ABCOIEFGHIDKL MN PORBI UMA Yd |,0.34615384615384615,48,0.1
+36,0.5,bilinear,90,| ABCDEFGHIUKLMNOPQRSTUVWXYZ |,0.8076923076923077,| ABCORFGHIDKL MN ORBIT LMA |,0.34615384615384615,48,0.1
+36,0.5,bicubic,90,| ABCDEFGHIUKLMNOPQRSTUVWXYZ |,0.8076923076923077,| ABCOEFGHIVKL MN PORBI LMA |,0.42307692307692313,48,0.1
+0,0.5,lanczos,90,OPOASTIG WKY |,0.15384615384615385,ASE 14 EM  PRAST UY ETE |,0.15384615384615385,48,0.3
+0,0.5,nearest,90,OPOASTIG WKY |,0.15384615384615385,FAT 144 EY SPRATT |,0.11538461538461542,48,0.3
+0,0.5,bilinear,90,OPOASTIG WKY |,0.15384615384615385,M4414 EN PPR |,0.11538461538461542,48,0.3
+0,0.5,bicubic,90,OPOASTIG WKY |,0.15384615384615385,HIT 14 EY PPR |,0.07692307692307687,48,0.3
+12,0.5,lanczos,90,ABCD EFGH JHUNINDAGRS TOV WKYE,0.46153846153846156,ASSP EF EEA UPA ESTE],0.15384615384615385,48,0.3
+12,0.5,nearest,90,ABCD EFGH JHUNINDAGRS TOV WKYE,0.46153846153846156,ASE PEFEHLAU PAIS T TYE,0.2692307692307693,48,0.3
+12,0.5,bilinear,90,ABCD EFGH JHUNINDAGRS TOV WKYE,0.46153846153846156,ASSP EF EEA RP AEST MEL,0.15384615384615385,48,0.3
+12,0.5,bicubic,90,ABCD EFGH JHUNINDAGRS TOV WKYE,0.46153846153846156,ASSP EF EHUD AEST MEL,0.15384615384615385,48,0.3
+24,0.5,lanczos,90,,0.0,[ABEPEFPHA REY NG TERETE,0.1923076923076923,48,0.3
+24,0.5,nearest,90,,0.0,|ABEPEFPHAREYNGTO RET PAI,0.23076923076923073,48,0.3
+24,0.5,bilinear,90,,0.0,|ABEPEFPHA REY NG TERETE,0.1923076923076923,48,0.3
+24,0.5,bicubic,90,,0.0,|ABEPEFPHA RENATO RET PERMA,0.23076923076923073,48,0.3
+36,0.5,lanczos,90,,0.0,| RERABAH PKE MN PRRBE LPI |,0.15384615384615385,48,0.3
+36,0.5,nearest,90,,0.0,| PRABASHPEE MN PRRBF EMPEY |,0.11538461538461542,48,0.3
+36,0.5,bilinear,90,,0.0,| RPRABAH PKE MN PRRBE LP |,0.15384615384615385,48,0.3
+36,0.5,bicubic,90,,0.0,| RPRABAST PKE MN PREF LMP |,0.07692307692307687,48,0.3
+0,0.5,lanczos,90,JORG ANT OPRASTEEnT,0.1923076923076923,RET HN PRT,0.23076923076923073,48,0.5
+0,0.5,nearest,90,JORG ANT OPRASTEEnT,0.1923076923076923,RET PPR,0.11538461538461542,48,0.5
+0,0.5,bilinear,90,JORG ANT OPRASTEEnT,0.1923076923076923,RET HN PRT,0.23076923076923073,48,0.5
+0,0.5,bicubic,90,JORG ANT OPRASTEEnT,0.1923076923076923,RET HPT,0.15384615384615385,48,0.5
+12,0.5,lanczos,90,,0.0,HARE EPR,0.11538461538461542,48,0.5
+12,0.5,nearest,90,,0.0,APE ERATE,0.15384615384615385,48,0.5
+12,0.5,bilinear,90,,0.0,ACEH EPA,0.1923076923076923,48,0.5
+12,0.5,bicubic,90,,0.0,HEE EPR,0.11538461538461542,48,0.5
+24,0.5,lanczos,90,,0.0,TAPPER ELENA RET EEA,0.1923076923076923,48,0.5
+24,0.5,nearest,90,,0.0,TAPE PEPEAT ELENA ¢ RET ETAL,0.11538461538461542,48,0.5
+24,0.5,bilinear,90,,0.0,LAP EPEPAL ELENA ¢ RET EAL,0.11538461538461542,48,0.5
+24,0.5,bicubic,90,,0.0,UAPEPEPAL ELON ¢ RET EAL,0.1923076923076923,48,0.5
+36,0.5,lanczos,90,AGH IDKEMNG POREE LMT,0.2692307692307693,| KERR PAN RATA |,0.15384615384615385,48,0.5
+36,0.5,nearest,90,AGH IDKEMNG POREE LMT,0.2692307692307693,[REBT PAN RA |,0.11538461538461542,48,0.5
+36,0.5,bilinear,90,AGH IDKEMNG POREE LMT,0.2692307692307693,| KERR EAN RAT |,0.15384615384615385,48,0.5
+36,0.5,bicubic,90,AGH IDKEMNG POREE LMT,0.2692307692307693,| KERR PEA RATA |,0.11538461538461542,48,0.5
+0,0.5,lanczos,90,ABCDEFGHIJKLMNOPQRSTWYWXVZ,0.8846153846153846,REQDEFGHKLUNDRQRSTYMYXNS,0.5,64,0.1
+0,0.5,nearest,90,ABCDEFGHIJKLMNOPQRSTWYWXVZ,0.8846153846153846,BEQDEFGH KL UN DRQRSTYWVYXN,0.42307692307692313,64,0.1
+0,0.5,bilinear,90,ABCDEFGHIJKLMNOPQRSTWYWXVZ,0.8846153846153846,BEQDEFGH KL UN DRQRSTYMYXNS,0.42307692307692313,64,0.1
+0,0.5,bicubic,90,ABCDEFGHIJKLMNOPQRSTWYWXVZ,0.8846153846153846,REQDEFGH KL UNDRQRSTYMYXNS,0.46153846153846156,64,0.1
+16,0.5,lanczos,90,ABCDEFGHIVKLIMNOPORSTUVWXYZ |,0.8076923076923077,ABEGEFEHIPRLMINDPRRSTLYYOHYE |,0.3846153846153846,64,0.1
+16,0.5,nearest,90,ABCDEFGHIVKLIMNOPORSTUVWXYZ |,0.8076923076923077,ABEGEFEHIDELMNDPRRST LY MOHYE |,0.34615384615384615,64,0.1
+16,0.5,bilinear,90,ABCDEFGHIVKLIMNOPORSTUVWXYZ |,0.8076923076923077,ABEGEFEHIPRLMINDPRRST LY MOVE |,0.3076923076923077,64,0.1
+16,0.5,bicubic,90,ABCDEFGHIVKLIMNOPORSTUVWXYZ |,0.8076923076923077,ABEGEFEHIPRLMINDPRRST LY MOHYE |,0.3076923076923077,64,0.1
+32,0.5,lanczos,90,|ABCDEFGHIKLMNOPQRSTIUMWXYZ|,0.8076923076923077,|ABEDEFEHUKIMNOPRRSTIUVWKYZ|,0.6153846153846154,64,0.1
+32,0.5,nearest,90,|ABCDEFGHIKLMNOPQRSTIUMWXYZ|,0.8076923076923077,IABEDEFGHUKIMNOPRRS TUM WKYZ|,0.5769230769230769,64,0.1
+32,0.5,bilinear,90,|ABCDEFGHIKLMNOPQRSTIUMWXYZ|,0.8076923076923077,|ABEDEFEHUKMNOPRRSTIUVWKYZ|,0.6153846153846154,64,0.1
+32,0.5,bicubic,90,|ABCDEFGHIKLMNOPQRSTIUMWXYZ|,0.8076923076923077,[ABEDEFEHUKMNOPRRS TUM WKYZ|,0.5384615384615384,64,0.1
+48,0.5,lanczos,90,| ARCDERGH|JKLMNORQRS TUVWXYZ,0.7307692307692308,| ABCDERGHIIKENINGAORB TUVInyKy2,0.3076923076923077,64,0.1
+48,0.5,nearest,90,| ARCDERGH|JKLMNORQRS TUVWXYZ,0.7307692307692308,| ABCDERGHIKE NIN GRORB TUVINKy,0.3076923076923077,64,0.1
+48,0.5,bilinear,90,| ARCDERGH|JKLMNORQRS TUVWXYZ,0.7307692307692308,| ABCDERGHIIKENIN GORE TUVInyKy,0.34615384615384615,64,0.1
+48,0.5,bicubic,90,| ARCDERGH|JKLMNORQRS TUVWXYZ,0.7307692307692308,| ABCDERGHIIKENIN GORE TUVInyKy,0.34615384615384615,64,0.1
+0,0.5,lanczos,90,,0.0,MCE AEP EP TAS eed |,0.11538461538461542,64,0.3
+0,0.5,nearest,90,,0.0,BECERT AEP PEAS |,0.15384615384615385,64,0.3
+0,0.5,bilinear,90,,0.0,MEO ALP EP EAS ee |,0.11538461538461542,64,0.3
+0,0.5,bicubic,90,,0.0,MOEA ALPE PEAS ee |,0.15384615384615385,64,0.3
+16,0.5,lanczos,90,,0.0,REEL EE PE NPP RET PEPE |,0.15384615384615385,64,0.3
+16,0.5,nearest,90,,0.0,BREE EE PE NPP REL PEPE |,0.15384615384615385,64,0.3
+16,0.5,bilinear,90,,0.0,REEL EE PE NPP RET PEPE |,0.15384615384615385,64,0.3
+16,0.5,bicubic,90,,0.0,BEE EE PE NPP RET PEPE |,0.1923076923076923,64,0.3
+32,0.5,lanczos,90,,0.0,MEF PIER ERIMNGPRRE EPP,0.15384615384615385,64,0.3
+32,0.5,nearest,90,,0.0,EF PIABEERINNGPRRE PPP,0.11538461538461542,64,0.3
+32,0.5,bilinear,90,,0.0,MEF PIER ERIMNGPRRE PPE,0.15384615384615385,64,0.3
+32,0.5,bicubic,90,,0.0,MEF PIE ERIMNGPRRE PPE,0.1923076923076923,64,0.3
+48,0.5,lanczos,90,,0.0,LASPR AHH RE TK,0.07692307692307687,64,0.3
+48,0.5,nearest,90,,0.0,ASPEN RETA,0.1923076923076923,64,0.3
+48,0.5,bilinear,90,,0.0,LAPEER TK,0.11538461538461542,64,0.3
+48,0.5,bicubic,90,,0.0,LASCPRH AEA TK,0.11538461538461542,64,0.3
+0,0.5,lanczos,90,EGER GHEE GaST apes,0.15384615384615385,CRETE PICHIA |,0.11538461538461542,64,0.5
+0,0.5,nearest,90,EGER GHEE GaST apes,0.15384615384615385,NCEREEE RICH |,0.11538461538461542,64,0.5
+0,0.5,bilinear,90,EGER GHEE GaST apes,0.15384615384615385,ETE CRH |,0.07692307692307687,64,0.5
+0,0.5,bicubic,90,EGER GHEE GaST apes,0.15384615384615385,CRETE ICRH |,0.15384615384615385,64,0.5
+16,0.5,lanczos,90,,0.0,REECE PP RIS Pl,0.11538461538461542,64,0.5
+16,0.5,nearest,90,,0.0,BEECERPE EPP RSP,0.1923076923076923,64,0.5
+16,0.5,bilinear,90,,0.0,BEECEREE EPP RSP,0.1923076923076923,64,0.5
+16,0.5,bicubic,90,,0.0,REECEREEEPP RSP,0.15384615384615385,64,0.5
+32,0.5,lanczos,90,,0.0,VEEP ERAGE,0.07692307692307687,64,0.5
+32,0.5,nearest,90,,0.0,VEEP PRET,0.15384615384615385,64,0.5
+32,0.5,bilinear,90,,0.0,VEEP ERAGE,0.07692307692307687,64,0.5
+32,0.5,bicubic,90,,0.0,VEEP ERAT,0.11538461538461542,64,0.5
+48,0.5,lanczos,90,,0.0,LPH,0.07692307692307687,64,0.5
+48,0.5,nearest,90,,0.0,LPH,0.07692307692307687,64,0.5
+48,0.5,bilinear,90,,0.0,LPH,0.07692307692307687,64,0.5
+48,0.5,bicubic,90,,0.0,LPH,0.07692307692307687,64,0.5
+0,0.5,lanczos,90,ABCDEFGHUKLMNOPQRSTIUYWKY4,0.7692307692307692,ABDEEGHPKLMN pPRASTUYWKYs,0.5769230769230769,96,0.1
+0,0.5,nearest,90,ABCDEFGHUKLMNOPQRSTIUYWKY4,0.7692307692307692,ABDAFGHPKLMN pPRASTUYWKY4,0.5769230769230769,96,0.1
+0,0.5,bilinear,90,ABCDEFGHUKLMNOPQRSTIUYWKY4,0.7692307692307692,ABD EE GHPKLMNpPRASTUWKY4,0.5384615384615384,96,0.1
+0,0.5,bicubic,90,ABCDEFGHUKLMNOPQRSTIUYWKY4,0.7692307692307692,ABDEEGHPKLMN pPRASTUYWKYd,0.5769230769230769,96,0.1
+24,0.5,lanczos,90,ABE DEFGHIJSKLIMMNORQRS| UVWXYZ,0.6923076923076923,ABEORFBHKLANORQRSTUP MYL,0.5384615384615384,96,0.1
+24,0.5,nearest,90,ABE DEFGHIJSKLIMMNORQRS| UVWXYZ,0.6923076923076923,ABPORFBHUKLIANORORSTUP XY,0.5,96,0.1
+24,0.5,bilinear,90,ABE DEFGHIJSKLIMMNORQRS| UVWXYZ,0.6923076923076923,AEEORFBHKLANOFRSTUP XY,0.5,96,0.1
+24,0.5,bicubic,90,ABE DEFGHIJSKLIMMNORQRS| UVWXYZ,0.6923076923076923,AEEORFBHKLANOAORSTUP MYL,0.46153846153846156,96,0.1
+48,0.5,lanczos,90,ABCOERGHIIJIKLIMNOPQRSTUVWXYZ |,0.7307692307692308,CHER GHIKLUMHOPORST VX} |,0.46153846153846156,96,0.1
+48,0.5,nearest,90,ABCOERGHIIJIKLIMNOPQRSTUVWXYZ |,0.7307692307692308,ACHERGHIIKLMHOPORST YX} |,0.5384615384615384,96,0.1
+48,0.5,bilinear,90,ABCOERGHIIJIKLIMNOPQRSTUVWXYZ |,0.7307692307692308,CHER GH KLUMHOPORSTYVYXy? |,0.3846153846153846,96,0.1
+48,0.5,bicubic,90,ABCOERGHIIJIKLIMNOPQRSTUVWXYZ |,0.7307692307692308,CHER GHIKLUMHOPORSTYVYXY2 |,0.46153846153846156,96,0.1
+72,0.5,lanczos,90,| ABCDEFGHIVKLMNGPORSTUVWXYZ),0.7692307692307692,|ABCEFGHIPKEMNPoRETbvjxyZ|,0.5,96,0.1
+72,0.5,nearest,90,| ABCDEFGHIVKLMNGPORSTUVWXYZ),0.7692307692307692,|ABCDEFGHIPKEMNPORETbYWAyZ,0.6153846153846154,96,0.1
+72,0.5,bilinear,90,| ABCDEFGHIVKLMNGPORSTUVWXYZ),0.7692307692307692,|ABCbEFGHIYKEMNPpRETbvpyyZ|,0.5,96,0.1
+72,0.5,bicubic,90,| ABCDEFGHIVKLMNGPORSTUVWXYZ),0.7692307692307692,|ABCbEFGHIPKEMNPgRETbypxyZ|,0.5,96,0.1
+0,0.5,lanczos,90,| ABGQD BF GH AL MND PDAS U\WEYE,0.2692307692307693,PEGE DP PREPPY,0.1923076923076923,96,0.3
+0,0.5,nearest,90,| ABGQD BF GH AL MND PDAS U\WEYE,0.2692307692307693,PREP DP PEPYE,0.11538461538461542,96,0.3
+0,0.5,bilinear,90,| ABGQD BF GH AL MND PDAS U\WEYE,0.2692307692307693,PEGE DP PEPYS,0.15384615384615385,96,0.3
+0,0.5,bicubic,90,| ABGQD BF GH AL MND PDAS U\WEYE,0.2692307692307693,PREP DP PREPYE,0.15384615384615385,96,0.3
+24,0.5,lanczos,90,BBEDEFBHIJELMNOFORSTUPWXY |,0.6538461538461539,PERERA EENPTORSTU AE |,0.23076923076923073,96,0.3
+24,0.5,nearest,90,BBEDEFBHIJELMNOFORSTUPWXY |,0.6538461538461539,PEPER END TORSPU EE |,0.1923076923076923,96,0.3
+24,0.5,bilinear,90,BBEDEFBHIJELMNOFORSTUPWXY |,0.6538461538461539,PERCE ELEN TORS |,0.1923076923076923,96,0.3
+24,0.5,bicubic,90,BBEDEFBHIJELMNOFORSTUPWXY |,0.6538461538461539,PEPE BASED TORS |,0.15384615384615385,96,0.3
+48,0.5,lanczos,90,,0.0,BEEP Pore Pel,0.11538461538461542,96,0.3
+48,0.5,nearest,90,,0.0,REECE KP PP REY Pel,0.15384615384615385,96,0.3
+48,0.5,bilinear,90,,0.0,BEEP Pore Pel,0.11538461538461542,96,0.3
+48,0.5,bicubic,90,,0.0,BEEP Pore Pel,0.11538461538461542,96,0.3
+72,0.5,lanczos,90,BABCDEEGHIPKEMNGP@RET BVI,0.5,bbe Kae ets,0.038461538461538436,96,0.3
+72,0.5,nearest,90,BABCDEEGHIPKEMNGP@RET BVI,0.5,bbe heer Pts,0.038461538461538436,96,0.3
+72,0.5,bilinear,90,BABCDEEGHIPKEMNGP@RET BVI,0.5,bbe pare ets,0.0,96,0.3
+72,0.5,bicubic,90,BABCDEEGHIPKEMNGP@RET BVI,0.5,bbe hae eee ets,0.0,96,0.3
+0,0.5,lanczos,90,,0.0,PORE REL,0.07692307692307687,96,0.5
+0,0.5,nearest,90,,0.0,Pero TREE,0.038461538461538436,96,0.5
+0,0.5,bilinear,90,,0.0,[PORE REL,0.07692307692307687,96,0.5
+0,0.5,bicubic,90,,0.0,[PCR ERE,0.07692307692307687,96,0.5
+24,0.5,lanczos,90,BR CRA He ND ORS,0.15384615384615385,St PE PRE |,0.11538461538461542,96,0.5
+24,0.5,nearest,90,BR CRA He ND ORS,0.15384615384615385,Ste PREF |,0.07692307692307687,96,0.5
+24,0.5,bilinear,90,BR CRA He ND ORS,0.15384615384615385,St PPR |,0.07692307692307687,96,0.5
+24,0.5,bicubic,90,BR CRA He ND ORS,0.15384615384615385,St PE PRSEE |,0.15384615384615385,96,0.5
+48,0.5,lanczos,90,,0.0,REEBLEPIGSS PPE,0.15384615384615385,96,0.5
+48,0.5,nearest,90,,0.0,REEBLEPICSSEHPEI,0.15384615384615385,96,0.5
+48,0.5,bilinear,90,,0.0,REEBLEPIGSSEPEI,0.15384615384615385,96,0.5
+48,0.5,bicubic,90,,0.0,REEBLEPIGSSEPEI,0.15384615384615385,96,0.5
+72,0.5,lanczos,90,,0.0,Nigdsiiterniin,0.0,96,0.5
+72,0.5,nearest,90,,0.0,Nigtthiterhiin,0.0,96,0.5
+72,0.5,bilinear,90,,0.0,Nigdtiiterhniin,0.0,96,0.5
+72,0.5,bicubic,90,,0.0,Nigdititerhniin,0.0,96,0.5
+0,0.5,lanczos,135,,0.0,_ABCDEFGHIJKLMNOPQRSTUVWXYZ _,0.8846153846153846,8,0.1
+0,0.5,nearest,135,,0.0,"7
+
+X
+
+=
+5
+
+B
+2",0.0,8,0.1
+0,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+0,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+2,0.5,lanczos,135,,0.0,,0.0,8,0.1
+2,0.5,nearest,135,,0.0,"Mi,
+XYZ
+V
+
+U
+
+y Mew.
+
+Y
+
+q
+
+WY yy
+Vy Zs
+WZ
+y
+
+y)
+CH
+
+KEF
+CQ
+
+2B
+
+4
+
+2,
+MY)
+Y",0.0,8,0.1
+2,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+2,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+4,0.5,lanczos,135,,0.0,"_ABCDEFGHIJKLMNOPQRSTU
+
+ys",0.7692307692307692,8,0.1
+4,0.5,nearest,135,,0.0,,0.0,8,0.1
+4,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+4,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+6,0.5,lanczos,135,,0.0,"WK COIQOCOKIKG)
+
+a ype Vy V/s ie
+Wile",0.0,8,0.1
+6,0.5,nearest,135,,0.0,,0.0,8,0.1
+6,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+6,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,8,0.1
+0,0.5,lanczos,135,,0.0,N,0.038461538461538436,8,0.3
+0,0.5,nearest,135,,0.0,,0.0,8,0.3
+0,0.5,bilinear,135,,0.0,,0.0,8,0.3
+0,0.5,bicubic,135,,0.0,N,0.038461538461538436,8,0.3
+2,0.5,lanczos,135,,0.0,XS,0.038461538461538436,8,0.3
+2,0.5,nearest,135,,0.0,"\S
+
+SS",0.038461538461538436,8,0.3
+2,0.5,bilinear,135,,0.0,XK,0.038461538461538436,8,0.3
+2,0.5,bicubic,135,,0.0,\,0.0,8,0.3
+4,0.5,lanczos,135,,0.0,,0.0,8,0.3
+4,0.5,nearest,135,,0.0,"~
+WY",0.07692307692307687,8,0.3
+4,0.5,bilinear,135,,0.0,,0.0,8,0.3
+4,0.5,bicubic,135,,0.0,,0.0,8,0.3
+6,0.5,lanczos,135,,0.0,N,0.038461538461538436,8,0.3
+6,0.5,nearest,135,,0.0,,0.0,8,0.3
+6,0.5,bilinear,135,,0.0,N,0.038461538461538436,8,0.3
+6,0.5,bicubic,135,,0.0,N,0.038461538461538436,8,0.3
+0,0.5,lanczos,135,,0.0,,0.0,8,0.5
+0,0.5,nearest,135,,0.0,,0.0,8,0.5
+0,0.5,bilinear,135,,0.0,N,0.038461538461538436,8,0.5
+0,0.5,bicubic,135,,0.0,,0.0,8,0.5
+2,0.5,lanczos,135,\,0.0,,0.0,8,0.5
+2,0.5,nearest,135,\,0.0,WN,0.038461538461538436,8,0.5
+2,0.5,bilinear,135,\,0.0,WK,0.038461538461538436,8,0.5
+2,0.5,bicubic,135,\,0.0,WS,0.038461538461538436,8,0.5
+4,0.5,lanczos,135,"\
+
+LC AOU OOO
+
+G Yh HYG
+
+Hy GY Oe WY
+LS ey —YYViY
+
+SS
+
+a
+.
+N",0.0,SS,0.038461538461538436,8,0.5
+4,0.5,nearest,135,"\
+
+LC AOU OOO
+
+G Yh HYG
+
+Hy GY Oe WY
+LS ey —YYViY
+
+SS
+
+a
+.
+N",0.0,SS,0.038461538461538436,8,0.5
+4,0.5,bilinear,135,"\
+
+LC AOU OOO
+
+G Yh HYG
+
+Hy GY Oe WY
+LS ey —YYViY
+
+SS
+
+a
+.
+N",0.0,,0.0,8,0.5
+4,0.5,bicubic,135,"\
+
+LC AOU OOO
+
+G Yh HYG
+
+Hy GY Oe WY
+LS ey —YYViY
+
+SS
+
+a
+.
+N",0.0,,0.0,8,0.5
+6,0.5,lanczos,135,"\
+
+N
+
+UO
+
+YY CU OIA OM OL VOM
+
+YY; p WM Ty ky
+YY ry
+
+.",0.0,N,0.038461538461538436,8,0.5
+6,0.5,nearest,135,"\
+
+N
+
+UO
+
+YY CU OIA OM OL VOM
+
+YY; p WM Ty ky
+YY ry
+
+.",0.0,N,0.038461538461538436,8,0.5
+6,0.5,bilinear,135,"\
+
+N
+
+UO
+
+YY CU OIA OM OL VOM
+
+YY; p WM Ty ky
+YY ry
+
+.",0.0,N,0.038461538461538436,8,0.5
+6,0.5,bicubic,135,"\
+
+N
+
+UO
+
+YY CU OIA OM OL VOM
+
+YY; p WM Ty ky
+YY ry
+
+.",0.0,N,0.038461538461538436,8,0.5
+0,0.5,lanczos,135,,0.0,"YHOUTCTE!
+LANINALD
+DW)
+
+“a MMM
+_ABCDEFGHIJKLMNOPQRSTU!",0.0,12,0.1
+0,0.5,nearest,135,,0.0,"/SBCDEFGHIJKLMN OPQRSTUVWXYZ,",0.8461538461538461,12,0.1
+0,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+0,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+3,0.5,lanczos,135,,0.0,"MME IOG
+_ABCDEFGHIJKLMNOPQRSTUVWXYZ",0.6538461538461539,12,0.1
+3,0.5,nearest,135,,0.0,"XYZ
+
+OPQRSTUVW",0.34615384615384615,12,0.1
+3,0.5,bilinear,135,,0.0,ABCDEFGHISJKLMNOPQRSTUVWXYZ,0.9615384615384616,12,0.1
+3,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+6,0.5,lanczos,135,,0.0,Bi LIKI MNOPORSTUVWXYZ,0.5769230769230769,12,0.1
+6,0.5,nearest,135,,0.0,,0.0,12,0.1
+6,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+6,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+9,0.5,lanczos,135,,0.0,"URBCDEEGHIIKI MNOPORSTUINIOVZ
+_ABCDEFGHIJKLMNOPQRSTUVWXYZ_",0.0,12,0.1
+9,0.5,nearest,135,,0.0,"M RSTUVWXYZ,
+ASBCDEFGHIIKLMNOPQ",0.07692307692307687,12,0.1
+9,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+9,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,12,0.1
+0,0.5,lanczos,135,,0.0,,0.0,12,0.3
+0,0.5,nearest,135,,0.0,,0.0,12,0.3
+0,0.5,bilinear,135,,0.0,,0.0,12,0.3
+0,0.5,bicubic,135,,0.0,,0.0,12,0.3
+3,0.5,lanczos,135,,0.0,,0.0,12,0.3
+3,0.5,nearest,135,,0.0,,0.0,12,0.3
+3,0.5,bilinear,135,,0.0,,0.0,12,0.3
+3,0.5,bicubic,135,,0.0,,0.0,12,0.3
+6,0.5,lanczos,135,,0.0,,0.0,12,0.3
+6,0.5,nearest,135,,0.0,,0.0,12,0.3
+6,0.5,bilinear,135,,0.0,,0.0,12,0.3
+6,0.5,bicubic,135,,0.0,,0.0,12,0.3
+9,0.5,lanczos,135,,0.0,,0.0,12,0.3
+9,0.5,nearest,135,,0.0,,0.0,12,0.3
+9,0.5,bilinear,135,,0.0,,0.0,12,0.3
+9,0.5,bicubic,135,,0.0,,0.0,12,0.3
+0,0.5,lanczos,135,"Y MOM AGA OOO LILO OO OLLEG
+WAV MADOC I OOHE OE OEESG WY
+Uy SY OY YO EOL",0.0,,0.0,12,0.5
+0,0.5,nearest,135,"Y MOM AGA OOO LILO OO OLLEG
+WAV MADOC I OOHE OE OEESG WY
+Uy SY OY YO EOL",0.0,,0.0,12,0.5
+0,0.5,bilinear,135,"Y MOM AGA OOO LILO OO OLLEG
+WAV MADOC I OOHE OE OEESG WY
+Uy SY OY YO EOL",0.0,,0.0,12,0.5
+0,0.5,bicubic,135,"Y MOM AGA OOO LILO OO OLLEG
+WAV MADOC I OOHE OE OEESG WY
+Uy SY OY YO EOL",0.0,,0.0,12,0.5
+3,0.5,lanczos,135,"YB g OO OIE:
+
+Hy WU VG4G4G300¢404
+LL ME oy YY SG MILI;",0.0,,0.0,12,0.5
+3,0.5,nearest,135,"YB g OO OIE:
+
+Hy WU VG4G4G300¢404
+LL ME oy YY SG MILI;",0.0,,0.0,12,0.5
+3,0.5,bilinear,135,"YB g OO OIE:
+
+Hy WU VG4G4G300¢404
+LL ME oy YY SG MILI;",0.0,,0.0,12,0.5
+3,0.5,bicubic,135,"YB g OO OIE:
+
+Hy WU VG4G4G300¢404
+LL ME oy YY SG MILI;",0.0,,0.0,12,0.5
+6,0.5,lanczos,135,"Y GOUT ERA AAU MAGUS OP EEC OCELEYY
+
+Vp
+
+MAE VARIO DIRS OGG Lh",0.0,,0.0,12,0.5
+6,0.5,nearest,135,"Y GOUT ERA AAU MAGUS OP EEC OCELEYY
+
+Vp
+
+MAE VARIO DIRS OGG Lh",0.0,,0.0,12,0.5
+6,0.5,bilinear,135,"Y GOUT ERA AAU MAGUS OP EEC OCELEYY
+
+Vp
+
+MAE VARIO DIRS OGG Lh",0.0,,0.0,12,0.5
+6,0.5,bicubic,135,"Y GOUT ERA AAU MAGUS OP EEC OCELEYY
+
+Vp
+
+MAE VARIO DIRS OGG Lh",0.0,,0.0,12,0.5
+9,0.5,lanczos,135,,0.0,,0.0,12,0.5
+9,0.5,nearest,135,,0.0,,0.0,12,0.5
+9,0.5,bilinear,135,,0.0,,0.0,12,0.5
+9,0.5,bicubic,135,,0.0,,0.0,12,0.5
+0,0.5,lanczos,135,"SES
+
+HIKLMNOPORSTUVWXYz /
+
+Wy",0.3846153846153846,"ys ‘MSA SASSO;
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+ULL “id Z lis",0.0,16,0.1
+0,0.5,nearest,135,"SES
+
+HIKLMNOPORSTUVWXYz /
+
+Wy",0.3846153846153846,/SBCDEPGHISKLMN OPQRSTUVWXYZ/,0.7692307692307692,16,0.1
+0,0.5,bilinear,135,"SES
+
+HIKLMNOPORSTUVWXYz /
+
+Wy",0.3846153846153846,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+0,0.5,bicubic,135,"SES
+
+HIKLMNOPORSTUVWXYz /
+
+Wy",0.3846153846153846,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+4,0.5,lanczos,135,"OSBCD
+
+wmaciel
+
+JALAW
+
+=
+
+=
+
+A
+
+U0",0.0,"BCDE /MNOPORSTUVWXYZ.
+BCDEFGHIJKLMNOPQRSTUVWXYZ_
+
+ULL",0.0,16,0.1
+4,0.5,nearest,135,"OSBCD
+
+wmaciel
+
+JALAW
+
+=
+
+=
+
+A
+
+U0",0.0,"/BBCOEPGHIIKLIMN OPQRSTUVWXYZ,",0.6923076923076923,16,0.1
+4,0.5,bilinear,135,"OSBCD
+
+wmaciel
+
+JALAW
+
+=
+
+=
+
+A
+
+U0",0.0,ABCDEFGHISJKLMNOPQRSTUVWXYZ,0.9615384615384616,16,0.1
+4,0.5,bicubic,135,"OSBCD
+
+wmaciel
+
+JALAW
+
+=
+
+=
+
+A
+
+U0",0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+8,0.5,lanczos,135,,0.0,"ny UK BI OSIMIIIILS
+/ABCDEFGHIJKLMNOPQRSTUVWXYZ",0.1923076923076923,16,0.1
+8,0.5,nearest,135,,0.0,"Y
+/ABCDEFGHIIKLMINOPQRSTUVWXYZ,",0.7692307692307692,16,0.1
+8,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+8,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+12,0.5,lanczos,135,,0.0,"KeKibi ARUN RSH KRY
+_ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+YZ",0.038461538461538436,16,0.1
+12,0.5,nearest,135,,0.0,/ABCDEFGHIJKLMNOPQRSTUVWXYZ,0.9615384615384616,16,0.1
+12,0.5,bilinear,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+12,0.5,bicubic,135,,0.0,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,16,0.1
+0,0.5,lanczos,135,"VIIIN
+YOY?
+
+g
+
+4
+
+“
+
+AS
+SS
+
+Y
+
+ip
+
+os
+SS
+
+oS
+
+Y, C tiff
+CONG MI",0.0,,0.0,16,0.3
+0,0.5,nearest,135,"VIIIN
+YOY?
+
+g
+
+4
+
+“
+
+AS
+SS
+
+Y
+
+ip
+
+os
+SS
+
+oS
+
+Y, C tiff
+CONG MI",0.0,"yy
+USMS
+
+ 
+
+NMI
+
+7",0.038461538461538436,16,0.3
+0,0.5,bilinear,135,"VIIIN
+YOY?
+
+g
+
+4
+
+“
+
+AS
+SS
+
+Y
+
+ip
+
+os
+SS
+
+oS
+
+Y, C tiff
+CONG MI",0.0,SDE SMI IIS PORATION,0.23076923076923073,16,0.3
+0,0.5,bicubic,135,"VIIIN
+YOY?
+
+g
+
+4
+
+“
+
+AS
+SS
+
+Y
+
+ip
+
+os
+SS
+
+oS
+
+Y, C tiff
+CONG MI",0.0,"ODER SMM ANM OP HRs R YUU LY
+
+O",0.038461538461538436,16,0.3
+4,0.5,lanczos,135,"G WRG
+VMS Vy gy V
+S |",0.11538461538461542,"C b
+YUN KDW HKI OP BN IWGM/;",0.0,16,0.3
+4,0.5,nearest,135,"G WRG
+VMS Vy gy V
+S |",0.11538461538461542,"OYE GIGI OL
+Lp BOOKA GIO) SPORES III Q
+GYjGGE",0.0,16,0.3
+4,0.5,bilinear,135,"G WRG
+VMS Vy gy V
+S |",0.11538461538461542,"CMS 6 ts
+""UK KAWAII GP BN IWGM/;",0.0,16,0.3
+4,0.5,bicubic,135,"G WRG
+VMS Vy gy V
+S |",0.11538461538461542,"PIELER UY;
+
+(f",0.11538461538461542,16,0.3
+8,0.5,lanczos,135,,0.0,"By
+VQ
+Wh
+Ny
+VK)
+AV)
+B
+
+CEL
+y
+
+Z
+
+CL
+Ge
+Uf, SSSI;",0.0,16,0.3
+8,0.5,nearest,135,,0.0,YOO Wee,0.07692307692307687,16,0.3
+8,0.5,bilinear,135,,0.0,"SAGE
+
+VM)
+
+WM
+
+VQ
+
+YP",0.11538461538461542,16,0.3
+8,0.5,bicubic,135,,0.0,,0.0,16,0.3
+12,0.5,lanczos,135,"Ne
+&
+
+WA
+
+NA
+
+Vs",0.07692307692307687,,0.0,16,0.3
+12,0.5,nearest,135,"Ne
+&
+
+WA
+
+NA
+
+Vs",0.07692307692307687,Y,0.038461538461538436,16,0.3
+12,0.5,bilinear,135,"Ne
+&
+
+WA
+
+NA
+
+Vs",0.07692307692307687,,0.0,16,0.3
+12,0.5,bicubic,135,"Ne
+&
+
+WA
+
+NA
+
+Vs",0.07692307692307687,,0.0,16,0.3
+0,0.5,lanczos,135,,0.0,"Y
+
+ 
+
+POI IHO",0.07692307692307687,16,0.5
+0,0.5,nearest,135,,0.0,"HAGA
+
+CGY",0.07692307692307687,16,0.5
+0,0.5,bilinear,135,,0.0,,0.0,16,0.5
+0,0.5,bicubic,135,,0.0,"Y
+
+ 
+
+DOLE GGG",0.038461538461538436,16,0.5
+4,0.5,lanczos,135,"OP COU OAM COIL
+gg gE OI",0.038461538461538436,,0.0,16,0.5
+4,0.5,nearest,135,"OP COU OAM COIL
+gg gE OI",0.038461538461538436,,0.0,16,0.5
+4,0.5,bilinear,135,"OP COU OAM COIL
+gg gE OI",0.038461538461538436,,0.0,16,0.5
+4,0.5,bicubic,135,"OP COU OAM COIL
+gg gE OI",0.038461538461538436,,0.0,16,0.5
+8,0.5,lanczos,135,"ws
+
+YY, OOH LOA LUMO);
+gS OG III",0.0,,0.0,16,0.5
+8,0.5,nearest,135,"ws
+
+YY, OOH LOA LUMO);
+gS OG III",0.0,,0.0,16,0.5
+8,0.5,bilinear,135,"ws
+
+YY, OOH LOA LUMO);
+gS OG III",0.0,,0.0,16,0.5
+8,0.5,bicubic,135,"ws
+
+YY, OOH LOA LUMO);
+gS OG III",0.0,,0.0,16,0.5
+12,0.5,lanczos,135,"YO OL CMMI: Oise Vy YY
+GQ LY YY);
+
+\",0.0,,0.0,16,0.5
+12,0.5,nearest,135,"YO OL CMMI: Oise Vy YY
+GQ LY YY);
+
+\",0.0,,0.0,16,0.5
+12,0.5,bilinear,135,"YO OL CMMI: Oise Vy YY
+GQ LY YY);
+
+\",0.0,,0.0,16,0.5
+12,0.5,bicubic,135,"YO OL CMMI: Oise Vy YY
+GQ LY YY);
+
+\",0.0,,0.0,16,0.5
+0,0.5,lanczos,135,,0.0,PEDELEMIEIINOVORS OWN NIZ/,0.23076923076923073,24,0.1
+0,0.5,nearest,135,,0.0,/ABCDEFGHIIKLMINQL ORS OWWIZ/,0.5,24,0.1
+0,0.5,bilinear,135,,0.0,BECDELEHIIKMNOPORS TO WWKIZ/,0.46153846153846156,24,0.1
+0,0.5,bicubic,135,,0.0,PEDELEMIEINNOVORS OWWIZ/,0.3076923076923077,24,0.1
+6,0.5,lanczos,135,,0.0,PEDEL MISO PORSVIINSNE/,0.1923076923076923,24,0.1
+6,0.5,nearest,135,,0.0,ABCDEFGHISKLMING LORS YIN Z/,0.5,24,0.1
+6,0.5,bilinear,135,,0.0,PBCDELSHISMSOPORSTIIWSZ/,0.5,24,0.1
+6,0.5,bicubic,135,,0.0,PEDELSUISMSOPORSTIINSZ/,0.34615384615384615,24,0.1
+12,0.5,lanczos,135,,0.0,"SELELIISINN BSN INN,",0.15384615384615385,24,0.1
+12,0.5,nearest,135,,0.0,/BBCDEFGHIIKLUNS DOBSON,0.42307692307692313,24,0.1
+12,0.5,bilinear,135,,0.0,SELES BS INE,0.11538461538461542,24,0.1
+12,0.5,bicubic,135,,0.0,"SELELIISINSP BSN INN,",0.1923076923076923,24,0.1
+18,0.5,lanczos,135,,0.0,,0.0,24,0.1
+18,0.5,nearest,135,,0.0,,0.0,24,0.1
+18,0.5,bilinear,135,,0.0,,0.0,24,0.1
+18,0.5,bicubic,135,,0.0,,0.0,24,0.1
+0,0.5,lanczos,135,,0.0,SL IO,0.07692307692307687,24,0.3
+0,0.5,nearest,135,,0.0,SL ELI,0.07692307692307687,24,0.3
+0,0.5,bilinear,135,,0.0,SLL LOD.,0.07692307692307687,24,0.3
+0,0.5,bicubic,135,,0.0,SLID,0.038461538461538436,24,0.3
+6,0.5,lanczos,135,,0.0,SP IO,0.07692307692307687,24,0.3
+6,0.5,nearest,135,,0.0,SL III.,0.038461538461538436,24,0.3
+6,0.5,bilinear,135,,0.0,PL IO,0.07692307692307687,24,0.3
+6,0.5,bicubic,135,,0.0,SP IO,0.07692307692307687,24,0.3
+12,0.5,lanczos,135,A/p RUDE GN VYWKK AIG WYRE MON WH;,0.0,"Oe BUDE BH 1G OPOR SWIIKPCHZ
+4 Vv) XO Y
+LK",0.0,24,0.3
+12,0.5,nearest,135,A/p RUDE GN VYWKK AIG WYRE MON WH;,0.0,,0.0,24,0.3
+12,0.5,bilinear,135,A/p RUDE GN VYWKK AIG WYRE MON WH;,0.0,,0.0,24,0.3
+12,0.5,bicubic,135,A/p RUDE GN VYWKK AIG WYRE MON WH;,0.0,,0.0,24,0.3
+18,0.5,lanczos,135,"KP CW
+
+J
+
+2 P
+
+WMT
+
+v)
+y,
+
+Y
+
+REVO",0.0,,0.0,24,0.3
+18,0.5,nearest,135,"KP CW
+
+J
+
+2 P
+
+WMT
+
+v)
+y,
+
+Y
+
+REVO",0.0,,0.0,24,0.3
+18,0.5,bilinear,135,"KP CW
+
+J
+
+2 P
+
+WMT
+
+v)
+y,
+
+Y
+
+REVO",0.0,,0.0,24,0.3
+18,0.5,bicubic,135,"KP CW
+
+J
+
+2 P
+
+WMT
+
+v)
+y,
+
+Y
+
+REVO",0.0,,0.0,24,0.3
+0,0.5,lanczos,135,"YMA MOXIE OO LIJIT
+EEE",0.07692307692307687,GLAM,0.07692307692307687,24,0.5
+0,0.5,nearest,135,"YMA MOXIE OO LIJIT
+EEE",0.07692307692307687,,0.0,24,0.5
+0,0.5,bilinear,135,"YMA MOXIE OO LIJIT
+EEE",0.07692307692307687,LAMA LL,0.038461538461538436,24,0.5
+0,0.5,bicubic,135,"YMA MOXIE OO LIJIT
+EEE",0.07692307692307687,LAMA LL,0.038461538461538436,24,0.5
+6,0.5,lanczos,135,"WMIOL
+L§ SQL OG",0.11538461538461542,"CEE ”
+GOK. GY",0.15384615384615385,24,0.5
+6,0.5,nearest,135,"WMIOL
+L§ SQL OG",0.11538461538461542,,0.0,24,0.5
+6,0.5,bilinear,135,"WMIOL
+L§ SQL OG",0.11538461538461542,"y
+PTE ELLIE VSI",0.11538461538461542,24,0.5
+6,0.5,bicubic,135,"WMIOL
+L§ SQL OG",0.11538461538461542,"J 7} 7 AX
+SST Z",0.11538461538461542,24,0.5
+12,0.5,lanczos,135,"LD Ar
+USI:
+Sf} ""WI LIGGy GY",0.0,YS ODLLIE GIDE,0.038461538461538436,24,0.5
+12,0.5,nearest,135,"LD Ar
+USI:
+Sf} ""WI LIGGy GY",0.0,,0.0,24,0.5
+12,0.5,bilinear,135,"LD Ar
+USI:
+Sf} ""WI LIGGy GY",0.0,"44%
+QA
+WME AID
+¢
+SIR",0.038461538461538436,24,0.5
+12,0.5,bicubic,135,"LD Ar
+USI:
+Sf} ""WI LIGGy GY",0.0,"KOS OSGAMAK A GY,",0.11538461538461542,24,0.5
+18,0.5,lanczos,135,"io
+
+Spf KO Att thd tf,
+ppp yp pip ppp pp
+
+MIO",0.0,,0.0,24,0.5
+18,0.5,nearest,135,"io
+
+Spf KO Att thd tf,
+ppp yp pip ppp pp
+
+MIO",0.0,,0.0,24,0.5
+18,0.5,bilinear,135,"io
+
+Spf KO Att thd tf,
+ppp yp pip ppp pp
+
+MIO",0.0,,0.0,24,0.5
+18,0.5,bicubic,135,"io
+
+Spf KO Att thd tf,
+ppp yp pip ppp pp
+
+MIO",0.0,,0.0,24,0.5
+0,0.5,lanczos,135,"ASBODEFGMISKLIANOPQRSTOPNXAZ,",0.5769230769230769,"BELIEVING ISIN,",0.1923076923076923,32,0.1
+0,0.5,nearest,135,"ASBODEFGMISKLIANOPQRSTOPNXAZ,",0.5769230769230769,"EELIELLISISNBSUIMNE,",0.1923076923076923,32,0.1
+0,0.5,bilinear,135,"ASBODEFGMISKLIANOPQRSTOPNXAZ,",0.5769230769230769,"BELLIES ISINSS VINE,",0.1923076923076923,32,0.1
+0,0.5,bicubic,135,"ASBODEFGMISKLIANOPQRSTOPNXAZ,",0.5769230769230769,"BELIELISINSS IES IINL,",0.11538461538461542,32,0.1
+8,0.5,lanczos,135,,0.0,"PELE ISIE,",0.11538461538461542,32,0.1
+8,0.5,nearest,135,,0.0,"BELELSSISIISSVOBSVINILYE,",0.15384615384615385,32,0.1
+8,0.5,bilinear,135,,0.0,"LELIELIISISSSVIESV ISIE,",0.11538461538461542,32,0.1
+8,0.5,bicubic,135,,0.0,"BELIEVES ISIE,",0.15384615384615385,32,0.1
+16,0.5,lanczos,135,,0.0,"SEDI MI MSPS OWI,",0.23076923076923073,32,0.1
+16,0.5,nearest,135,,0.0,"SEDI IASISMSOP ORSINI,",0.1923076923076923,32,0.1
+16,0.5,bilinear,135,,0.0,"SELLS MSPS ONL,",0.15384615384615385,32,0.1
+16,0.5,bicubic,135,,0.0,"SEDI MI MSPS ONL,",0.1923076923076923,32,0.1
+24,0.5,lanczos,135,,0.0,SEIS SNISMSOESRS SWINE,0.23076923076923073,32,0.1
+24,0.5,nearest,135,,0.0,ISIS ESNISMSOLORST INURL,0.23076923076923073,32,0.1
+24,0.5,bilinear,135,,0.0,SEIS NISMS INNRE/,0.15384615384615385,32,0.1
+24,0.5,bicubic,135,,0.0,SELES ISM SINE,0.15384615384615385,32,0.1
+0,0.5,lanczos,135,,0.0,,0.0,32,0.3
+0,0.5,nearest,135,,0.0,GZ;,0.038461538461538436,32,0.3
+0,0.5,bilinear,135,,0.0,,0.0,32,0.3
+0,0.5,bicubic,135,,0.0,,0.0,32,0.3
+8,0.5,lanczos,135,,0.0,TAI LEI,0.07692307692307687,32,0.3
+8,0.5,nearest,135,,0.0,OIL EIIII,0.07692307692307687,32,0.3
+8,0.5,bilinear,135,,0.0,LILI,0.07692307692307687,32,0.3
+8,0.5,bicubic,135,,0.0,LILI LEI,0.07692307692307687,32,0.3
+16,0.5,lanczos,135,,0.0,SPS LILLIA LILI,0.07692307692307687,32,0.3
+16,0.5,nearest,135,,0.0,SP? LI LLIASLIIIIIIL,0.07692307692307687,32,0.3
+16,0.5,bilinear,135,,0.0,"SP? LE LIAS LILI,",0.07692307692307687,32,0.3
+16,0.5,bicubic,135,,0.0,SS LILLIA LILI,0.07692307692307687,32,0.3
+24,0.5,lanczos,135,,0.0,"SOLAS ELIE,",0.07692307692307687,32,0.3
+24,0.5,nearest,135,,0.0,"SOLA ELI,",0.038461538461538436,32,0.3
+24,0.5,bilinear,135,,0.0,"SOLA SELIIIIY,",0.07692307692307687,32,0.3
+24,0.5,bicubic,135,,0.0,"SOA! ELIE,",0.038461538461538436,32,0.3
+0,0.5,lanczos,135,"GIA SLIGO I SIO SIMA SLONS AIG GOSS
+YO DLS",0.0,,0.0,32,0.5
+0,0.5,nearest,135,"GIA SLIGO I SIO SIMA SLONS AIG GOSS
+YO DLS",0.0,,0.0,32,0.5
+0,0.5,bilinear,135,"GIA SLIGO I SIO SIMA SLONS AIG GOSS
+YO DLS",0.0,,0.0,32,0.5
+0,0.5,bicubic,135,"GIA SLIGO I SIO SIMA SLONS AIG GOSS
+YO DLS",0.0,,0.0,32,0.5
+8,0.5,lanczos,135,"SEEMS AAAAIS SS SALAS ALIA ALIISASSD
+L MMI YO LILO",0.0,"/,",0.0,32,0.5
+8,0.5,nearest,135,"SEEMS AAAAIS SS SALAS ALIA ALIISASSD
+L MMI YO LILO",0.0,"OA
+
+/,",0.038461538461538436,32,0.5
+8,0.5,bilinear,135,"SEEMS AAAAIS SS SALAS ALIA ALIISASSD
+L MMI YO LILO",0.0,"/,",0.0,32,0.5
+8,0.5,bicubic,135,"SEEMS AAAAIS SS SALAS ALIA ALIISASSD
+L MMI YO LILO",0.0,"/,",0.0,32,0.5
+16,0.5,lanczos,135,"SIACSISP A ASG SONS A GAG AS
+GS. LO? LLL ILI",0.0,"OI ELLIOON,",0.11538461538461542,32,0.5
+16,0.5,nearest,135,"SIACSISP A ASG SONS A GAG AS
+GS. LO? LLL ILI",0.0,"LLIN,",0.07692307692307687,32,0.5
+16,0.5,bilinear,135,"SIACSISP A ASG SONS A GAG AS
+GS. LO? LLL ILI",0.0,"OI LLLIOON,",0.11538461538461542,32,0.5
+16,0.5,bicubic,135,"SIACSISP A ASG SONS A GAG AS
+GS. LO? LLL ILI",0.0,"ELLIO,",0.11538461538461542,32,0.5
+24,0.5,lanczos,135,GOL IOI,0.11538461538461542,,0.0,32,0.5
+24,0.5,nearest,135,GOL IOI,0.11538461538461542,,0.0,32,0.5
+24,0.5,bilinear,135,GOL IOI,0.11538461538461542,,0.0,32,0.5
+24,0.5,bicubic,135,GOL IOI,0.11538461538461542,,0.0,32,0.5
+0,0.5,lanczos,135,,0.0,"BDF SHSM OLORS VOM IZ,",0.2692307692307693,48,0.1
+0,0.5,nearest,135,,0.0,"/ASBDERE HL ISMNOPORS TOM KIZ,",0.3076923076923077,48,0.1
+0,0.5,bilinear,135,,0.0,"ABDEL SHSM OLORS VON KIZ,",0.2692307692307693,48,0.1
+0,0.5,bicubic,135,,0.0,"ASBDEF SH ISMN OLORS VOM KIZ,",0.2692307692307693,48,0.1
+12,0.5,lanczos,135,,0.0,ECDL EH SMM OP OBS OWXYL,0.34615384615384615,48,0.1
+12,0.5,nearest,135,,0.0,"ECDL SC MN OPOBSTOWIXYL,",0.3076923076923077,48,0.1
+12,0.5,bilinear,135,,0.0,BECLEL EH SMM OP OBS OWXYL,0.3076923076923077,48,0.1
+12,0.5,bicubic,135,,0.0,BECDEL EH SMM OP OBSIOWXYL,0.34615384615384615,48,0.1
+24,0.5,lanczos,135,,0.0,"PECDEEEHSALNINOPOASTOOINIL,",0.3076923076923077,48,0.1
+24,0.5,nearest,135,,0.0,"PEDERI SM INOPORSTUWINIL,",0.3076923076923077,48,0.1
+24,0.5,bilinear,135,,0.0,"PECDESEHSMLNINOPOASTOINIL,",0.34615384615384615,48,0.1
+24,0.5,bicubic,135,,0.0,"PEDERI SKLNINOPOASTOINIL,",0.3076923076923077,48,0.1
+36,0.5,lanczos,135,,0.0,"/PBDEFBISILISOLQRWIZ,",0.34615384615384615,48,0.1
+36,0.5,nearest,135,,0.0,"BADE ISIS OLQRSTSWINZ,",0.3846153846153846,48,0.1
+36,0.5,bilinear,135,,0.0,"A BDEFBIIIISOLQRAWINZ,",0.34615384615384615,48,0.1
+36,0.5,bicubic,135,,0.0,"ABDEFBISIIIOL QR WINZ,",0.34615384615384615,48,0.1
+0,0.5,lanczos,135,,0.0,SLQELL LI IOOPIIIIOV/,0.15384615384615385,48,0.3
+0,0.5,nearest,135,,0.0,PLDI ISIS SIIIOVE/,0.11538461538461542,48,0.3
+0,0.5,bilinear,135,,0.0,SLQEL IIIS IIOVS/,0.15384615384615385,48,0.3
+0,0.5,bicubic,135,,0.0,PLDI LPI ISOPIIIOVP/,0.1923076923076923,48,0.3
+12,0.5,lanczos,135,,0.0,OLLI DOI VOI.,0.11538461538461542,48,0.3
+12,0.5,nearest,135,,0.0,OLLI DIL VOI.,0.11538461538461542,48,0.3
+12,0.5,bilinear,135,,0.0,OLLI DOI VOOI.,0.11538461538461542,48,0.3
+12,0.5,bicubic,135,,0.0,OLLI DOI VOOI.,0.11538461538461542,48,0.3
+24,0.5,lanczos,135,,0.0,"VIII VIVILILISISILY,",0.15384615384615385,48,0.3
+24,0.5,nearest,135,,0.0,"PIII ISSVILIISISVLY,",0.15384615384615385,48,0.3
+24,0.5,bilinear,135,,0.0,"VIII SIVILIDISISILY,",0.15384615384615385,48,0.3
+24,0.5,bicubic,135,,0.0,"VIII VSVILIDISISILY,",0.15384615384615385,48,0.3
+36,0.5,lanczos,135,,0.0,"PDIP IIIS LIS IIVOE,",0.11538461538461542,48,0.3
+36,0.5,nearest,135,,0.0,"PDIP VSIISS LIS IIVOE,",0.07692307692307687,48,0.3
+36,0.5,bilinear,135,,0.0,"PDIP ISIS LG SIIVOE,",0.15384615384615385,48,0.3
+36,0.5,bicubic,135,,0.0,"PDIP ISIS LISLE,",0.11538461538461542,48,0.3
+0,0.5,lanczos,135,"WML
+
+fh
+
+pif K
+Ff.
+
+AY
+
+04
+J",0.0,OOVIVIVSSIIPISVSP),0.15384615384615385,48,0.5
+0,0.5,nearest,135,"WML
+
+fh
+
+pif K
+Ff.
+
+AY
+
+04
+J",0.0,CDV SSVIPISVSP),0.1923076923076923,48,0.5
+0,0.5,bilinear,135,"WML
+
+fh
+
+pif K
+Ff.
+
+AY
+
+04
+J",0.0,OLDS ISSVIPISVSP),0.1923076923076923,48,0.5
+0,0.5,bicubic,135,"WML
+
+fh
+
+pif K
+Ff.
+
+AY
+
+04
+J",0.0,OLDS ISSIIPISVSP),0.1923076923076923,48,0.5
+12,0.5,lanczos,135,"MAKER AMM As
+J. SSIS SSS",0.07692307692307687,PID SV PLIIVVYIA.,0.11538461538461542,48,0.5
+12,0.5,nearest,135,"MAKER AMM As
+J. SSIS SSS",0.07692307692307687,PII! ALIIVVYIA.,0.07692307692307687,48,0.5
+12,0.5,bilinear,135,"MAKER AMM As
+J. SSIS SSS",0.07692307692307687,"PDS PLIIVVYIA,",0.11538461538461542,48,0.5
+12,0.5,bicubic,135,"MAKER AMM As
+J. SSIS SSS",0.07692307692307687,"OPIS PLIIVVYIA,",0.11538461538461542,48,0.5
+24,0.5,lanczos,135,,0.0,"DPPIVVSIVIVSSIIII,",0.11538461538461542,48,0.5
+24,0.5,nearest,135,,0.0,DPPIVSSVIVSIIII,0.11538461538461542,48,0.5
+24,0.5,bilinear,135,,0.0,DPPIVV!SSVIVSSIIII),0.11538461538461542,48,0.5
+24,0.5,bicubic,135,,0.0,DPPIVSSVIVSSIISI),0.11538461538461542,48,0.5
+36,0.5,lanczos,135,,0.0,"PPPS SIOPIIVIE,",0.15384615384615385,48,0.5
+36,0.5,nearest,135,,0.0,PPI IIPIIVIE,0.11538461538461542,48,0.5
+36,0.5,bilinear,135,,0.0,"PPS IOPIIVIE,",0.15384615384615385,48,0.5
+36,0.5,bicubic,135,,0.0,"PPS IOPIIVIE,",0.15384615384615385,48,0.5
+0,0.5,lanczos,135,,0.0,"PBDEFCH I AINOE RS VOMIIZ,",0.34615384615384615,64,0.1
+0,0.5,nearest,135,,0.0,"PBCDEFCHINAINDE RS TOMIRIZ,",0.3846153846153846,64,0.1
+0,0.5,bilinear,135,,0.0,"PBDEFCH IAIN RS VOMIAIZ,",0.2692307692307693,64,0.1
+0,0.5,bicubic,135,,0.0,"PBDEFCH MAINE RS TOMAIZ,",0.3076923076923077,64,0.1
+16,0.5,lanczos,135,,0.0,"/AABCDEFGH SIND ORS TOV WAYZ,",0.42307692307692313,64,0.1
+16,0.5,nearest,135,,0.0,"/AABCDEFGHSMINOD ORS TOV WAYZ,",0.42307692307692313,64,0.1
+16,0.5,bilinear,135,,0.0,"/ABCDEFGHSBMINOD ORS TOV WAYZ,",0.46153846153846156,64,0.1
+16,0.5,bicubic,135,,0.0,"/ABCDEFGHSMINOD ORS TOV WAYZ,",0.46153846153846156,64,0.1
+32,0.5,lanczos,135,,0.0,ABBE GAISKMIOPORTVONSNL,0.42307692307692313,64,0.1
+32,0.5,nearest,135,,0.0,"BBCDEE SIE MNOPOR STN ING,",0.42307692307692313,64,0.1
+32,0.5,bilinear,135,,0.0,ARSE GAISKMIOPORTONSNL/,0.3846153846153846,64,0.1
+32,0.5,bicubic,135,,0.0,ABBE GAISKMIOPORT VONSNL/,0.3846153846153846,64,0.1
+48,0.5,lanczos,135,,0.0,(PELDEL HK MDOP ORS MZ.,0.2692307692307693,64,0.1
+48,0.5,nearest,135,,0.0,(PEDEDE HKLM NOPORST UML”,0.3846153846153846,64,0.1
+48,0.5,bilinear,135,,0.0,(PELOELE HK MOP ORST UM.,0.23076923076923073,64,0.1
+48,0.5,bicubic,135,,0.0,(PELOELE HK MDOP ORST UM.,0.23076923076923073,64,0.1
+0,0.5,lanczos,135,,0.0,"PLVILPSI VP PISISF,",0.11538461538461542,64,0.3
+0,0.5,nearest,135,,0.0,PYFILSPSV SIS),0.1923076923076923,64,0.3
+0,0.5,bilinear,135,,0.0,"PYVISPSIVSDPISISF,",0.11538461538461542,64,0.3
+0,0.5,bicubic,135,,0.0,"PYFIVLPSI VS PISISF,",0.11538461538461542,64,0.3
+16,0.5,lanczos,135,,0.0,PIPPI SISILVIY,0.15384615384615385,64,0.3
+16,0.5,nearest,135,,0.0,PIPPI ISILVYIN,0.11538461538461542,64,0.3
+16,0.5,bilinear,135,,0.0,PIPPI PLU,0.11538461538461542,64,0.3
+16,0.5,bicubic,135,,0.0,PIPPI ILIV,0.11538461538461542,64,0.3
+32,0.5,lanczos,135,,0.0,OLPIIVIV II VIVVSY,0.11538461538461542,64,0.3
+32,0.5,nearest,135,,0.0,OPPIIVIVIIVIVVOY,0.11538461538461542,64,0.3
+32,0.5,bilinear,135,,0.0,OPPIIVIV IIVIVVISY,0.11538461538461542,64,0.3
+32,0.5,bicubic,135,,0.0,LPI IVI IIVIVVSY,0.11538461538461542,64,0.3
+48,0.5,lanczos,135,,0.0,"VLILSSPVVLIVSIST,",0.11538461538461542,64,0.3
+48,0.5,nearest,135,,0.0,"VIFPPS PV LIVIT.,",0.11538461538461542,64,0.3
+48,0.5,bilinear,135,,0.0,"VLILPSSVVLIVIT.,",0.11538461538461542,64,0.3
+48,0.5,bicubic,135,,0.0,"VLILSSPVVLIVIT.,",0.15384615384615385,64,0.3
+0,0.5,lanczos,135,,0.0,FPVISISSSISSISS,0.11538461538461542,64,0.5
+0,0.5,nearest,135,,0.0,FPSVPISISSSISISSIS,0.07692307692307687,64,0.5
+0,0.5,bilinear,135,,0.0,FPVISISSSISSISSS,0.11538461538461542,64,0.5
+0,0.5,bicubic,135,,0.0,FPVISISSSISSSSS,0.11538461538461542,64,0.5
+16,0.5,lanczos,135,,0.0,,0.0,64,0.5
+16,0.5,nearest,135,,0.0,,0.0,64,0.5
+16,0.5,bilinear,135,,0.0,,0.0,64,0.5
+16,0.5,bicubic,135,,0.0,,0.0,64,0.5
+32,0.5,lanczos,135,,0.0,OSPSIIISSSSIIS SSS,0.07692307692307687,64,0.5
+32,0.5,nearest,135,,0.0,OSPSPISIS SSIS SSS),0.07692307692307687,64,0.5
+32,0.5,bilinear,135,,0.0,OFSSIIISSSSIIS SSS,0.11538461538461542,64,0.5
+32,0.5,bicubic,135,,0.0,OFSSSIIIS SSIS SASS,0.07692307692307687,64,0.5
+48,0.5,lanczos,135,"IP LSS IS PIKI SI SSS,",0.07692307692307687,VSIFSSVSS IIIS SSS,0.07692307692307687,64,0.5
+48,0.5,nearest,135,"IP LSS IS PIKI SI SSS,",0.07692307692307687,VSIFSSPVSS IIIS SSID,0.07692307692307687,64,0.5
+48,0.5,bilinear,135,"IP LSS IS PIKI SI SSS,",0.07692307692307687,"VSIFSSVSSSIIS SSS,",0.07692307692307687,64,0.5
+48,0.5,bicubic,135,"IP LSS IS PIKI SI SSS,",0.07692307692307687,"VSIFSSVSS IIIS SSS,",0.07692307692307687,64,0.5
+0,0.5,lanczos,135,“ ABCDEFGAIMKLMNOPORS TOVIWKYZ,0.6538461538461539,“BRED ERA RL IDA QRS DAY Wh,0.15384615384615385,96,0.1
+0,0.5,nearest,135,“ ABCDEFGAIMKLMNOPORS TOVIWKYZ,0.6538461538461539,“BEC LAL Ri mip QRSPAIWZ”,0.1923076923076923,96,0.1
+0,0.5,bilinear,135,“ ABCDEFGAIMKLMNOPORS TOVIWKYZ,0.6538461538461539,“BaD EEA RL MiP GRS PAY Wh YZ”,0.15384615384615385,96,0.1
+0,0.5,bicubic,135,“ ABCDEFGAIMKLMNOPORS TOVIWKYZ,0.6538461538461539,“BRED ERA RL MDP QRS PAY Wh YZ”,0.15384615384615385,96,0.1
+24,0.5,lanczos,135,BCBEFCHKIMINSPQARSPUWNXYZ,0.5384615384615384,PEPE MY OR ARS PU MIS.,0.11538461538461542,96,0.1
+24,0.5,nearest,135,BCBEFCHKIMINSPQARSPUWNXYZ,0.5384615384615384,PORE peiydiyahyorarsroyliys,0.0,96,0.1
+24,0.5,bilinear,135,BCBEFCHKIMINSPQARSPUWNXYZ,0.5384615384615384,PEDESYSK MOR ARSPU WISI.,0.2692307692307693,96,0.1
+24,0.5,bicubic,135,BCBEFCHKIMINSPQARSPUWNXYZ,0.5384615384615384,PEPESYSK MY OR ARSPUWISYZ,0.2692307692307693,96,0.1
+48,0.5,lanczos,135,"ABRDEFG HI KLM WOPORS UMW RZ,",0.5769230769230769,"ABgO Ere HisdypOpegst mindz,",0.07692307692307687,96,0.1
+48,0.5,nearest,135,"ABRDEFG HI KLM WOPORS UMW RZ,",0.5769230769230769,"ABgO Ere Hishipopgst mindz,",0.07692307692307687,96,0.1
+48,0.5,bilinear,135,"ABRDEFG HI KLM WOPORS UMW RZ,",0.5769230769230769,"ABgOereHisdypopagst yminelz,",0.038461538461538436,96,0.1
+48,0.5,bicubic,135,"ABRDEFG HI KLM WOPORS UMW RZ,",0.5769230769230769,"ABgOgreyHisdypopegst yminelz,",0.0,96,0.1
+72,0.5,lanczos,135,/ABC DEF GHIJKLMK OPQ RS TIWWKYZ/,0.5769230769230769,GLO EECA JACM OPORS TWA Z/,0.3076923076923077,96,0.1
+72,0.5,nearest,135,/ABC DEF GHIJKLMK OPQ RS TIWWKYZ/,0.5769230769230769,ZDLOEFGHI KLM OPORSTIWAYZ/,0.5769230769230769,96,0.1
+72,0.5,bilinear,135,/ABC DEF GHIJKLMK OPQ RS TIWWKYZ/,0.5769230769230769,ZGLOEEGHI KLM OPORS TAY Z/,0.42307692307692313,96,0.1
+72,0.5,bicubic,135,/ABC DEF GHIJKLMK OPQ RS TIWWKYZ/,0.5769230769230769,ZGCOEEGHI JACM OPORS TWA Z/,0.42307692307692313,96,0.1
+0,0.5,lanczos,135,,0.0,PEF RAS PSPS.,0.15384615384615385,96,0.3
+0,0.5,nearest,135,,0.0,PEF KAS PSLAS.,0.1923076923076923,96,0.3
+0,0.5,bilinear,135,,0.0,PEF RAS SPAS.,0.15384615384615385,96,0.3
+0,0.5,bicubic,135,,0.0,PEF RAS PSSA.,0.15384615384615385,96,0.3
+24,0.5,lanczos,135,,0.0,FPFLLALLLSSSYL,0.15384615384615385,96,0.3
+24,0.5,nearest,135,,0.0,FPFLALFLSSSY.,0.15384615384615385,96,0.3
+24,0.5,bilinear,135,,0.0,FPAFLLLFLSSSYL,0.15384615384615385,96,0.3
+24,0.5,bicubic,135,,0.0,FPFLELLLSSSYL,0.15384615384615385,96,0.3
+48,0.5,lanczos,135,ABD POMS SV WO RAR AWA Ze,0.23076923076923073,ALP PAY Pff~ ky,0.11538461538461542,96,0.3
+48,0.5,nearest,135,ABD POMS SV WO RAR AWA Ze,0.23076923076923073,ALP PA Pf f Wy,0.11538461538461542,96,0.3
+48,0.5,bilinear,135,ABD POMS SV WO RAR AWA Ze,0.23076923076923073,ALP fA Pf f~ ly,0.07692307692307687,96,0.3
+48,0.5,bicubic,135,ABD POMS SV WO RAR AWA Ze,0.23076923076923073,ALP PAPAS f~ ly,0.11538461538461542,96,0.3
+72,0.5,lanczos,135,,0.0,MKS fSPF LFS,0.07692307692307687,96,0.3
+72,0.5,nearest,135,,0.0,VFL fFPFL SKS,0.11538461538461542,96,0.3
+72,0.5,bilinear,135,,0.0,MFA fSPFV FS,0.11538461538461542,96,0.3
+72,0.5,bicubic,135,,0.0,M$ FL\ fSPFL SS,0.11538461538461542,96,0.3
+0,0.5,lanczos,135,LT GN GF SD Gig,0.11538461538461542,SPIEL GPP IS.,0.15384615384615385,96,0.5
+0,0.5,nearest,135,LT GN GF SD Gig,0.11538461538461542,SPIEL GPP IS.,0.15384615384615385,96,0.5
+0,0.5,bilinear,135,LT GN GF SD Gig,0.11538461538461542,SPIEL GPP IS.,0.15384615384615385,96,0.5
+0,0.5,bicubic,135,LT GN GF SD Gig,0.11538461538461542,SPIEL GPP IS.,0.15384615384615385,96,0.5
+24,0.5,lanczos,135,FFLELLO EC FDL SP,0.11538461538461542,"FPP IPIEI IIA,",0.07692307692307687,96,0.5
+24,0.5,nearest,135,FFLELLO EC FDL SP,0.11538461538461542,"FPIFLLIOII IA,",0.15384615384615385,96,0.5
+24,0.5,bilinear,135,FFLELLO EC FDL SP,0.11538461538461542,"FPIFLIOI IIA,",0.15384615384615385,96,0.5
+24,0.5,bicubic,135,FFLELLO EC FDL SP,0.11538461538461542,"FPLIIPIEI IIA,",0.11538461538461542,96,0.5
+48,0.5,lanczos,135,ES SESS SS SES L,0.07692307692307687,OCPLIPDOIAPD IS 4,0.11538461538461542,96,0.5
+48,0.5,nearest,135,ES SESS SS SES L,0.07692307692307687,CIID OIPSD IS 4,0.15384615384615385,96,0.5
+48,0.5,bilinear,135,ES SESS SS SES L,0.07692307692307687,OCPLIPDOIAPD IS 4,0.11538461538461542,96,0.5
+48,0.5,bicubic,135,ES SESS SS SES L,0.07692307692307687,CIID OIAPD IS 4,0.11538461538461542,96,0.5
+72,0.5,lanczos,135,\ I Ue ODO LG,0.07692307692307687,ILI LDI ILI IID,0.07692307692307687,96,0.5
+72,0.5,nearest,135,\ I Ue ODO LG,0.07692307692307687,ILI DI ILI IID,0.07692307692307687,96,0.5
+72,0.5,bilinear,135,\ I Ue ODO LG,0.07692307692307687,OL FDI ILI IID,0.11538461538461542,96,0.5
+72,0.5,bicubic,135,\ I Ue ODO LG,0.07692307692307687,ILI LDI ILI IID,0.07692307692307687,96,0.5

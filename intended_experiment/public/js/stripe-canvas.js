@@ -5,7 +5,7 @@ function getStripeCanvasHTML({width=200, height=60, canvas_id=""}) {
 }
 
 // ストライプ＋テキストをCanvasに描画する共通関数
-function drawStripeCanvas({period, duty, angle, text, font_size, canvas_id, width=200, height=60}) {
+function drawStripeCanvas({period, duty, angle, text, font_size, canvas_id, stripe_color = 200, width=200, height=60}) {
     const canvas = document.getElementById(canvas_id);
     if (!canvas) return;
 
@@ -25,13 +25,13 @@ function drawStripeCanvas({period, duty, angle, text, font_size, canvas_id, widt
     
     // 4. 描画コンテキスト全体をスケールし、くっきりと描画させる
     ctx.scale(dpr, dpr);
-    // --- ここまでが改善点 ---
+
 
     // 以降の描画処理は論理ピクセルサイズ(width, height)を基準に行う
     ctx.clearRect(0, 0, width, height);
 
     // テキストを描画
-    ctx.font = `${font_size}px sans-serif`;
+    ctx.font = `${font_size}px 'NotoSans', sans-serif`;
     ctx.fillStyle = '#000';
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
@@ -49,7 +49,7 @@ function drawStripeCanvas({period, duty, angle, text, font_size, canvas_id, widt
     stripeCanvas.height = period;
     const sctx = stripeCanvas.getContext('2d');
     sctx.clearRect(0, 0, period, period);
-    sctx.fillStyle = 'rgba(200,200,200,1)';
+    sctx.fillStyle = `rgba(${stripe_color},${stripe_color},${stripe_color},1)`;
     sctx.fillRect(0, 0, period * duty, period);
 
     // 2. ストライプ矩形のみクリッピングしてストライプを重ねる
