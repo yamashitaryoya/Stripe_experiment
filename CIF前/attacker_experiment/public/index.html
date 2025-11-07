@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>可読性評価実験</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="css/jspsych.css" rel="stylesheet" type="text/css" />
+    
+    <script src="js/jspsych.js"></script>
+    <script src="js/plugins/plugin-html-keyboard-response.js"></script>
+    <script src="js/plugins/plugin-survey-text.js"></script>
+    <script src="js/plugins/plugin-html-button-response.js"></script>
+    <script src="js/stripe-canvas.js"></script>
+    <script src="js/save-data.js"></script> 
+
+    <style>
+        body {
+            font-size: 18px;
+            -webkit-text-size-adjust: 100%; 
+        }
+        .jspsych-display-element {
+            width: 95%;
+            max-width: 800px;
+            margin: auto;
+        }
+        .jspsych-display-element img {
+            max-width: 100%;
+            height: auto;
+        }
+        .jspsych-html-keyboard-response-stimulus p,
+        .jspsych-survey-text-question p {
+            line-height: 1.6; 
+        }
+        h2 {
+            font-size: 1.5em;
+        }
+        .jspsych-survey-text-question input[type="text"] {
+            width: 90%;
+            padding: 15px; /* タッチしやすいように余白を確保 */
+            font-size: 16px; /* iOSで入力時に自動ズームされるのを防ぐ */
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+        .jspsych-btn {
+            padding: 15px 25px; /* ボタンを大きくする */
+            font-size: 1rem;
+            margin-top: 15px;
+            border-radius: 8px;
+        }
+        /* 画面が特に小さいデバイス用の調整 */
+        @media (max-width: 400px) {
+            body {
+                font-size: 16px;
+            }
+            h2 {
+                font-size: 1.3em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="jspsych-target"></div>
+
+    <script src="js/experiment.js"></script>
+</body>
+</html>
