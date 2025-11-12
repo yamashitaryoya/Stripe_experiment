@@ -234,7 +234,6 @@ timeline.push(practice_trials);
 
 // 本番実験で使うパラメータ
 const test_stripe_parameters = [
-    /*
     { scale: '', period: 4, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
     { scale: '', period: 4, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
     { scale: '', period: 4, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
@@ -276,7 +275,6 @@ const test_stripe_parameters = [
     { scale: '', period: 7, line_width: 3, angle: 135, text: '', font_size: 16, stripe_color: 128 },
     { scale: '', period: 8, line_width: 1, angle: 135, text: '', font_size: 16, stripe_color: 128 },
     { scale: '', period: 8, line_width: 2, angle: 135, text: '', font_size: 16, stripe_color: 128 },
-     */
     { scale: '', period: 8, line_width: 3, angle: 135, text: '', font_size: 16, stripe_color: 128 },
 ];
 
