@@ -50,6 +50,7 @@ def save_data():
         'time', 
         'scale',
         'period', 
+        'line_width',
         'duty',
         'angle',
         'font_size',

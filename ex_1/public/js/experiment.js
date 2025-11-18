@@ -2,7 +2,7 @@
 const jsPsych = initJsPsych({
     on_finish: function() {
         saveData(jsPsych.data.get().json());
-        jsPsych.getDisplayElement().innerHTML = '<h2>実験は以上です</h2><hr><h2>ご協力ありがとうございました。</h2>';
+        jsPsych.getDisplayElement().innerHTML = '<h2>実験は以上です</h2><hr><h2>ご協力ありがとうございます</h2>';
     }
 });
 
@@ -30,39 +30,10 @@ function shuffle(array) {
 // タイムライン配列
 let timeline = [];
 
-// 同意確認のセッション
-const consent_trial = {
-    type: jsPsychHtmlKeyboardResponse,
-    stimulus: `
-        <h2>研究へのご協力のお願い</h2>
 
-        <hr>
-            
-        <h3>研究の目的</h3>
-        <p>特定条件下における文字列の可読性の評価</p>
-
-        <hr>
-            
-        <h3>取得するデータとプライバシーの保護</h3>
-        <p>本実験では以下の情報を取得します：</p>
-        <ul>
-            <li>各課題におけるあなたの回答内容</li>
-            <li>各課題におけるあなたの反応時間</li>
-        </ul>
-        <p>
-            収集されたデータは厳重に管理し<br>統計的な処理にのみ利用します<br><br>
-            結果を公表する際には<br>個人が特定できる形で公開することはありません
-        </p>
-        <hr>
-
-        <p><br>Enterキーでお進みください</p>
-    `,
-    choices: ['Enter', 'NumpadEnter'], // Enterキーで進行
-    post_trial_gap: 500,
-};
-timeline.push(consent_trial);
-
-
+// -------------------------------------------------
+// 参加者IDの入力
+// -------------------------------------------------
 
 // 参加者IDの入力セッション
 const participant_id_trial = {
@@ -113,6 +84,10 @@ const participant_id_trial = {
 timeline.push(participant_id_trial);
 
 
+// -------------------------------------------------
+// 実験の教示
+// -------------------------------------------------
+
 
 // 実験開始前の教示画面
 const instructions = {
@@ -120,7 +95,7 @@ const instructions = {
     stimulus: `
         <h2>実験の手順</h2>
         <hr>
-        <p>画面に表示される6桁の数字を読み取り<br>キーボードで入力してください</p>
+        <p>画面に表示される4桁の数字を読み取り<br>キーボードで入力してください</p>
         <p>Enterキーで確定されます</>
         <p>時間を計測していますので入力後は<br>すみやかにEnterキーを押してください</p>
         <p>判読が困難な場合は無理に入力せず<br><b>読み取れた部分</b>または<b>無記入のまま</b><br>送信してください</p>
@@ -388,7 +363,6 @@ const trial_1 = {
     randomize_order: false
 };
 timeline.push(trial_1);
-
 
 
 // -------------------------------------------------
