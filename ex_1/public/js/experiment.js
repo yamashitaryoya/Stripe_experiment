@@ -2,7 +2,7 @@
 const jsPsych = initJsPsych({
     on_finish: function() {
         saveData(jsPsych.data.get().json());
-        jsPsych.getDisplayElement().innerHTML = '<h2>実験は以上です</h2><hr><h2>ご協力ありがとうございます</h2>';
+        jsPsych.getDisplayElement().innerHTML = '<h2>実験は以上です</h2><hr><h2>ありがとうございました</h2>';
     }
 });
 
@@ -20,7 +20,6 @@ function shuffle(array) {
     }
     return arr;
 }
-
 
 
 // -------------------------------------------------
@@ -209,9 +208,9 @@ timeline.push(practice_trials);
 
 // 本番実験で使うパラメータ
 const test_stripe_parameters = [
-    { scale: '', period: 4, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
-    { scale: '', period: 4, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
-    { scale: '', period: 4, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
+    { scale: '', period: 1, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
+    { scale: '', period: 1, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
+    { scale: '', period: 1, line_width: 0, angle: 0, text: '', font_size: 16, stripe_color: 128 },
     { scale: '', period: 6, line_width: 1, angle: 45, text: '', font_size: 16, stripe_color: 128 },
     { scale: '', period: 6, line_width: 2, angle: 45, text: '', font_size: 16, stripe_color: 128 },
     { scale: '', period: 6, line_width: 3, angle: 45, text: '', font_size: 16, stripe_color: 128 },
