@@ -15,6 +15,17 @@ for file_name in csv_files:
     # CSVファイルを読み込む
     df = pd.read_csv(file_path, dtype={'text': str, 'input_text': str})
     
+    #ミスったパラメータを消す
+    for angle, period, width in df[['angle', 'period', 'line_width']].itertuples(index=False):
+        if angle == 45 and period == 6 and width == 1:
+            df.drop(df[(df['angle'] == angle) & (df['period'] == period) & (df['line_width'] == width)].index, inplace=True)
+        elif angle == 45 and period == 6 and width == 3:
+            df.drop(df[(df['angle'] == angle) & (df['period'] == period) & (df['line_width'] == width)].index, inplace=True)
+        #widthが0のとき変更
+        elif width == 0:
+            df.loc[(df['angle'] == angle) & (df['period'] == period) & (df['line_width'] == width), 'line_width'] = 0
+            df.loc[(df['angle'] == angle) & (df['period'] == period) & (df['line_width'] == width), 'period'] = 0
+    
     # 必要な列が存在するか確認
     if 'text' in df.columns and 'input_text' in df.columns:
         # Levenshtein距離に基づいて精度を計算
