@@ -13,7 +13,7 @@ for file_name in csv_files:
     file_path = os.path.join(data_folder, file_name)
     
     # CSVファイルを読み込む
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(file_path, dtype={'text': str, 'input_text': str})
     
     # 必要な列が存在するか確認
     if 'text' in df.columns and 'input_text' in df.columns:
