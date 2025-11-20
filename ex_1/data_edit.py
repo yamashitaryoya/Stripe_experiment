@@ -29,7 +29,7 @@ for file_name in csv_files:
         
         df['TorF'] = df['accuracy'].apply(lambda x: 'T' if x == 1.0 else 'F')
         
-        # 加工後のデータを同じファイルに保存
+        # 加工後のデータをedit_dataに保存
         df.to_csv(f"ex_1/edit_data/edit_{file_name}", index=False, encoding='utf-8-sig')
         print(f"Processed and updated: {file_name}")
     else:
