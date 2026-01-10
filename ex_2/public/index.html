@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>実験</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="css/jspsych.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <script src="js/jspsych.js"></script>
+    <script src="js/plugins/plugin-html-keyboard-response.js"></script>
+    <script src="js/plugins/plugin-survey-text.js"></script>
+    <script src="js/plugins/plugin-html-button-response.js"></script>
+    <script src="js/stripe-canvas.js"></script>
+    <script src="js/save-data.js"></script> 
+
+    <style>
+        body {
+            font-size: 18px;
+            -webkit-text-size-adjust: 100%; 
+        }
+        .jspsych-display-element {
+            width: 95%;
+            max-width: 800px;
+            margin: auto;
+        }
+        .jspsych-display-element img {
+            max-width: 100%;
+            height: auto;
+        }
+        .jspsych-html-keyboard-response-stimulus p,
+        .jspsych-survey-text-question p {
+            line-height: 1.6; 
+        }
+        h2 {
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <div id="jspsych-target"></div>
+
+    <script src="js/experiment.js"></script>
+</body>
+</html>

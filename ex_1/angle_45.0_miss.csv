@@ -1,0 +1,11 @@
+angle,miss,count
+45.0,replace: 5 -> 6,8
+45.0,replace: 0 -> 6,6
+45.0,replace: 0 -> 8,6
+45.0,replace: 0 -> 9,6
+45.0,replace: 3 -> 2,6
+45.0,replace: 9 -> 5,6
+45.0,replace: 8 -> 9,5
+45.0,replace: 6 -> 5,4
+45.0,replace: 8 -> 2,4
+45.0,replace: 8 -> 5,4
